@@ -1,0 +1,393 @@
+no partido,jugador,tiempo,extra,tipo de gol,seleccion
+110,abdelmoumene djabou,38,,,ALG
+110,islam slimani,26,,,ALG
+111,islam slimani,60,,,ALG
+110,rafik halliche,28,,,ALG
+107,sofiane feghouli,25,,,ALG
+110,yacine brahimi,62,,,ALG
+5,salem al-dawsari,90,5,,ARA
+5,salman al-faraj,45,6,,ARA
+49,angel di maria,41,,,ARG
+119,angel di maria,118,,,ARG
+180,carlos tevez,26,,,ARG
+180,carlos tevez,52,,,ARG
+136,gabriel heinze,6,,,ARG
+49,gabriel mercado,48,,,ARG
+123,gonzalo higuain,8,,,ARG
+137,gonzalo higuain,33,,,ARG
+137,gonzalo higuain,76,,,ARG
+137,gonzalo higuain,80,,,ARG
+180,gonzalo higuain,33,,,ARG
+24,lionel messi,14,,,ARG
+95,lionel messi,65,,,ARG
+97,lionel messi,90,1,,ARG
+100,lionel messi,3,,,ARG
+100,lionel messi,45,1,,ARG
+24,marcos rojo,86,,,ARG
+100,marcos rojo,50,,,ARG
+139,martin demichelis,77,,,ARG
+139,martin palermo,89,,,ARG
+19,sergio aguero,19,,,ARG
+49,sergio aguero,90,32,,ARG
+150,brett holman,11,,,AUS
+151,brett holman,73,,,AUS
+13,mile jedinak,62,,,AUS
+15,mile jedinak,38,,,AUS
+73,mile jedinak,54,,,AUS
+41,adnan januzaj,51,,,BEL
+109,divock origi,88,,,BEL
+37,dries mertens,47,,,BEL
+107,dries mertens,80,,,BEL
+39,eden hazard,6,,,BEL
+39,eden hazard,51,,,BEL
+63,eden hazard,82,,,BEL
+54,jan vertonghen,69,,,BEL
+112,jan vertonghen,78,,,BEL
+58,kevin de bruyne,31,,,BEL
+120,kevin de bruyne,93,,,BEL
+39,michy batshuayi,90,,,BEL
+54,nacer chadli,90,4,,BEL
+37,romelu lukaku,69,,,BEL
+37,romelu lukaku,75,,,BEL
+39,romelu lukaku,16,,,BEL
+39,romelu lukaku,45,3,,BEL
+120,romelu lukaku,105,,,BEL
+63,thomas meunier,4,,,BEL
+113,david luiz,18,,,BRA
+122,david luiz,69,,,BRA
+166,elano,72,,,BRA
+167,elano,62,,,BRA
+58,fernandinho,13,,AG,BRA
+69,fernandinho,84,,,BRA
+69,fred,49,,,BRA
+182,juan,35,,,BRA
+167,luis fabiano,25,,,BRA
+167,luis fabiano,50,,,BRA
+182,luis fabiano,38,,,BRA
+166,maicon,25,,,BRA
+65,marcelo,11,,AG,BRA
+27,neymar jr,90,7,,BRA
+53,neymar jr,51,,,BRA
+65,neymar jr,29,,,BRA
+65,neymar jr,71,,,BRA
+69,neymar jr,17,,,BRA
+69,neymar jr,34,,,BRA
+65,oscar,90,1,,BRA
+125,oscar,90,,,BRA
+29,paulinho,36,,,BRA
+26,philippe coutinho,20,,,BRA
+27,philippe coutinho,90,1,,BRA
+53,roberto firmino,88,,,BRA
+182,robinho,59,,,BRA
+185,robinho,10,,,BRA
+29,thiago silva,68,,,BRA
+122,thiago silva,7,,,BRA
+69,joel matip,26,,,CAM
+72,alexis sanchez,12,,,CHI
+113,alexis sanchez,32,,,CHI
+74,charles aranguiz,43,,,CHI
+74,eduardo vargas,20,,,CHI
+72,jean beausejour,90,2,,CHI
+171,jean beausejour,34,,,CHI
+72,jorge valdivia,14,,,CHI
+173,mark gonzalez,75,,,CHI
+175,rodrigo millar,47,,,CHI
+82,jackson martinez,55,,,COL
+82,jackson martinez,82,,,COL
+46,juan guillermo cuadrado,75,,,COL
+82,juan guillermo cuadrado,17,,,COL
+77,pablo armero,5,,,COL
+46,radamel falcao,70,,,COL
+77,teofilo gutierrez,58,,,COL
+46,yerry mina,40,,,COL
+48,yerry mina,74,,,COL
+56,yerry mina,90,3,,COL
+86,bryan ruiz,44,,,CRC
+116,bryan ruiz,52,,,CRC
+83,joel campbell,54,,,CRC
+30,kendall waston,56,,,CRC
+83,marco ureña,84,,,CRC
+83,oscar duarte,57,,,CRC
+60,domagoj vida,101,,,CRO
+23,milan badelj,53,,,CRO
+15,christian eriksen,7,,,DEN
+153,daniel agger,46,,AG,DEN
+156,dennis rommedahl,61,,,DEN
+158,jon dahl tomasson,81,,,DEN
+156,nicklas bendtner,33,,,DEN
+14,yussuf poulsen,59,,,DEN
+89,enner valencia,22,,,ECU
+92,enner valencia,34,,,ECU
+92,enner valencia,65,,,ECU
+3,ahmed fathy,47,,AG,EGT
+3,mohamed salah,73,,,EGT
+5,mohamed salah,22,,,EGT
+84,daniel sturridge,37,,,ENG
+59,dele alli,59,,,ENG
+38,harry kane,11,,,ENG
+38,harry kane,90,1,,ENG
+40,harry kane,22,,,ENG
+40,harry kane,45,1,,ENG
+40,harry kane,62,,,ENG
+56,harry kane,57,,,ENG
+59,harry maguire,30,,,ENG
+145,jermain defoe,23,,,ENG
+40,jesse lingard,36,,,ENG
+40,john stones,8,,,ENG
+40,john stones,40,,,ENG
+62,kieran trippier,5,,,ENG
+141,steven gerrard,4,,,ENG
+85,wayne rooney,75,,,ENG
+13,antoine griezmann,58,,,FRA
+49,antoine griezmann,13,,,FRA
+57,antoine griezmann,61,,,FRA
+64,antoine griezmann,38,,,FRA
+49,benjamin pavard,57,,,FRA
+91,blaise matuidi,18,,,FRA
+133,florent malouda,70,,,FRA
+90,karim benzema,45,,,FRA
+90,karim benzema,72,,,FRA
+91,karim benzema,67,,,FRA
+16,kylian mbappe,34,,,FRA
+49,kylian mbappe,64,,,FRA
+49,kylian mbappe,68,,,FRA
+64,kylian mbappe,65,,,FRA
+91,mathieu valbuena,40,,,FRA
+91,moussa sissoko,73,,,FRA
+91,olivier giroud,17,,,FRA
+64,paul pogba,59,,,FRA
+118,paul pogba,79,,,FRA
+61,samuel umtiti,51,,,FRA
+117,andre schurrle,92,,,GER
+125,andre schurrle,69,,,GER
+125,andre schurrle,79,,,GER
+148,cacau,70,,,GER
+148,lukas podolski,8,,,GER
+179,lukas podolski,32,,,GER
+191,marcell jansen,56,,,GER
+34,marco reus,48,,,GER
+103,mario gotze,51,,,GER
+128,mario gotze,113,,,GER
+101,mats hummels,32,,,GER
+121,mats hummels,13,,,GER
+117,mesut ozil,120,2,,GER
+152,mesut ozil,60,,,GER
+103,miroslav klose,71,,,GER
+125,miroslav klose,23,,,GER
+148,miroslav klose,26,,,GER
+179,miroslav klose,20,,,GER
+187,miroslav klose,68,,,GER
+187,miroslav klose,89,,,GER
+125,sami khedira,29,,,GER
+191,sami khedira,82,,,GER
+101,thomas muller,12,,,GER
+101,thomas muller,45,1,,GER
+101,thomas muller,78,,,GER
+106,thomas muller,55,,,GER
+125,thomas muller,11,,,GER
+148,thomas muller,68,,,GER
+179,thomas muller,67,,,GER
+179,thomas muller,70,,,GER
+187,thomas muller,3,,,GER
+191,thomas muller,19,,,GER
+34,toni kroos,90,5,,GER
+125,toni kroos,24,,,GER
+125,toni kroos,26,,,GER
+102,andre ayew,82,,,GHA
+103,andre ayew,54,,,GHA
+103,asamoah gyan,63,,,GHA
+105,asamoah gyan,57,,,GHA
+147,asamoah gyan,85,,,GHA
+150,asamoah gyan,25,,,GHA
+178,asamoah gyan,93,,,GHA
+105,john boye,31,,ag,GHA
+178,kevin prince boateng,5,,,GHA
+81,andreas samaris,42,,,GRE
+81,georgios samaras,90,3,,GRE
+116,sokratis papastathopoulos,90,1,,GRE
+92,carlo costly,31,,,HON
+90,noel valladares,48,,AG,HON
+99,reza ghoochannejhad,82,,,IRA
+164,antonio di natale,81,,,ITA
+84,claudio marchisio,35,,,ITA
+159,daniele de rossi,63,,,ITA
+164,fabio quagliarella,90,2,,ITA
+84,mario balotelli,50,,,ITA
+167,didier drogba,79,,,IVC
+78,gervinho,66,,,IVC
+79,gervinho,73,,,IVC
+169,romaric,20,,,IVC
+169,salomon kalou,82,,,IVC
+78,wilfried bony,64,,,IVC
+81,wilfried bony,74,,,IVC
+169,yaya toure,14,,,IVC
+54,genki haraguchi,48,,,JAP
+45,keisuke honda,78,,,JAP
+78,keisuke honda,16,,,JAP
+154,keisuke honda,39,,,JAP
+158,keisuke honda,17,,,JAP
+43,shinji kagawa,6,,,JAP
+82,shinji okazaki,45,1,,JAP
+158,shinji okazaki,87,,,JAP
+45,takashi inui,34,,,JAP
+54,takashi inui,52,,,JAP
+158,yasuhito endo,30,,,JAP
+43,yuya osako,73,,,JAP
+12,khalid boutaib,14,,,MAR
+12,youssef en-nesyri,81,,,MAR
+70,andres guardado,75,,,MEX
+33,carlos vela,26,,,MEX
+35,edson alvarez,74,,AG,MEX
+115,giovani dos santos,48,,,MEX
+31,hirving lozano,35,,,MEX
+33,javier hernandez,66,,,MEX
+70,javier hernandez,82,,,MEX
+132,javier hernandez,64,,,MEX
+180,javier hernandez,71,,,MEX
+66,oribe peralta,61,,,MEX
+70,rafael marquez,72,,,MEX
+129,rafael marquez,79,,,MEX
+71,arjen robben,53,,,NED
+71,arjen robben,80,,,NED
+73,arjen robben,20,,,NED
+181,arjen robben,18,,,NED
+189,arjen robben,73,,,NED
+127,daley blind,17,,,NED
+153,dirk kuyt,85,,,NED
+127,georginio wijnaldum,90,1,,NED
+189,giovanni van bronckhorst,18,,,NED
+76,leroy fer,77,,,NED
+73,memphis depay,68,,,NED
+76,memphis depay,90,,,NED
+71,robin van persie,44,,,NED
+71,robin van persie,72,,,NED
+73,robin van persie,58,,,NED
+127,robin van persie,3,,,NED
+157,robin van persie,36,,,NED
+71,stefan de vrij,65,,,NED
+115,wesley sneijder,88,,,NED
+155,wesley sneijder,53,,,NED
+181,wesley sneijder,84,,,NED
+185,wesley sneijder,53,,,NED
+185,wesley sneijder,68,,,NED
+189,wesley sneijder,70,,,NED
+22,ahmed musa,49,,,NGR
+22,ahmed musa,75,,,NGR
+100,ahmed musa,4,,,NGR
+100,ahmed musa,47,,,NGR
+118,joseph yobo,90,2,AG,NGR
+138,kalu uche,16,,,NGR
+140,kalu uche,12,,,NGR
+20,oghenekaro etebo,32,,AG,NGR
+98,peter odemwingie,29,,,NGR
+24,victor moses,51,,,NGR
+140,yakubu aiyegbeni,69,,,NGR
+162,shane smeltz,7,,,NZL
+160,winston reid,90,3,,NZL
+159,antolin alcaraz,39,,,PAR
+161,cristian riveros,86,,,PAR
+161,enrique vera,27,,,PAR
+17,andre carrillo,18,,,PER
+17,paolo guerrero,50,,,PER
+44,grzegorz krychowiak,86,,,POL
+47,jan bednarek,59,,,POL
+8,cristiano ronaldo,4,,,POR
+8,cristiano ronaldo,44,,,POR
+8,cristiano ronaldo,88,,,POR
+9,cristiano ronaldo,4,,,POR
+105,cristiano ronaldo,80,,,POR
+168,cristiano ronaldo,87,,,POR
+168,hugo almeida,56,,,POR
+168,liedson,81,,,POR
+104,nani,5,,,POR
+50,pepe,55,,,POR
+168,raul meireles,29,,,POR
+11,ricardo quaresma,45,,,POR
+104,silvestre varela,90,5,,POR
+168,tiago,60,,,POR
+168,tiago,89,,,POR
+1,aleksandr golovin,90,4,,RUS
+1,denis cheryshev,43,,,RUS
+1,denis cheryshev,90,1,,RUS
+3,denis cheryshev,59,,,RUS
+6,denis cheryshev,23,,AG,RUS
+60,denis cheryshev,31,,,RUS
+44,m'baye niang,60,,,SEN
+45,moussa wague,71,,,SEN
+45,sadio mane,11,,,SEN
+164,kamil kopunek,89,,,SLK
+160,robert vittek,50,,,SLK
+164,robert vittek,25,,,SLK
+164,robert vittek,73,,,SLK
+181,robert vittek,90,4,,SLK
+142,robert koren,79,,,SLN
+143,valter birsa,13,,,SLN
+133,bongani khumalo,20,,,SOA
+133,katlego mphela,37,,,SOA
+129,siphiwe tshabalala,55,,,SOA
+175,andres iniesta,37,,,SPA
+192,andres iniesta,116,,,SPA
+190,carles puyol,73,,,SPA
+75,david villa,36,,,SPA
+174,david villa,17,,,SPA
+174,david villa,51,,,SPA
+175,david villa,24,,,SPA
+184,david villa,63,,,SPA
+188,david villa,83,,,SPA
+8,diego costa,24,,,SPA
+8,diego costa,55,,,SPA
+10,diego costa,54,,,SPA
+75,fernando torres,69,,,SPA
+12,iago aspas,90,1,,SPA
+12,isco,19,,,SPA
+75,juan mata,82,,,SPA
+71,xabi alonso,27,,,SPA
+25,aleksandar kolarov,56,,,SRB
+32,andreas granqvist,65,,,SUE
+35,andreas granqvist,62,,,SUE
+35,ludwig augustinsson,50,,,SUE
+34,ola toivonen,32,,,SUE
+89,admir mehmedi,48,,,SWZ
+172,gelson fernandes,52,,,SWZ
+28,granit xhaka,52,,,SWZ
+91,granit xhaka,87,,,SWZ
+26,steven zuber,50,,,SWZ
+28,xherdan shaqiri,90,,,SWZ
+94,xherdan shaqiri,6,,,SWZ
+94,xherdan shaqiri,31,,,SWZ
+94,xherdan shaqiri,71,,,SWZ
+30,yann sommer,90,3,,SWZ
+39,dylan bronn,18,,,TNZ
+42,fakhreddine ben youssef,51,,,TNZ
+39,wahbi khazri,90,3,,TNZ
+42,wahbi khazri,66,,,TNZ
+42,yassine meriah,33,,AG,TNZ
+131,alvaro pereira,90,5,,URU
+131,diego forlan,24,,,URU
+131,diego forlan,80,,,URU
+189,diego forlan,41,,,URU
+191,diego forlan,51,,,URU
+88,diego godin,81,,,URU
+6,edinson cavani,90,,,URU
+50,edinson cavani,7,,,URU
+50,edinson cavani,62,,,URU
+83,edinson cavani,24,,,URU
+191,edinson cavani,28,,,URU
+2,jose maria gimenez,89,,,URU
+4,luis suarez,23,,,URU
+6,luis suarez,10,,,URU
+85,luis suarez,39,,,URU
+85,luis suarez,85,,,URU
+134,luis suarez,43,,,URU
+177,luis suarez,8,,,URU
+177,luis suarez,80,,,URU
+189,maximiliano pereira,90,2,,URU
+102,clint dempsey,1,,,USA
+104,clint dempsey,81,,,USA
+141,clint dempsey,40,,,USA
+104,jermaine jones,64,,,USA
+120,julian green,107,,,USA
+143,landon donovan,48,,,USA
+146,landon donovan,90,1,,USA
+178,landon donovan,62,,,USA
+143,michael bradley,82,,,USA

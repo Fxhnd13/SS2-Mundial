@@ -153,7 +153,7 @@
 2,lucas neill,AUS,152
 8,luke wilkshire,AUS,153
 23,mark bresciano,AUS,154
-5,mark milligan,AUS,155
+20,mark milligan,AUS,155
 1,mark schwarzer,AUS,156
 8,massimo luongo,AUS,157
 7,mathew leckie,AUS,158
@@ -178,7 +178,7 @@
 12,tommy oar,AUS,177
 20,trent sainsbury,AUS,178
 13,vince grella,AUS,179
-20,adnan januzaj,BEL,180
+18,adnan januzaj,BEL,180
 21,anthony vanden borre,BEL,181
 6,axel witsel,BEL,182
 15,daniel van buyten,BEL,183
@@ -327,8 +327,8 @@
 9,samuel eto'o,CAM,326
 5,sebastien bassong,CAM,327
 16,souleymanou hamidou,CAM,328
-17,stephane mbia,CAM,329
-10,vincent aboubakar,CAM,330
+19,stephane mbia,CAM,329
+23,vincent aboubakar,CAM,330
 24,volker finke,CAM,331
 7,alexis sanchez,CHI,332
 8,arturo vidal,CHI,333
@@ -339,7 +339,7 @@
 11,eduardo vargas,CHI,338
 22,esteban paredes,CHI,339
 2,eugenio mena,CHI,340
-16,fabian orellana,CHI,341
+14,fabian orellana,CHI,341
 16,felipe gutierrez,CHI,342
 5,francisco silva,CHI,343
 17,gary medel,CHI,344
@@ -440,7 +440,7 @@
 12,waylon francis,CRC,439
 17,yeltsin tejeda,CRC,440
 9,andrej kramarić,CRO,441
-18,ante rebić,CRO,442
+16,ante rebić,CRO,442
 3,danijel pranjić,CRO,443
 23,danijel subašić,CRO,444
 11,darijo srna,CRO,445
@@ -458,11 +458,11 @@
 22,josip pivarić,CRO,457
 12,lovre kalinić,CRO,458
 10,luka modrić,CRO,459
-11,marcelo brozović,CRO,460
+14,marcelo brozović,CRO,460
 17,mario mandžukić,CRO,461
 20,marko pjaca,CRO,462
-8,mateo kovačić,CRO,463
-19,milan badelj,CRO,464
+20,mateo kovačić,CRO,463
+15,milan badelj,CRO,464
 9,nikica jelavić,CRO,465
 24,niko kovač,CRO,466
 16,nikola kalinić,CRO,467
@@ -630,13 +630,13 @@
 22,trent alexander-arnold,ENG,629
 10,wayne rooney,ENG,630
 19,abou diaby,FRA,631
-17,adil rami,FRA,632
+13,adil rami,FRA,632
 18,alou diarra,FRA,633
 23,alphonse areola,FRA,634
 11,andre-pierre gignac,FRA,635
 4,anthony reveillère,FRA,636
-7,antoine griezmann,FRA,637
-2,bacary sagna,FRA,638
+11,antoine griezmann,FRA,637
+15,bacary sagna,FRA,638
 22,benjamin mendy,FRA,639
 2,benjamin pavard,FRA,640
 14,blaise matuidi,FRA,641
@@ -671,8 +671,8 @@
 21,nicolas anelka,FRA,670
 9,olivier giroud,FRA,671
 11,ousmane dembele,FRA,672
-13,patrice evra,FRA,673
-6,paul pogba,FRA,674
+3,patrice evra,FRA,673
+19,paul pogba,FRA,674
 3,presnel kimpembe,FRA,675
 4,raphael varane,FRA,676
 24,raymond domenech,FRA,677
@@ -686,7 +686,7 @@
 12,thierry henry,FRA,685
 8,thomas lemar,FRA,686
 5,william gallas,FRA,687
-8,yoann gourcuff,FRA,688
+12,yoann gourcuff,FRA,688
 6,yohan cabaye,FRA,689
 9,andre schurrle,GER,690
 16,antonio rudiger,GER,691
@@ -705,7 +705,7 @@
 3,jonas hector,GER,704
 18,joshua kimmich,GER,705
 20,julian brandt,GER,706
-14,julian draxler,GER,707
+7,julian draxler,GER,707
 2,kevin großkreutz,GER,708
 12,kevin trapp,GER,709
 14,leon goretzka,GER,710
@@ -719,7 +719,7 @@
 21,marko marin,GER,718
 2,marvin plattenhardt,GER,719
 5,mats hummels,GER,720
-3,matthias ginter,GER,721
+4,matthias ginter,GER,721
 8,mesut ozil,GER,722
 11,miroslav klose,GER,723
 15,niklas sule,GER,724
@@ -741,7 +741,7 @@
 6,afriyie acquah,GHA,740
 24,akwasi appiah,GHA,741
 14,albert adomah,GHA,742
-13,andre ayew,GHA,743
+10,andre ayew,GHA,743
 6,anthony annan,GHA,744
 3,asamoah gyan,GHA,745
 7,christian atsu,GHA,746
@@ -758,10 +758,10 @@
 21,john boye,GHA,757
 5,john mensah,GHA,758
 4,john pantsil,GHA,759
-8,jonathan mensah,GHA,760
+19,jonathan mensah,GHA,760
 13,jordan ayew,GHA,761
-23,kevin prince boateng,GHA,762
-21,kwadwo asamoah,GHA,763
+9,kevin prince boateng,GHA,762
+20,kwadwo asamoah,GHA,763
 19,lee addy,GHA,764
 18,majeed waris,GHA,765
 14,matthew amoah,GHA,766
@@ -772,7 +772,7 @@
 20,quincy owusu-abeyie,GHA,771
 15,rashid sumaila,GHA,772
 22,richard kingson,GHA,773
-7,samuel inkoom,GHA,774
+2,samuel inkoom,GHA,774
 16,stephen ahorlu,GHA,775
 10,stephen appiah,GHA,776
 1,steven adams,GHA,777
@@ -829,7 +829,7 @@
 22,donis escober,HON,828
 12,edder delgado,HON,829
 17,edgard alvarez,HON,830
-7,emilio izaguirre,HON,831
+21,emilio izaguirre,HON,831
 12,georgie welcome,HON,832
 6,hendry thomas,HON,833
 11,jerry bengtson,HON,834
@@ -852,7 +852,7 @@
 7,ramon nuñez,HON,851
 24,reynaldo rueda,HON,852
 1,ricardo canales,HON,853
-15,roger espinoza,HON,854
+13,roger espinoza,HON,854
 16,rony martinez,HON,855
 23,sergio mendoza,HON,856
 5,victor bernardez,HON,857
@@ -861,7 +861,7 @@
 17,ahmad alenemeh,IRA,860
 1,alireza beiranvand,IRA,861
 12,alireza haghighi,IRA,862
-18,alireza jahanbakhsh,IRA,863
+9,alireza jahanbakhsh,IRA,863
 22,amir abedzadeh,IRA,864
 5,amir hossein sadeghi,IRA,865
 14,andranik teymourian,IRA,866
@@ -1117,10 +1117,10 @@
 5,erick gutierrez,MEX,1116
 2,francisco rodriguez,MEX,1117
 6,gerardo torrado n. 1​,MEX,1118
-10,giovani dos santos,MEX,1119
+17,giovani dos santos,MEX,1119
 9,guillermo franco,MEX,1120
 13,guillermo ochoa,MEX,1121
-16,hector herrera,MEX,1122
+6,hector herrera,MEX,1122
 15,hector moreno,MEX,1123
 22,hirving lozano,MEX,1124
 2,hugo ayala,MEX,1125
@@ -1236,7 +1236,7 @@
 9,odion ighalo,NGR,1235
 17,ogenyi onazi,NGR,1236
 8,oghenekaro etebo,NGR,1237
-8,peter odemwingie,NGR,1238
+11,peter odemwingie,NGR,1238
 5,rabiu afolabi,NGR,1239
 15,ramon azeez,NGR,1240
 4,reuben gabriel,NGR,1241
@@ -1587,11 +1587,11 @@
 19,ji dong-won,SOK,1586
 8,ju se-jong,SOK,1587
 3,jung seung-hyun,SOK,1588
-1,jung sung-ryong,SOK,1589
+18,jung sung-ryong,SOK,1589
 15,jung woo-young,SOK,1590
 23,kang min-soo,SOK,1591
 16,ki sung-yueng,SOK,1592
-7,kim bo-kyung,SOK,1593
+6,kim bo-kyung,SOK,1593
 2,kim chang-soo,SOK,1594
 15,kim dong-jin,SOK,1595
 3,kim hyung-il,SOK,1596
@@ -1600,9 +1600,9 @@
 8,kim jung-woo,SOK,1599
 12,kim min-woo,SOK,1600
 5,kim nam-il,SOK,1601
-21,kim seung-gyu,SOK,1602
-18,kim shin-wook,SOK,1603
-5,kim young-gwon,SOK,1604
+1,kim seung-gyu,SOK,1602
+9,kim shin-wook,SOK,1603
+19,kim young-gwon,SOK,1604
 21,kim young-kwang,SOK,1605
 13,koo ja-cheol,SOK,1606
 4,kwak tae-hwi,SOK,1607
@@ -1615,7 +1615,7 @@
 10,lee seung-woo,SOK,1614
 11,lee seung-yeoul,SOK,1615
 1,lee woon-jae,SOK,1616
-12,lee yong,SOK,1617
+2,lee yong,SOK,1617
 12,lee young-pyo,SOK,1618
 18,moon seon-min,SOK,1619
 4,oh ban-suk,SOK,1620
@@ -1623,9 +1623,9 @@
 10,park chu-young,SOK,1622
 7,park ji-sung,SOK,1623
 15,park jong-woo,SOK,1624
-22,park joo-ho,SOK,1625
+6,park joo-ho,SOK,1625
 24,shin tae-yong,SOK,1626
-9,son heung-min,SOK,1627
+7,son heung-min,SOK,1627
 19,yeom ki-hun,SOK,1628
 3,yun suk-young,SOK,1629
 5,yun young-sun,SOK,1630
@@ -1666,7 +1666,7 @@
 9,rodrigo,SPA,1665
 20,santi cazorla,SPA,1666
 7,saul ñiguez,SPA,1667
-16,sergio busquets,SPA,1668
+5,sergio busquets,SPA,1668
 15,sergio ramos,SPA,1669
 10,thiago alcantara,SPA,1670
 24,vicente del bosque,SPA,1671
@@ -1767,14 +1767,14 @@
 14,marco padalino,SWZ,1766
 12,marco wolfli,SWZ,1767
 22,mario eggimann,SWZ,1768
-17,mario gavranović,SWZ,1769
+18,mario gavranović,SWZ,1769
 6,michael lang,SWZ,1770
 4,nico elvedi,SWZ,1771
 24,ottmar hitzfeld,SWZ,1772
 4,philippe senderos,SWZ,1773
 20,pirmin schwegler,SWZ,1774
 8,remo freuler,SWZ,1775
-3,reto ziegler,SWZ,1776
+17,reto ziegler,SWZ,1776
 13,ricardo rodriguez,SWZ,1777
 21,roman burki,SWZ,1778
 2,stephan lichtsteiner,SWZ,1779
@@ -1786,7 +1786,7 @@
 11,valon behrami,SWZ,1785
 24,vladimir petković,SWZ,1786
 23,xherdan shaqiri,SWZ,1787
-12,yann sommer,SWZ,1788
+1,yann sommer,SWZ,1788
 12,yvon mvogo,SWZ,1789
 15,ahmed khalil,TNZ,1790
 12,ali maaloul,TNZ,1791

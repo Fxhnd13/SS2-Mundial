@@ -9,6 +9,16 @@
     <trans_status>0</trans_status>
     <directory>/</directory>
     <parameters>
+      <parameter>
+        <name>ruta_base</name>
+        <default_value>C:\Users\jsoberanis\Documents\Proyectos\SS2-Mundial\Recursos\</default_value>
+        <description/>
+      </parameter>
+      <parameter>
+        <name>ruta_base_resultados</name>
+        <default_value>C:\Users\jsoberanis\Documents\Proyectos\SS2-Mundial\</default_value>
+        <description/>
+      </parameter>
     </parameters>
     <log>
       <trans-log-table>
@@ -1219,7 +1229,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Alemania.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Alemania.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -1337,7 +1347,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Argelia.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Argelia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -1455,7 +1465,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Argentina.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Argentina.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -1573,7 +1583,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Australia.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Australia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -1691,7 +1701,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Brasil.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Brasil.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -1809,7 +1819,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Camerun.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Camerun.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -1927,7 +1937,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Chile.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Chile.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -2045,7 +2055,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Corea del norte.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Corea del norte.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -2163,7 +2173,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Corea del sur.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Corea del sur.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -2281,7 +2291,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2010 - Costa de marfil.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2010 - Costa de marfil.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -2399,7 +2409,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2010 - Dinamarca.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2010 - Dinamarca.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -2517,7 +2527,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2010 - Eslovaquia.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2010 - Eslovaquia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -2635,7 +2645,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2010 - Eslovenia.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2010 - Eslovenia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -2753,7 +2763,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - España.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - España.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -2871,7 +2881,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Estados unidos.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Estados unidos.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -2989,7 +2999,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2010 - Francia.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2010 - Francia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -3107,7 +3117,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Ghana.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Ghana.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -3225,7 +3235,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Grecia.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Grecia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -3343,7 +3353,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2010 - Holanda.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2010 - Holanda.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -3461,7 +3471,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Honduras.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Honduras.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -3579,7 +3589,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Inglaterra.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Inglaterra.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -3697,7 +3707,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2010 - Italia.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2010 - Italia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -3815,7 +3825,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Japon.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Japon.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -3933,7 +3943,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Mexico.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Mexico.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -4051,7 +4061,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2010 - Nigeria.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2010 - Nigeria.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -4169,7 +4179,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Nueva zelanda.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Nueva zelanda.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -4287,7 +4297,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Paraguay.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Paraguay.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -4405,7 +4415,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2010 - Portugal.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2010 - Portugal.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -4523,7 +4533,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Serbia.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Serbia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -4641,7 +4651,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Sudafrica.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Sudafrica.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -4759,7 +4769,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2010 - Suiza.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2010 - Suiza.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -4877,7 +4887,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2010\Plantillas - 2010 - Uruguay.csv</filename>
+    <filename>${ruta_base}2010\Plantillas - 2010 - Uruguay.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -4995,7 +5005,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Alemania.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Alemania.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -5113,7 +5123,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Argelia.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Argelia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -5231,7 +5241,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Argentina.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Argentina.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -5349,7 +5359,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Australia.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Australia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -5467,7 +5477,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2014 - Belgica.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2014 - Belgica.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -5585,7 +5595,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2014 - Bosnia-herzegovina.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2014 - Bosnia-herzegovina.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -5703,7 +5713,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Brasil.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Brasil.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -5821,7 +5831,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Camerun.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Camerun.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -5939,7 +5949,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Chile.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Chile.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -6057,7 +6067,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2014 - Colombia.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2014 - Colombia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -6175,7 +6185,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Corea del sur.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Corea del sur.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -6293,7 +6303,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2014 - Costa de marfil.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2014 - Costa de marfil.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -6411,7 +6421,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Costa rica.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Costa rica.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -6529,7 +6539,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Croacia.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Croacia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -6647,7 +6657,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Ecuador.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Ecuador.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -6765,7 +6775,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - España.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - España.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -6883,7 +6893,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Estados unidos.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Estados unidos.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -7001,7 +7011,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2014 - Francia.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2014 - Francia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -7119,7 +7129,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Ghana.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Ghana.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -7237,7 +7247,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Grecia.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Grecia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -7355,7 +7365,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2014 - Holanda.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2014 - Holanda.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -7473,7 +7483,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Honduras.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Honduras.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -7591,7 +7601,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Inglaterra.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Inglaterra.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -7709,7 +7719,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Iran.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Iran.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -7827,7 +7837,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2014 - Italia.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2014 - Italia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -7945,7 +7955,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Japon.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Japon.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -8063,7 +8073,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Mexico.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Mexico.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -8181,7 +8191,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2014 - Nigeria.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2014 - Nigeria.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -8299,7 +8309,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2014 - Portugal.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2014 - Portugal.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -8417,7 +8427,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Sudafrica.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Sudafrica.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -8535,7 +8545,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2014 - Suiza.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2014 - Suiza.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -8653,7 +8663,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2014\Plantillas - 2014 - Uruguay.csv</filename>
+    <filename>${ruta_base}2014\Plantillas - 2014 - Uruguay.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -8771,7 +8781,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Alemania.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Alemania.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -8889,7 +8899,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Arabia saudita.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Arabia saudita.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -9007,7 +9017,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Argentina.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Argentina.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -9125,7 +9135,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Australia.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Australia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -9243,7 +9253,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2018 - Belgica.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2018 - Belgica.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -9361,7 +9371,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Brasil.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Brasil.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -9479,7 +9489,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2018 - Colombia.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2018 - Colombia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -9597,7 +9607,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Corea del sur.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Corea del sur.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -9715,7 +9725,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Costa rica.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Costa rica.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -9833,7 +9843,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Croacia.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Croacia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -9951,7 +9961,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Dinamarca.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Dinamarca.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -10069,7 +10079,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2018 - Egipto.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2018 - Egipto.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -10187,7 +10197,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - España.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - España.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -10305,7 +10315,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2018 - Francia.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2018 - Francia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -10423,7 +10433,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Inglaterra.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Inglaterra.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -10541,7 +10551,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Iran.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Iran.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -10659,7 +10669,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Islandia.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Islandia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -10777,7 +10787,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Japon.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Japon.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -10895,7 +10905,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2018 - Marruecos.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2018 - Marruecos.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -11013,7 +11023,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Mexico.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Mexico.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -11131,7 +11141,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2018 - Nigeria.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2018 - Nigeria.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -11249,7 +11259,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Panama.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Panama.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -11367,7 +11377,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Peru.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Peru.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -11485,7 +11495,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Polonia.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Polonia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -11603,7 +11613,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2018 - Portugal.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2018 - Portugal.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -11721,7 +11731,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Rusia.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Rusia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -11839,7 +11849,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Senegal.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Senegal.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -11957,7 +11967,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Serbia.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Serbia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -12075,7 +12085,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2018 - Suecia.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2018 - Suecia.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -12193,7 +12203,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2018 - Suiza.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2018 - Suiza.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -12311,7 +12321,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Nuevas\Plantillas - 2018 - Tunez.csv</filename>
+    <filename>${ruta_base}Nuevas\Plantillas - 2018 - Tunez.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -12429,7 +12439,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\2018\Plantillas - 2018 - Uruguay.csv</filename>
+    <filename>${ruta_base}2018\Plantillas - 2018 - Uruguay.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -12533,6 +12543,41 @@
     <GUI>
       <xloc>1648</xloc>
       <yloc>96</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Add sequence</name>
+    <type>Sequence</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <valuename>id</valuename>
+    <use_database>N</use_database>
+    <connection/>
+    <schema/>
+    <seqname>SEQ_</seqname>
+    <use_counter>Y</use_counter>
+    <counter_name/>
+    <start_at>1</start_at>
+    <increment_by>1</increment_by>
+    <max_value>999999999</max_value>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>496</xloc>
+      <yloc>1792</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -12728,6 +12773,45 @@
     <GUI>
       <xloc>1744</xloc>
       <yloc>1328</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Eliminar redundancia</name>
+    <type>Unique</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <count_rows>N</count_rows>
+    <count_field/>
+    <reject_duplicate_row>N</reject_duplicate_row>
+    <error_description/>
+    <fields>
+      <field>
+        <name>Seleccion</name>
+        <case_insensitive>Y</case_insensitive>
+      </field>
+      <field>
+        <name>Nombre</name>
+        <case_insensitive>Y</case_insensitive>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>496</xloc>
+      <yloc>1696</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -14292,6 +14376,42 @@
     </GUI>
   </step>
   <step>
+    <name>Merge join</name>
+    <type>MergeJoin</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <join_type>INNER</join_type>
+    <step1>Sort rows</step1>
+    <step2>Add sequence</step2>
+    <keys_1>
+      <key>Seleccion</key>
+      <key>Nombre</key>
+    </keys_1>
+    <keys_2>
+      <key>Seleccion</key>
+      <key>Nombre</key>
+    </keys_2>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>672</xloc>
+      <yloc>1792</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
     <name>Nigeria</name>
     <type>Constant</type>
     <description/>
@@ -14551,155 +14671,6 @@
     </GUI>
   </step>
   <step>
-    <name>Tunez</name>
-    <type>Constant</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>Seleccion</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif>TNZ</nullif>
-        <length>-1</length>
-        <precision>-1</precision>
-        <set_empty_string>N</set_empty_string>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>1856</xloc>
-      <yloc>1200</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Eliminar redundancia</name>
-    <type>Unique</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <count_rows>N</count_rows>
-    <count_field/>
-    <reject_duplicate_row>N</reject_duplicate_row>
-    <error_description/>
-    <fields>
-      <field>
-        <name>Seleccion</name>
-        <case_insensitive>Y</case_insensitive>
-      </field>
-      <field>
-        <name>Nombre</name>
-        <case_insensitive>Y</case_insensitive>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>496</xloc>
-      <yloc>1696</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Add sequence</name>
-    <type>Sequence</type>
-    <description/>
-    <distribute>N</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <valuename>id</valuename>
-    <use_database>N</use_database>
-    <connection/>
-    <schema/>
-    <seqname>SEQ_</seqname>
-    <use_counter>Y</use_counter>
-    <counter_name/>
-    <start_at>1</start_at>
-    <increment_by>1</increment_by>
-    <max_value>999999999</max_value>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>496</xloc>
-      <yloc>1792</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Merge join</name>
-    <type>MergeJoin</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <join_type>INNER</join_type>
-    <step1>Sort rows</step1>
-    <step2>Add sequence</step2>
-    <keys_1>
-      <key>Seleccion</key>
-      <key>Nombre</key>
-    </keys_1>
-    <keys_2>
-      <key>Seleccion</key>
-      <key>Nombre</key>
-    </keys_2>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>672</xloc>
-      <yloc>1792</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
     <name>Text file output</name>
     <type>TextFileOutput</type>
     <description/>
@@ -14724,7 +14695,7 @@
     <fileNameField/>
     <create_parent_folder>Y</create_parent_folder>
     <file>
-      <name>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Resultados\jugadores_unicos.csv</name>
+      <name>${ruta_base_resultados}Resultados\jugadores_unicos.csv</name>
       <servlet_output>N</servlet_output>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>csv</extention>
@@ -14829,7 +14800,7 @@
     <fileNameField/>
     <create_parent_folder>Y</create_parent_folder>
     <file>
-      <name>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Resultados\todos_jugadores.csv</name>
+      <name>${ruta_base_resultados}Resultados\todos_jugadores.csv</name>
       <servlet_output>N</servlet_output>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>csv</extention>
@@ -14966,6 +14937,45 @@
     <GUI>
       <xloc>784</xloc>
       <yloc>1888</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Tunez</name>
+    <type>Constant</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>Seleccion</name>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif>TNZ</nullif>
+        <length>-1</length>
+        <precision>-1</precision>
+        <set_empty_string>N</set_empty_string>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>1856</xloc>
+      <yloc>1200</yloc>
       <draw>Y</draw>
     </GUI>
   </step>

@@ -6,8 +6,14 @@
     <extended_description/>
     <trans_version/>
     <trans_type>Normal</trans_type>
+    <trans_status>0</trans_status>
     <directory>/</directory>
     <parameters>
+      <parameter>
+        <name>ruta_base</name>
+        <default_value>C:\Users\jsoberanis\Documents\Proyectos\SS2-Mundial\</default_value>
+        <description/>
+      </parameter>
     </parameters>
     <log>
       <trans-log-table>
@@ -430,7 +436,7 @@
     <created_date>2022/05/15 11:26:31.006</created_date>
     <modified_user>-</modified_user>
     <modified_date>2022/05/15 11:26:31.006</modified_date>
-    <key_for_session_key/>
+    <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA=</key_for_session_key>
     <is_key_private>N</is_key_private>
   </info>
   <notepads>
@@ -483,7 +489,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\csvs\Copia de Estadisticas Mundiales de Futbol - Goles por partido.csv</filename>
+    <filename>${ruta_base}\Recursos\csvs\Copia de Estadisticas Mundiales de Futbol - Goles por partido.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -499,7 +505,7 @@
     <encoding>CESU-8</encoding>
     <fields>
       <field>
-        <name>No. partido</name>
+        <name>no partido</name>
         <type>Integer</type>
         <format>#</format>
         <currency>Q</currency>
@@ -510,7 +516,7 @@
         <trim_type>none</trim_type>
       </field>
       <field>
-        <name>Seleccion</name>
+        <name>jugador</name>
         <type>String</type>
         <format/>
         <currency>Q</currency>
@@ -521,18 +527,7 @@
         <trim_type>both</trim_type>
       </field>
       <field>
-        <name>Jugador</name>
-        <type>String</type>
-        <format/>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>-1</length>
-        <precision>-1</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Tiempo</name>
+        <name>tiempo</name>
         <type>Integer</type>
         <format>#</format>
         <currency>Q</currency>
@@ -554,14 +549,25 @@
         <trim_type>none</trim_type>
       </field>
       <field>
-        <name>tipo</name>
+        <name>tipo de gol</name>
         <type>String</type>
         <format/>
         <currency>Q</currency>
         <decimal>.</decimal>
         <group>,</group>
         <length>-1</length>
-        <precision>0</precision>
+        <precision>-1</precision>
+        <trim_type>both</trim_type>
+      </field>
+      <field>
+        <name>seleccion</name>
+        <type>String</type>
+        <format/>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>-1</length>
+        <precision>-1</precision>
         <trim_type>both</trim_type>
       </field>
     </fields>
@@ -590,7 +596,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Resultados\jugadores_unicos.csv.csv</filename>
+    <filename>${ruta_base}Resultados\jugadores_unicos.csv.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -720,8 +726,8 @@
     </GUI>
   </step>
   <step>
-    <name>String operations</name>
-    <type>StringOperations</type>
+    <name>Merge join</name>
+    <type>MergeJoin</type>
     <description/>
     <distribute>Y</distribute>
     <custom_distribution/>
@@ -730,21 +736,17 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <fields>
-      <field>
-        <in_stream_name>Nombre</in_stream_name>
-        <out_stream_name/>
-        <trim_type>both</trim_type>
-        <lower_upper>lower</lower_upper>
-        <padding_type/>
-        <pad_char/>
-        <pad_len/>
-        <init_cap/>
-        <mask_xml/>
-        <digits/>
-        <remove_special_characters/>
-      </field>
-    </fields>
+    <join_type>INNER</join_type>
+    <step1>Sort rows 2</step1>
+    <step2>Sort rows</step2>
+    <keys_1>
+      <key>seleccion</key>
+      <key>jugador</key>
+    </keys_1>
+    <keys_2>
+      <key>Seleccion</key>
+      <key>Nombre</key>
+    </keys_2>
     <attributes/>
     <cluster_schema/>
     <remotesteps>
@@ -754,48 +756,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>224</xloc>
-      <yloc>256</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>String operations 2</name>
-    <type>StringOperations</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <in_stream_name>Jugador</in_stream_name>
-        <out_stream_name/>
-        <trim_type>both</trim_type>
-        <lower_upper>lower</lower_upper>
-        <padding_type/>
-        <pad_char/>
-        <pad_len/>
-        <init_cap/>
-        <mask_xml/>
-        <digits/>
-        <remove_special_characters/>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>496</xloc>
-      <yloc>256</yloc>
+      <xloc>352</xloc>
+      <yloc>496</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -869,7 +831,7 @@
     <unique_rows>N</unique_rows>
     <fields>
       <field>
-        <name>Seleccion</name>
+        <name>seleccion</name>
         <ascending>Y</ascending>
         <case_sensitive>N</case_sensitive>
         <collator_enabled>N</collator_enabled>
@@ -877,7 +839,7 @@
         <presorted>N</presorted>
       </field>
       <field>
-        <name>Jugador</name>
+        <name>jugador</name>
         <ascending>Y</ascending>
         <case_sensitive>N</case_sensitive>
         <collator_enabled>N</collator_enabled>
@@ -900,8 +862,8 @@
     </GUI>
   </step>
   <step>
-    <name>Merge join</name>
-    <type>MergeJoin</type>
+    <name>String operations</name>
+    <type>StringOperations</type>
     <description/>
     <distribute>Y</distribute>
     <custom_distribution/>
@@ -910,17 +872,21 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <join_type>INNER</join_type>
-    <step1>Sort rows 2</step1>
-    <step2>Sort rows</step2>
-    <keys_1>
-      <key>Seleccion</key>
-      <key>Jugador</key>
-    </keys_1>
-    <keys_2>
-      <key>Seleccion</key>
-      <key>Nombre</key>
-    </keys_2>
+    <fields>
+      <field>
+        <in_stream_name>Nombre</in_stream_name>
+        <out_stream_name/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
+        <padding_type/>
+        <pad_char/>
+        <pad_len/>
+        <init_cap/>
+        <mask_xml/>
+        <digits/>
+        <remove_special_characters/>
+      </field>
+    </fields>
     <attributes/>
     <cluster_schema/>
     <remotesteps>
@@ -930,8 +896,48 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>352</xloc>
-      <yloc>496</yloc>
+      <xloc>224</xloc>
+      <yloc>256</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>String operations 2</name>
+    <type>StringOperations</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <in_stream_name>jugador</in_stream_name>
+        <out_stream_name/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
+        <padding_type/>
+        <pad_char/>
+        <pad_len/>
+        <init_cap/>
+        <mask_xml/>
+        <digits/>
+        <remove_special_characters/>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>496</xloc>
+      <yloc>256</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -960,7 +966,7 @@
     <fileNameField/>
     <create_parent_folder>Y</create_parent_folder>
     <file>
-      <name>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Resultados\Goles por partido</name>
+      <name>${ruta_base}Resultados\Goles por partido</name>
       <servlet_output>N</servlet_output>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>csv</extention>
@@ -978,7 +984,7 @@
     </file>
     <fields>
       <field>
-        <name>No. partido</name>
+        <name>no partido</name>
         <type>Integer</type>
         <format>#</format>
         <currency>Q</currency>
@@ -990,7 +996,7 @@
         <precision>0</precision>
       </field>
       <field>
-        <name>Seleccion</name>
+        <name>seleccion</name>
         <type>String</type>
         <format/>
         <currency/>
@@ -1002,7 +1008,7 @@
         <precision>-1</precision>
       </field>
       <field>
-        <name>Jugador</name>
+        <name>jugador</name>
         <type>String</type>
         <format/>
         <currency/>
@@ -1014,7 +1020,7 @@
         <precision>-1</precision>
       </field>
       <field>
-        <name>Tiempo</name>
+        <name>tiempo</name>
         <type>Integer</type>
         <format>#</format>
         <currency>Q</currency>
@@ -1038,7 +1044,7 @@
         <precision>0</precision>
       </field>
       <field>
-        <name>tipo</name>
+        <name>tipo de gol</name>
         <type>String</type>
         <format/>
         <currency/>
