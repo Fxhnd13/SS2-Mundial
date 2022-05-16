@@ -634,61 +634,6 @@
         <trim_type>none</trim_type>
       </field>
       <field>
-        <name>Posicion</name>
-        <type>String</type>
-        <format/>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>3</length>
-        <precision>-1</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
-        <name>Edad</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>15</length>
-        <precision>0</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
-        <name>PJ Sel</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>15</length>
-        <precision>0</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
-        <name>Club</name>
-        <type>String</type>
-        <format/>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>24</length>
-        <precision>-1</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
-        <name>year</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>15</length>
-        <precision>0</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
         <name>Seleccion</name>
         <type>String</type>
         <format/>
@@ -960,7 +905,7 @@
     <footer>N</footer>
     <format>DOS</format>
     <compression>None</compression>
-    <encoding/>
+    <encoding>CESU-8</encoding>
     <endedLine/>
     <fileNameInField>N</fileNameInField>
     <fileNameField/>
