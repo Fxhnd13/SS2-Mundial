@@ -1,0 +1,1899 @@
+#,Nombre,Seleccion,id
+9,abdelkader ghezzal,ALG,1
+14,abdelkader laifaoui,ALG,2
+18,abdelmoumene djabou,ALG,3
+17,adlène guedioura,ALG,4
+20,aissa mandi,ALG,5
+4,antar yahia,ALG,6
+18,carl medjani,ALG,7
+1,cedric si mohamed,ALG,8
+22,djamel abdoun,ALG,9
+20,djamel mesbah,ALG,10
+15,el arbi hillel soudani,ALG,11
+4,essaid belkalem,ALG,12
+16,faouzi chaouchi,ALG,13
+3,faouzi ghoulam,ALG,14
+21,foued kadir,ALG,15
+12,habib bellaid,ALG,16
+19,hassan yebda,ALG,17
+13,islam slimani,ALG,18
+13,karim matmour,ALG,19
+15,karim ziani,ALG,20
+17,liassine cadamuro,ALG,21
+1,lounes gaouaoui,ALG,22
+2,madjid bougherra,ALG,23
+8,medhi lacen,ALG,24
+22,mehdi mostefa,ALG,25
+16,mohamed zemmamouche,ALG,26
+14,nabil bentaleb,ALG,27
+9,nabil ghilas,ALG,28
+3,nadir belhadj,ALG,29
+24,rabah saadane,ALG,30
+11,rafik djebbour,ALG,31
+5,rafik halliche,ALG,32
+10,rafik saifi,ALG,33
+23,rais m'bolhi,ALG,34
+21,riyad mahrez,ALG,35
+7,ryad boudebouz,ALG,36
+19,saphir taider,ALG,37
+10,sofiane feghouli,ALG,38
+24,vahid halilhodžić,ALG,39
+11,yacine brahimi,ALG,40
+6,yazid mansouri,ALG,41
+15,abdullah al-khaibari,ARA,42
+1,abdullah al-mayouf,ARA,43
+14,abdullah otayf,ARA,44
+11,abdulmalek al-khaibri,ARA,45
+4,ali al-bulaihi,ARA,46
+19,fahad al-muwallad,ARA,47
+9,hattan bahebri,ARA,48
+16,housain al-mogahwi,ARA,49
+24,juan antonio pizzi,ARA,50
+2,mansoor al-harbi,ARA,51
+12,mohamed kanno,ARA,52
+10,mohammad al-sahlawi,ARA,53
+6,mohammed al-breik,ARA,54
+22,mohammed al-owais,ARA,55
+23,motaz hawsawi,ARA,56
+20,muhannad assiri,ARA,57
+5,omar hawsawi,ARA,58
+3,osama hawsawi,ARA,59
+18,salem al-dawsari,ARA,60
+7,salman al-faraj,ARA,61
+17,taisir al-jassim,ARA,62
+8,yahya al-shehri,ARA,63
+21,yasser al-mosailem,ARA,64
+13,yasser al-shahrani,ARA,65
+12,agustin orion,ARG,66
+24,alejandro sabella,ARG,67
+7,angel di maria,ARG,68
+12,ariel garce,ARG,69
+13,augusto fernandez,ARG,70
+11,carlos tevez,ARG,71
+3,clemente rodriguez,ARG,72
+4,cristian ansaldi,ARG,73
+22,cristian pavon,ARG,74
+24,diego maradona †,ARG,75
+19,diego milito,ARG,76
+1,diego pozo,ARG,77
+18,eduardo salvio,ARG,78
+15,enzo perez,ARG,79
+7,ever banega,ARG,80
+2,ezequiel garay,ARG,81
+22,ezequiel lavezzi,ARG,82
+6,federico fazio,ARG,83
+17,federico fernandez,ARG,84
+5,fernando gago,ARG,85
+12,franco armani,ARG,86
+6,gabriel heinze,ARG,87
+2,gabriel mercado,ARG,88
+20,giovani lo celso,ARG,89
+9,gonzalo higuain,ARG,90
+3,hugo campagnaro,ARG,91
+14,javier mascherano,ARG,92
+23,javier pastore,ARG,93
+17,jonas gutierrez,ARG,94
+24,jorge sampaoli,ARG,95
+23,jose basanta,ARG,96
+8,juan sebastian veron,ARG,97
+10,lionel messi,ARG,98
+5,lucas biglia,ARG,99
+8,marcos acuña,ARG,100
+16,marcos rojo,ARG,101
+21,mariano andujar,ARG,102
+5,mario bolatti,ARG,103
+2,martin demichelis,ARG,104
+18,martin palermo,ARG,105
+13,maximiliano meza,ARG,106
+20,maximiliano rodriguez,ARG,107
+1,nahuel guzman,ARG,108
+4,nicolas burdisso,ARG,109
+15,nicolas otamendi,ARG,110
+3,nicolas tagliafico,ARG,111
+4,pablo zabaleta,ARG,112
+21,paulo dybala,ARG,113
+19,ricardo alvarez,ARG,114
+18,rodrigo palacio,ARG,115
+16,sergio aguero,ARG,116
+22,sergio romero,ARG,117
+13,walter samuel,ARG,118
+23,wilfredo caballero,ARG,119
+13,aaron mooy,AUS,120
+12,adam federici,AUS,121
+23,adam taggart,AUS,122
+9,alex wilkinson,AUS,123
+11,andrew nabbout,AUS,124
+16,aziz behich,AUS,125
+7,bailey wright,AUS,126
+11,ben halloran,AUS,127
+24,bert van marwijk,AUS,128
+12,brad jones,AUS,129
+7,brett emerton,AUS,130
+14,brett holman,AUS,131
+16,carl valeri,AUS,132
+3,craig moore,AUS,133
+17,daniel arzani,AUS,134
+18,danny vukovic,AUS,135
+18,dario vidosic,AUS,136
+22,dario vidošić,AUS,137
+21,david carney,AUS,138
+21,dimitri petratos,AUS,139
+18,eugene galekovic,AUS,140
+10,harry kewell,AUS,141
+4,ivan franjic,AUS,142
+22,jackson irvine,AUS,143
+16,james holland,AUS,144
+3,james meredith,AUS,145
+14,james troisi,AUS,146
+14,jamie maclaren,AUS,147
+5,jason culina,AUS,148
+5,jason davidson,AUS,149
+19,josh risdon,AUS,150
+9,joshua kennedy,AUS,151
+2,lucas neill,AUS,152
+8,luke wilkshire,AUS,153
+23,mark bresciano,AUS,154
+5,mark milligan,AUS,155
+1,mark schwarzer,AUS,156
+8,massimo luongo,AUS,157
+7,mathew leckie,AUS,158
+1,mathew ryan,AUS,159
+17,matt mckay,AUS,160
+6,matthew jurman,AUS,161
+6,matthew spiranovic,AUS,162
+6,michael beauchamp,AUS,163
+15,mile jedinak,AUS,164
+2,milos degenek,AUS,165
+2,mitchell langerak,AUS,166
+17,nikita rukavytsya,AUS,167
+13,oliver bozanic,AUS,168
+24,pim verbeek,AUS,169
+19,richard garcia,AUS,170
+10,robbie kruse,AUS,171
+8,ryan mcgowan,AUS,172
+11,scott chipperfield,AUS,173
+4,tim cahill,AUS,174
+23,tom rogić,AUS,175
+9,tomi juric,AUS,176
+12,tommy oar,AUS,177
+20,trent sainsbury,AUS,178
+13,vince grella,AUS,179
+20,adnan januzaj,BEL,180
+21,anthony vanden borre,BEL,181
+6,axel witsel,BEL,182
+15,daniel van buyten,BEL,183
+20,dedryck boyata,BEL,184
+17,divock origi,BEL,185
+14,dries mertens,BEL,186
+10,eden hazard,BEL,187
+5,jan vertonghen,BEL,188
+7,kevin de bruyne,BEL,189
+11,kevin mirallas,BEL,190
+13,koen casteels,BEL,191
+23,laurent ciman,BEL,192
+23,leander dendoncker,BEL,193
+24,marc wilmots,BEL,194
+8,marouane fellaini,BEL,195
+21,michy batshuayi,BEL,196
+19,moussa dembele,BEL,197
+22,nacer chadli,BEL,198
+18,nicolas lombaerts,BEL,199
+24,roberto martinez montoliu,BEL,200
+9,romelu lukaku,BEL,201
+13,sammy bossut1,BEL,202
+12,simon mignolet,BEL,203
+16,steven defour,BEL,204
+1,thibaut courtois,BEL,205
+15,thomas meunier,BEL,206
+3,thomas vermaelen,BEL,207
+16,thorgan hazard,BEL,208
+2,toby alderweireld,BEL,209
+4,vincent kompany,BEL,210
+11,yannick carrasco,BEL,211
+17,youri tielemans,BEL,212
+21,anel hadžić,BOS,213
+22,asmir avdukić,BOS,214
+1,asmir begović,BOS,215
+2,avdija vršajević,BOS,216
+11,edin džeko,BOS,217
+19,edin višća,BOS,218
+4,emir spahić,BOS,219
+3,ermin bičakčić,BOS,220
+18,haris medunjanin,BOS,221
+20,izet hajrović,BOS,222
+12,jasmin fejzić,BOS,223
+13,mensur mujdža,BOS,224
+8,miralem pjanić,BOS,225
+7,muhamed bešić,BOS,226
+6,ognjen vranješ,BOS,227
+24,safet sušić,BOS,228
+5,sead kolašinac,BOS,229
+23,sejad salihović,BOS,230
+16,senad lulić,BOS,231
+17,senijad ibričić,BOS,232
+14,tino sušić,BOS,233
+15,toni šunjić,BOS,234
+9,vedad ibišević,BOS,235
+10,zvjezdan misimović,BOS,236
+1,alisson,BRA,237
+20,bernard,BRA,238
+5,casemiro,BRA,239
+16,cassio,BRA,240
+2,dani alves,BRA,241
+14,danilo,BRA,242
+13,dante,BRA,243
+4,david luiz,BRA,244
+22,doni,BRA,245
+7,douglas costa,BRA,246
+24,dunga,BRA,247
+23,ederson,BRA,248
+7,elano,BRA,249
+22,fagner,BRA,250
+5,felipe melo,BRA,251
+5,fernandinho,BRA,252
+6,filipe luis,BRA,253
+9,fred,BRA,254
+9,gabriel jesus,BRA,255
+16,gilberto,BRA,256
+8,gilberto silva,BRA,257
+12,gomes,BRA,258
+23,grafite,BRA,259
+15,henrique,BRA,260
+18,hernanes,BRA,261
+7,hulk,BRA,262
+1,jefferson,BRA,263
+21,jo,BRA,264
+17,josue,BRA,265
+3,joão miranda,BRA,266
+4,juan,BRA,267
+19,julio baptista,BRA,268
+12,julio cesar,BRA,269
+10,kaka,BRA,270
+20,kleberson,BRA,271
+3,lucio,BRA,272
+9,luis fabiano,BRA,273
+14,luisão,BRA,274
+24,luiz felipe scolari,BRA,275
+17,luiz gustavo,BRA,276
+23,maicon,BRA,277
+6,marcelo,BRA,278
+13,marquinhos,BRA,279
+14,maxwell,BRA,280
+6,michel bastos,BRA,281
+10,neymar jr,BRA,282
+21,nilmar,BRA,283
+11,oscar,BRA,284
+8,paulinho,BRA,285
+4,pedro geromel,BRA,286
+11,philippe coutinho,BRA,287
+16,ramires,BRA,288
+8,renato augusto,BRA,289
+20,roberto firmino,BRA,290
+11,robinho,BRA,291
+21,taison,BRA,292
+3,thiago silva,BRA,293
+24,tite,BRA,294
+22,victor,BRA,295
+19,willian,BRA,296
+10,achille emana,CAM,297
+6,alexandre song,CAM,298
+22,allam nyom,CAM,299
+14,aurelien chedjou,CAM,300
+8,benjamin moukandjo,CAM,301
+2,benoit assou-ekotto,CAM,302
+1,carlos idriss kameni,CAM,303
+4,cedric djeugoue,CAM,304
+16,charles itandje,CAM,305
+5,dany nounkeu,CAM,306
+20,edgar salli,CAM,307
+13,eric maxim choupo-moting,CAM,308
+18,eyong enoh,CAM,309
+19,fabrice olinga,CAM,310
+12,gaetan bong,CAM,311
+20,georges mandjeck,CAM,312
+8,geremi njitap,CAM,313
+22,guy n'dy assembe,CAM,314
+12,henri bedimo,CAM,315
+11,jean ii makoun,CAM,316
+21,joel matip,CAM,317
+7,landry n'guemo,CAM,318
+1,loic feudjou,CAM,319
+17,mohammadou idrissou,CAM,320
+3,nicolas n'koulou,CAM,321
+24,paul le guen,CAM,322
+15,pierre webo,CAM,323
+4,rigobert song,CAM,324
+23,sammy n'djock,CAM,325
+9,samuel eto'o,CAM,326
+5,sebastien bassong,CAM,327
+16,souleymanou hamidou,CAM,328
+17,stephane mbia,CAM,329
+10,vincent aboubakar,CAM,330
+24,volker finke,CAM,331
+7,alexis sanchez,CHI,332
+8,arturo vidal,CHI,333
+6,carlos carmona,CHI,334
+20,charles aranguiz,CHI,335
+1,claudio bravo,CHI,336
+12,cristopher toselli,CHI,337
+11,eduardo vargas,CHI,338
+22,esteban paredes,CHI,339
+2,eugenio mena,CHI,340
+16,fabian orellana,CHI,341
+16,felipe gutierrez,CHI,342
+5,francisco silva,CHI,343
+17,gary medel,CHI,344
+19,gonzalo fierro,CHI,345
+18,gonzalo jara,CHI,346
+9,humberto suazo,CHI,347
+2,ismael fuentes,CHI,348
+15,jean beausejour,CHI,349
+23,johnny herrera,CHI,350
+10,jorge valdivia,CHI,351
+19,jose pedro fuenzalida,CHI,352
+13,jose rojas,CHI,353
+23,luis marin,CHI,354
+24,marcelo bielsa,CHI,355
+21,marcelo diaz,CHI,356
+13,marco estrada,CHI,357
+11,mark gonzalez,CHI,358
+14,matias fernandez,CHI,359
+4,mauricio isla,CHI,360
+9,mauricio pinilla,CHI,361
+12,miguel pinto,CHI,362
+3,miiko albornoz,CHI,363
+5,pablo contreras,CHI,364
+20,rodrigo millar,CHI,365
+21,rodrigo tello,CHI,366
+3,waldo ponce,CHI,367
+8,abel aguilar,COL,368
+19,adrian ramos,COL,369
+15,alexander mejia,COL,370
+12,camilo vargas,COL,371
+18,camilo zuñiga,COL,372
+17,carlos bacca,COL,373
+5,carlos carbonero,COL,374
+6,carlos sanchez,COL,375
+23,carlos valdes,COL,376
+2,cristian zapata,COL,377
+1,david ospina,COL,378
+23,davinson sanchez,COL,379
+16,eder alvarez balanta,COL,380
+18,farid diaz,COL,381
+22,faryd mondragon,COL,382
+13,freddy guarin,COL,383
+21,jackson martinez,COL,384
+10,james rodriguez,COL,385
+16,jefferson lerma,COL,386
+17,johan mojica,COL,387
+22,jose fernando cuadrado,COL,388
+21,jose izquierdo,COL,389
+24,jose pekerman,COL,390
+20,juan fernando quintero,COL,391
+11,juan guillermo cuadrado,COL,392
+14,luis muriel,COL,393
+3,mario alberto yepes,COL,394
+15,mateus uribe,COL,395
+19,miguel borja,COL,396
+3,oscar murillo,COL,397
+7,pablo armero,COL,398
+9,radamel falcao,COL,399
+4,santiago arias,COL,400
+9,teofilo gutierrez,COL,401
+14,victor ibarbo,COL,402
+5,wilmar barrios,COL,403
+13,yerry mina,COL,404
+8,bryan oviedo,CRC,405
+10,bryan ruiz,CRC,406
+5,celso borges,CRC,407
+7,christian bolaños,CRC,408
+16,cristian gamboa,CRC,409
+23,daniel cambronero,CRC,410
+9,daniel colindres,CRC,411
+8,dave myrie1,CRC,412
+20,david guzman,CRC,413
+20,diego calvo,CRC,414
+15,francisco calvo,CRC,415
+3,giancarlo gonzalez,CRC,416
+4,ian smith,CRC,417
+9,joel campbell,CRC,418
+11,johan venegas,CRC,419
+2,johnny acosta,CRC,420
+24,jorge luis pinto,CRC,421
+22,jose miguel cubero,CRC,422
+15,junior diaz,CRC,423
+19,kendall waston,CRC,424
+22,kenner gutierrez,CRC,425
+1,keylor navas,CRC,426
+23,leonel moreira,CRC,427
+21,marco ureña,CRC,428
+11,michael barrantes,CRC,429
+4,michael umaña,CRC,430
+6,oscar duarte,CRC,431
+13,oscar esteban granados,CRC,432
+24,oscar ramirez,CRC,433
+18,patrick pemberton,CRC,434
+14,randall azofeifa,CRC,435
+14,randall brenes,CRC,436
+13,rodney wallace,CRC,437
+19,roy miller,CRC,438
+12,waylon francis,CRC,439
+17,yeltsin tejeda,CRC,440
+9,andrej kramarić,CRO,441
+18,ante rebić,CRO,442
+3,danijel pranjić,CRO,443
+23,danijel subašić,CRO,444
+11,darijo srna,CRO,445
+6,dejan lovren,CRO,446
+21,domagoj vida,CRO,447
+1,dominik livaković,CRO,448
+15,duje ćaleta-car,CRO,449
+22,eduardo,CRO,450
+14,filip bradarić,CRO,451
+13,gordon schildenfeld,CRO,452
+4,ivan perišić,CRO,453
+7,ivan rakitić,CRO,454
+3,ivan strinić,CRO,455
+18,ivica olić,CRO,456
+22,josip pivarić,CRO,457
+12,lovre kalinić,CRO,458
+10,luka modrić,CRO,459
+11,marcelo brozović,CRO,460
+17,mario mandžukić,CRO,461
+20,marko pjaca,CRO,462
+8,mateo kovačić,CRO,463
+19,milan badelj,CRO,464
+9,nikica jelavić,CRO,465
+24,niko kovač,CRO,466
+16,nikola kalinić,CRO,467
+8,ognjen vukojević,CRO,468
+12,oliver zelenika,CRO,469
+19,sammir,CRO,470
+1,stipe pletikosa,CRO,471
+13,tin jedvaj,CRO,472
+5,vedran ćorluka,CRO,473
+24,zlatko dalić,CRO,474
+2,šime vrsaljko,CRO,475
+6,andreas christensen,DEN,476
+21,andreas cornelius,DEN,477
+21,christian eriksen,DEN,478
+2,christian poulsen,DEN,479
+4,daniel agger,DEN,480
+7,daniel jensen,DEN,481
+19,dennis rommedahl,DEN,482
+22,frederik rønnow,DEN,483
+14,henrik dalsgaard,DEN,484
+14,jakob poulsen,DEN,485
+3,jannik vestergaard,DEN,486
+17,jens stryger larsen,DEN,487
+22,jesper christiansen,DEN,488
+8,jesper grønkjær,DEN,489
+9,jon dahl tomasson,DEN,490
+5,jonas knudsen,DEN,491
+16,jonas lossl,DEN,492
+12,kasper dolberg,DEN,493
+1,kasper schmeichel,DEN,494
+6,lars jacobsen,DEN,495
+19,lasse schone,DEN,496
+18,lukas lerager,DEN,497
+11,martin braithwaite,DEN,498
+10,martin jorgensen,DEN,499
+13,mathias jørgensen,DEN,500
+2,michael krohn-dehli,DEN,501
+17,mikkel beckmann,DEN,502
+24,morten olsen,DEN,503
+11,nicklas bendtner,DEN,504
+9,nicolai jørgensen,DEN,505
+23,patrick mtiliga,DEN,506
+13,per krøldrup,DEN,507
+23,pione sisto,DEN,508
+3,simon kjær,DEN,509
+15,simon poulsen,DEN,510
+16,stephan andersen,DEN,511
+18,søren larsen,DEN,512
+8,thomas delaney,DEN,513
+20,thomas enevoldsen,DEN,514
+12,thomas kahlenberg,DEN,515
+1,thomas sørensen,DEN,516
+15,viktor fischer,DEN,517
+5,william kvist,DEN,518
+20,yussuf poulsen,DEN,519
+24,åge hareide,DEN,520
+12,adrian bone,ECU,521
+22,alexander dominguez,ECU,522
+16,antonio valencia,ECU,523
+23,carlos gruezo,ECU,524
+6,christian noboa,ECU,525
+8,edison mendez,ECU,526
+13,enner valencia,ECU,527
+11,felipe caicedo,ECU,528
+20,fidel martinez,ECU,529
+3,frickson erazo,ECU,530
+21,gabriel achilier,ECU,531
+17,jaime ayovi,ECU,532
+7,jefferson montero,ECU,533
+9,joao rojas,ECU,534
+2,jorge guagua,ECU,535
+4,juan carlos paredes,ECU,536
+19,luis fernando saritama,ECU,537
+1,maximo banguera,ECU,538
+15,michael arroyo,ECU,539
+18,oscar bagui,ECU,540
+14,oswaldo minda1,ECU,541
+24,reinaldo rueda,ECU,542
+5,renato ibarra,ECU,543
+10,walter ayovi,ECU,544
+19,abdallah said,EGT,545
+3,ahmed al-muhammadi,EGT,546
+7,ahmed fathy,EGT,547
+6,ahmed hegazy,EGT,548
+2,ali gabr,EGT,549
+22,amr warda,EGT,550
+12,ayman ashraf,EGT,551
+1,essam el-hadary,EGT,552
+24,hector cuper,EGT,553
+15,mahmoud hamdy,EGT,554
+11,mahmoud kahraba,EGT,555
+9,marwan mohsen,EGT,556
+13,mohamed abdel-shafy,EGT,557
+23,mohamed el-shenawy,EGT,558
+17,mohamed elneny,EGT,559
+10,mohamed salah,EGT,560
+4,omar gaber,EGT,561
+14,ramadan sobhi,EGT,562
+20,saad samir,EGT,563
+5,sam morsy,EGT,564
+16,sherif ekramy,EGT,565
+18,shikabala,EGT,566
+8,tarek hamed,EGT,567
+21,trezeguet,EGT,568
+7,aaron lennon,ENG,569
+20,adam lallana,ENG,570
+15,alex oxlade-chamberlain,ENG,571
+3,ashley cole,ENG,572
+18,ashley young,ENG,573
+13,ben foster,ENG,574
+12,chris smalling,ENG,575
+9,daniel sturridge,ENG,576
+11,daniel welbeck,ENG,577
+3,danny rose,ENG,578
+14,danny welbeck,ENG,579
+1,david james,ENG,580
+20,dele alli,ENG,581
+21,emile heskey,ENG,582
+4,eric dier,ENG,583
+17,fabian delph,ENG,584
+24,fabio capello,ENG,585
+8,frank lampard,ENG,586
+22,fraser forster,ENG,587
+14,gareth barry,ENG,588
+24,gareth southgate,ENG,589
+5,gary cahill,ENG,590
+2,glen johnson,ENG,591
+9,harry kane,ENG,592
+6,harry maguire,ENG,593
+13,jack butland,ENG,594
+7,jack wilshere,ENG,595
+17,james milner,ENG,596
+18,jamie carragher,ENG,597
+11,jamie vardy,ENG,598
+19,jermain defoe,ENG,599
+7,jesse lingard,ENG,600
+11,joe cole,ENG,601
+1,joe hart,ENG,602
+5,john stones,ENG,603
+6,john terry,ENG,604
+14,jordan henderson,ENG,605
+1,jordan pickford,ENG,606
+12,kieran trippier,ENG,607
+2,kyle walker,ENG,608
+20,ledley king,ENG,609
+3,leighton baines,ENG,610
+23,luke shaw,ENG,611
+19,marcus rashford,ENG,612
+15,matthew upson,ENG,613
+22,michael carrick,ENG,614
+5,michael dawson3​,ENG,615
+23,nick pope,ENG,616
+9,peter crouch,ENG,617
+6,phil jagielka,ENG,618
+16,phil jones,ENG,619
+19,raheem sterling,ENG,620
+18,rickie lambert,ENG,621
+12,robert green,ENG,622
+21,ross barkley,ENG,623
+24,roy hodgson,ENG,624
+21,ruben loftus-cheek,ENG,625
+17,shaun wright-phillips,ENG,626
+13,stephen warnock,ENG,627
+4,steven gerrard,ENG,628
+22,trent alexander-arnold,ENG,629
+10,wayne rooney,ENG,630
+19,abou diaby,FRA,631
+17,adil rami,FRA,632
+18,alou diarra,FRA,633
+23,alphonse areola,FRA,634
+11,andre-pierre gignac,FRA,635
+4,anthony reveillère,FRA,636
+7,antoine griezmann,FRA,637
+2,bacary sagna,FRA,638
+22,benjamin mendy,FRA,639
+2,benjamin pavard,FRA,640
+14,blaise matuidi,FRA,641
+23,cedric carrasso,FRA,642
+12,corentin tolisso,FRA,643
+24,didier deschamps,FRA,644
+9,djibril cisse,FRA,645
+19,djibril sidibe,FRA,646
+3,eric abidal,FRA,647
+15,florent malouda,FRA,648
+20,florian thauvin,FRA,649
+8,francis coquelin,FRA,650
+7,franck ribery,FRA,651
+22,gael clichy,FRA,652
+1,hugo lloris,FRA,653
+14,jeremy menez,FRA,654
+10,karim benzema,FRA,655
+10,kylian mbappe,FRA,656
+21,laurent koscielny,FRA,657
+20,loic remy,FRA,658
+17,lucas digne,FRA,659
+21,lucas hernandez,FRA,660
+5,mamadou sakho,FRA,661
+6,marc planus,FRA,662
+2,mathieu debuchy,FRA,663
+20,mathieu valbuena,FRA,664
+23,mickael landreau,FRA,665
+22,morgan schneiderlin 3,FRA,666
+18,moussa sissoko,FRA,667
+13,n'golo kante,FRA,668
+18,nabil fekir,FRA,669
+21,nicolas anelka,FRA,670
+9,olivier giroud,FRA,671
+11,ousmane dembele,FRA,672
+13,patrice evra,FRA,673
+6,paul pogba,FRA,674
+3,presnel kimpembe,FRA,675
+4,raphael varane,FRA,676
+24,raymond domenech,FRA,677
+7,remy cabella2,FRA,678
+5,samuel umtiti,FRA,679
+17,sebastien squillaci,FRA,680
+10,sidney govou,FRA,681
+16,stephane ruffier 1,FRA,682
+16,steve mandanda,FRA,683
+15,steven n'zonzi,FRA,684
+12,thierry henry,FRA,685
+8,thomas lemar,FRA,686
+5,william gallas,FRA,687
+8,yoann gourcuff,FRA,688
+6,yohan cabaye,FRA,689
+9,andre schurrle,GER,690
+16,antonio rudiger,GER,691
+3,arne friedrich,GER,692
+7,bastian schweinsteiger,GER,693
+4,benedikt howedes,GER,694
+19,cacau,GER,695
+23,christoph kramer,GER,696
+4,dennis aogo,GER,697
+15,erik durm,GER,698
+22,hans-jorg butt,GER,699
+14,holger badstuber,GER,700
+21,i̇lkay gundoğan,GER,701
+20,jerome boateng,GER,702
+24,joachim low,GER,703
+3,jonas hector,GER,704
+18,joshua kimmich,GER,705
+20,julian brandt,GER,706
+14,julian draxler,GER,707
+2,kevin großkreutz,GER,708
+12,kevin trapp,GER,709
+14,leon goretzka,GER,710
+10,lukas podolski,GER,711
+1,manuel neuer,GER,712
+22,marc-andre ter stegen,GER,713
+2,marcell jansen,GER,714
+11,marco reus,GER,715
+23,mario gomez,GER,716
+19,mario gotze,GER,717
+21,marko marin,GER,718
+2,marvin plattenhardt,GER,719
+5,mats hummels,GER,720
+3,matthias ginter,GER,721
+8,mesut ozil,GER,722
+11,miroslav klose,GER,723
+15,niklas sule,GER,724
+17,per mertesacker,GER,725
+16,philipp lahm,GER,726
+15,piotr trochowski,GER,727
+22,roman weidenfeller,GER,728
+12,ron-robert zieler,GER,729
+6,sami khedira,GER,730
+19,sebastian rudy,GER,731
+5,serdar tasci,GER,732
+21,shkodran mustafi2,GER,733
+9,stefan kießling,GER,734
+13,thomas muller,GER,735
+12,tim wiese,GER,736
+9,timo werner,GER,737
+18,toni kroos,GER,738
+12,adam kwarasey,GHA,739
+6,afriyie acquah,GHA,740
+24,akwasi appiah,GHA,741
+14,albert adomah,GHA,742
+13,andre ayew,GHA,743
+6,anthony annan,GHA,744
+3,asamoah gyan,GHA,745
+7,christian atsu,GHA,746
+1,daniel agyei,GHA,747
+4,daniel opare,GHA,748
+9,derek boateng,GHA,749
+18,dominic adiyiah,GHA,750
+8,emmanuel agyemang-badu,GHA,751
+16,fatau dauda,GHA,752
+2,hans sarpei,GHA,753
+23,harrison afful,GHA,754
+17,ibrahim ayew,GHA,755
+15,isaac vorsah,GHA,756
+21,john boye,GHA,757
+5,john mensah,GHA,758
+4,john pantsil,GHA,759
+8,jonathan mensah,GHA,760
+13,jordan ayew,GHA,761
+23,kevin prince boateng,GHA,762
+21,kwadwo asamoah,GHA,763
+19,lee addy,GHA,764
+18,majeed waris,GHA,765
+14,matthew amoah,GHA,766
+5,michael essien,GHA,767
+24,milovan rajevac,GHA,768
+17,mohammed rabiu,GHA,769
+12,prince tagoe,GHA,770
+20,quincy owusu-abeyie,GHA,771
+15,rashid sumaila,GHA,772
+22,richard kingson,GHA,773
+7,samuel inkoom,GHA,774
+16,stephen ahorlu,GHA,775
+10,stephen appiah,GHA,776
+1,steven adams,GHA,777
+11,sulley muntari,GHA,778
+22,wakaso mubarak,GHA,779
+6,alexandros tziolis,GRE,780
+12,alexandros tzorvas,GRE,781
+22,andreas samaris,GRE,782
+9,angelos charisteas,GRE,783
+23,athanassios prittas,GRE,784
+8,avraam papadopoulos,GRE,785
+3,christos patsatzoglou,GRE,786
+14,dimitris salpingidis,GRE,787
+24,fernando santos,GRE,788
+10,georgios karagounis,GRE,789
+7,georgios samaras,GRE,790
+18,giannis fetfatzidis,GRE,791
+2,giannis maniatis,GRE,792
+10,giorgos karagounis,GRE,793
+3,giorgos tzavellas,GRE,794
+2,giourkas seitaridis,GRE,795
+20,jose holebas,GRE,796
+1,konstantinos chalkias,GRE,797
+21,konstantinos katsouranis,GRE,798
+21,kostas katsouranis,GRE,799
+4,kostas manolas,GRE,800
+9,kostas mitroglou,GRE,801
+16,lazaros christodoulopoulos,GRE,802
+11,loukas vyntra,GRE,803
+13,michalis sifakis,GRE,804
+4,nikos spiropoulos,GRE,805
+1,orestis karnezis,GRE,806
+24,otto rehhagel,GRE,807
+12,panagiotis glykos,GRE,808
+8,panagiotis kone,GRE,809
+23,panagiotis tachtsidis,GRE,810
+20,pantelis kapetanos,GRE,811
+19,sokratis papastathopoulos,GRE,812
+16,sotirios kyrgiakos,GRE,813
+18,sotiris ninis,GRE,814
+13,stefanos kapino,GRE,815
+22,stelios malezas,GRE,816
+17,theofanis gekas,GRE,817
+5,vangelis moras,GRE,818
+15,vasilis torosidis,GRE,819
+20,amado guevara,HON,820
+17,andy najar,HON,821
+14,boniek garcia,HON,822
+21,brayan beckeles,HON,823
+13,carlo costly,HON,824
+9,carlos pavon,HON,825
+19,danilo turcios,HON,826
+11,david suazo,HON,827
+22,donis escober,HON,828
+12,edder delgado,HON,829
+17,edgard alvarez,HON,830
+7,emilio izaguirre,HON,831
+12,georgie welcome,HON,832
+6,hendry thomas,HON,833
+11,jerry bengtson,HON,834
+9,jerry palacios,HON,835
+4,johnny palacios,HON,836
+20,jorge claros,HON,837
+6,juan carlos garcia,HON,838
+4,juan pablo montes,HON,839
+10,julio cesar de leon,HON,840
+24,luis fernando suarez,HON,841
+19,luis garrido,HON,842
+1,luis lopez,HON,843
+10,mario martinez,HON,844
+23,marvin chavez,HON,845
+16,mauricio sabillon,HON,846
+3,maynor figueroa,HON,847
+18,noel valladares,HON,848
+14,oscar boniek garcia,HON,849
+2,osman chavez,HON,850
+7,ramon nuñez,HON,851
+24,reynaldo rueda,HON,852
+1,ricardo canales,HON,853
+15,roger espinoza,HON,854
+16,rony martinez,HON,855
+23,sergio mendoza,HON,856
+5,victor bernardez,HON,857
+15,walter martinez,HON,858
+8,wilson palacios,HON,859
+17,ahmad alenemeh,IRA,860
+1,alireza beiranvand,IRA,861
+12,alireza haghighi,IRA,862
+18,alireza jahanbakhsh,IRA,863
+22,amir abedzadeh,IRA,864
+5,amir hossein sadeghi,IRA,865
+14,andranik teymourian,IRA,866
+21,ashkan dejagah,IRA,867
+18,bakhtiar rahmani,IRA,868
+24,carlos queiroz,IRA,869
+22,daniel davari,IRA,870
+3,ehsan hajsafi,IRA,871
+11,ghasem hadadifar,IRA,872
+19,hashem beikzadeh,IRA,873
+13,hossein mahini,IRA,874
+4,jalal hosseini,IRA,875
+6,javad nekounam,IRA,876
+10,karim ansarifard,IRA,877
+2,khosro heydari,IRA,878
+19,majid hosseini,IRA,879
+7,masoud shojaei,IRA,880
+17,mehdi taremi,IRA,881
+2,mehdi torabi,IRA,882
+23,mehrdad pouladi,IRA,883
+5,milad mohammadi,IRA,884
+12,mohammad rashid mazaheri,IRA,885
+13,mohammad reza khanzadeh,IRA,886
+8,morteza pouraliganji,IRA,887
+9,omid ebrahimi,IRA,888
+15,pejman montazeri,IRA,889
+1,rahman ahmadi,IRA,890
+23,ramin rezaeian,IRA,891
+16,reza ghoochannejhad,IRA,892
+8,reza haghighi,IRA,893
+4,rouzbeh cheshmi,IRA,894
+6,saeid ezatolahi,IRA,895
+14,saman ghoddos,IRA,896
+20,sardar azmoun,IRA,897
+20,steven beitashour,IRA,898
+11,vahid amiri,IRA,899
+4,albert guðmundsson,ISL,900
+11,alfreð finnbogason,ISL,901
+23,ari freyr skulason,ISL,902
+21,arnor ingvi traustason,ISL,903
+17,aron gunnarsson,ISL,904
+8,birkir bjarnason,ISL,905
+2,birkir mar sævarsson,ISL,906
+9,bjorn sigurðarson,ISL,907
+20,emil hallfreðsson,ISL,908
+12,frederik schram,ISL,909
+10,gylfi sigurðsson,ISL,910
+1,hannes þor halldorsson,ISL,911
+24,heimir hallgrimsson,ISL,912
+15,holmar orn eyjolfsson,ISL,913
+18,horður bjorgvin magnusson,ISL,914
+7,johann berg guðmundsson,ISL,915
+22,jon daði boðvarsson,ISL,916
+14,kari arnason,ISL,917
+16,olafur ingi skulason,ISL,918
+6,ragnar sigurðsson,ISL,919
+13,runar alex runarsson,ISL,920
+19,rurik gislason,ISL,921
+3,samuel friðjonsson,ISL,922
+5,sverrir ingi ingason,ISL,923
+14,alberto aquilani,ITA,924
+11,alberto gilardino,ITA,925
+11,alessio cerci,ITA,926
+15,andrea barzagli,ITA,927
+21,andrea pirlo,ITA,928
+17,angelo palombo,ITA,929
+6,antonio candreva,ITA,930
+10,antonio cassano,ITA,931
+10,antonio di natale,ITA,932
+24,cesare prandelli,ITA,933
+2,christian maggio,ITA,934
+17,ciro immobile,ITA,935
+8,claudio marchisio,ITA,936
+16,daniele de rossi,ITA,937
+3,domenico criscito,ITA,938
+5,fabio cannavaro,ITA,939
+18,fabio quagliarella,ITA,940
+12,federico marchetti,ITA,941
+20,gabriel paletta,ITA,942
+8,gennaro gattuso,ITA,943
+20,giampaolo pazzini,ITA,944
+19,gianluca zambrotta,ITA,945
+1,gianluigi buffon,ITA,946
+3,giorgio chiellini,ITA,947
+7,ignazio abate,ITA,948
+19,leonardo bonucci,ITA,949
+22,lorenzo insigne,ITA,950
+24,marcello lippi,ITA,951
+18,marco parolo,ITA,952
+23,marco verratti,ITA,953
+9,mario balotelli,ITA,954
+4,matteo darmian,ITA,955
+2,mattia de sciglio,ITA,956
+13,mattia perin,ITA,957
+16,mauro camoranesi,ITA,958
+14,morgan de sanctis,ITA,959
+22,riccardo montolivo,ITA,960
+13,salvatore bocchetti,ITA,961
+12,salvatore sirigu,ITA,962
+7,simone pepe,ITA,963
+5,thiago motta,ITA,964
+9,vincenzo iaquinta,ITA,965
+18,abdul kader keita,IVC,966
+16,aristide zogbo,IVC,967
+3,arthur boka,IVC,968
+15,aruna dindane,IVC,969
+2,benjamin angoua,IVC,970
+1,boubacar barry,IVC,971
+9,cheick tiote,IVC,972
+18,constant djakpa,IVC,973
+23,daniel yeboah,IVC,974
+11,didier drogba,IVC,975
+13,didier ya konan,IVC,976
+5,didier zokora,IVC,977
+21,emmanuel eboue,IVC,978
+14,emmanuel kone,IVC,979
+10,gervinho,IVC,980
+21,giovanni sio,IVC,981
+20,guy demel,IVC,982
+14,ismael diomande,IVC,983
+7,jean-daniel akpa-akpro,IVC,984
+12,jean-jacques gosso,IVC,985
+4,kolo toure,IVC,986
+6,mathis bolly,IVC,987
+15,max gradel,IVC,988
+2,ousmane diarrassouba,IVC,989
+13,romaric,IVC,990
+24,sabri lamouchi,IVC,991
+8,salomon kalou,IVC,992
+23,sayouba mande,IVC,993
+20,serey die,IVC,994
+17,serge aurier,IVC,995
+7,seydou doumbia,IVC,996
+17,siaka tiene,IVC,997
+22,souleymane bamba,IVC,998
+6,steve gohouri,IVC,999
+24,sven-goran eriksson,IVC,1000
+16,sylvain gbohouo,IVC,1001
+12,wilfried bony,IVC,1002
+19,yaya toure,IVC,1003
+24,akira nishino,JAP,1004
+24,alberto zaccheroni,JAP,1005
+2,atsuto uchida,JAP,1006
+13,daiki iwamasa,JAP,1007
+8,daisuke matsui,JAP,1008
+1,eiji kawashima,JAP,1009
+7,gaku shibasaki,JAP,1010
+3,gen shoji,JAP,1011
+8,genki haraguchi,JAP,1012
+3,gotoku sakai,JAP,1013
+21,hiroki sakai,JAP,1014
+8,hiroshi kiyotake,JAP,1015
+16,hotaru yamaguchi,JAP,1016
+20,jun'ichi inamoto,JAP,1017
+11,keiji tamada,JAP,1018
+4,keisuke honda,JAP,1019
+14,kengo nakamura,JAP,1020
+12,kisho yano,JAP,1021
+23,kosuke nakamura,JAP,1022
+17,makoto hasebe,JAP,1023
+20,manabu saito,JAP,1024
+4,marcus tulio tanaka,JAP,1025
+12,masaaki higashiguchi,JAP,1026
+19,masahiko inoha,JAP,1027
+6,masato morishige,JAP,1028
+22,maya yoshida,JAP,1029
+2,naomichi ueda,JAP,1030
+18,ryota oshima,JAP,1031
+1,seigo narazaki,JAP,1032
+10,shinji kagawa,JAP,1033
+9,shinji okazaki,JAP,1034
+23,shuichi gonda,JAP,1035
+10,shunsuke nakamura,JAP,1036
+12,shusaku nishikawa,JAP,1037
+14,takashi inui,JAP,1038
+11,takashi usami,JAP,1039
+19,takayuki morimoto,JAP,1040
+24,takeshi okada,JAP,1041
+20,tomoaki makino,JAP,1042
+14,toshihiro aoyama,JAP,1043
+6,wataru endo,JAP,1044
+7,yasuhito endo,JAP,1045
+15,yasuyuki konno,JAP,1046
+11,yoichiro kakitani,JAP,1047
+23,yoshikatsu kawaguchi,JAP,1048
+13,yoshinori muto,JAP,1049
+13,yoshito okubo,JAP,1050
+22,yuji nakazawa,JAP,1051
+2,yuki abe,JAP,1052
+5,yuto nagatomo,JAP,1053
+18,yuya osako,JAP,1054
+3,yūichi komano,JAP,1055
+17,ahn young-hak,KPR,1056
+7,an chol-hyok,KPR,1057
+2,cha jong-hyok,KPR,1058
+12,choe kum-chol,KPR,1059
+10,hong yong-jo,KPR,1060
+8,ji yun-nam,KPR,1061
+9,jong tae-se,KPR,1062
+24,kim jong-hun,KPR,1063
+6,kim kum-il,KPR,1064
+22,kim kyong-il,KPR,1065
+18,kim myong-gil,KPR,1066
+20,kim myong-won,KPR,1067
+15,kim yong-jun,KPR,1068
+11,mun in-guk,KPR,1069
+16,nam song-chol,KPR,1070
+13,pak chol-jin,KPR,1071
+4,pak nam-chol,KPR,1072
+23,pak sung-hyok,KPR,1073
+19,ri chol-myong,KPR,1074
+3,ri jun-il,KPR,1075
+5,ri kwang-chon,KPR,1076
+21,ri kwang-hyok,KPR,1077
+1,ri myong-guk,KPR,1078
+2,achraf hakimi,MAR,1079
+22,ahmed reda tagnaouti,MAR,1080
+18,amine harit,MAR,1081
+9,ayoub el kaabi,MAR,1082
+20,aziz bouhaddouz,MAR,1083
+11,fayçal fajr,MAR,1084
+7,hakim ziyech,MAR,1085
+3,hamza mendyl,MAR,1086
+24,herve renard,MAR,1087
+8,karim el ahmadi,MAR,1088
+13,khalid boutaib,MAR,1089
+4,manuel da costa,MAR,1090
+14,mbark boussoufa,MAR,1091
+5,mehdi benatia,MAR,1092
+23,mehdi carcela-gonzalez,MAR,1093
+12,munir mohamedi,MAR,1094
+17,nabil dirar,MAR,1095
+16,nordin amrabat,MAR,1096
+6,romain saiss,MAR,1097
+21,sofyan amrabat,MAR,1098
+1,yassine bounou,MAR,1099
+10,younès belhanda,MAR,1100
+15,youssef ait bennasser,MAR,1101
+19,youssef en-nesyri,MAR,1102
+21,adolfo bautista,MEX,1103
+11,alan pulido,MEX,1104
+22,alberto medina,MEX,1105
+12,alfredo talavera,MEX,1106
+18,andres guardado,MEX,1107
+21,carlos peña,MEX,1108
+3,carlos salcedo,MEX,1109
+3,carlos salcido,MEX,1110
+11,carlos vela,MEX,1111
+10,cuauhtemoc blanco n. 1​,MEX,1112
+5,diego reyes,MEX,1113
+21,edson alvarez,MEX,1114
+16,efrain juarez,MEX,1115
+5,erick gutierrez,MEX,1116
+2,francisco rodriguez,MEX,1117
+6,gerardo torrado n. 1​,MEX,1118
+10,giovani dos santos,MEX,1119
+9,guillermo franco,MEX,1120
+13,guillermo ochoa,MEX,1121
+16,hector herrera,MEX,1122
+15,hector moreno,MEX,1123
+22,hirving lozano,MEX,1124
+2,hugo ayala,MEX,1125
+17,isaac brizuela,MEX,1126
+8,israel castro,MEX,1127
+24,javier aguirre,MEX,1128
+20,javier aquino,MEX,1129
+14,javier hernandez,MEX,1130
+23,jesus gallardo,MEX,1131
+17,jesus manuel corona,MEX,1132
+6,jonathan dos santos,MEX,1133
+19,jonny magallon,MEX,1134
+20,jorge torres nilo,MEX,1135
+1,jose de jesus corona,MEX,1136
+23,jose juan vazquez,MEX,1137
+24,juan carlos osorio,MEX,1138
+23,luis ernesto michel,MEX,1139
+8,marco fabian,MEX,1140
+16,miguel angel ponce1,MEX,1141
+24,miguel herrera,MEX,1142
+7,miguel layun,MEX,1143
+19,oribe peralta,MEX,1144
+1,oscar perez,MEX,1145
+7,pablo barrera,MEX,1146
+12,paul aguilar,MEX,1147
+4,rafael marquez,MEX,1148
+4,rafael marquez​,MEX,1149
+9,raul jimenez,MEX,1150
+5,ricardo osorio,MEX,1151
+13,andre ooijer,NED,1152
+11,arjen robben,NED,1153
+24,bert van marwijk,NED,1154
+4,bruno martins indi,NED,1155
+5,daley blind,NED,1156
+7,daryl janmaat,NED,1157
+14,demy de zeeuw,NED,1158
+7,dirk kuyt,NED,1159
+15,edson braafheid,NED,1160
+17,eljero elia,NED,1161
+20,georginio wijnaldum,NED,1162
+5,giovanni van bronckhorst,NED,1163
+2,gregory van der wiel,NED,1164
+20,ibrahim afellay,NED,1165
+1,jasper cillessen,NED,1166
+17,jeremain lens,NED,1167
+13,joel veltman,NED,1168
+3,john heitinga,NED,1169
+8,jonathan de guzman,NED,1170
+16,jordy clasie,NED,1171
+4,joris mathijsen,NED,1172
+12,khalid boulahrouz,NED,1173
+21,klaas-jan huntelaar,NED,1174
+18,leroy fer,NED,1175
+24,louis van gaal,NED,1176
+1,maarten stekelenburg,NED,1177
+6,mark van bommel,NED,1178
+21,memphis depay,NED,1179
+16,michel vorm,NED,1180
+8,nigel de jong,NED,1181
+12,paul verhaegh,NED,1182
+23,rafael van der vaart,NED,1183
+9,robin van persie,NED,1184
+2,ron vlaar,NED,1185
+19,ryan babel,NED,1186
+22,sander boschker,NED,1187
+3,stefan de vrij,NED,1188
+18,stijn schaars,NED,1189
+14,terence kongolo,NED,1190
+23,tim krul,NED,1191
+10,wesley sneijder,NED,1192
+12,abdullahi shehu,NGR,1193
+7,ahmed musa,NGR,1194
+18,alex iwobi,NGR,1195
+16,austin ejide,NGR,1196
+13,ayila yussuf,NGR,1197
+6,azubuike egwuekwe,NGR,1198
+2,brian idowu,NGR,1199
+10,brown ideye,NGR,1200
+17,chidi odiah,NGR,1201
+20,chidozie awaziem,NGR,1202
+21,chigozie agbim,NGR,1203
+19,chinedu ogbuke obasi,NGR,1204
+16,daniel akpeyi,NGR,1205
+6,danny shittu,NGR,1206
+22,dele adeleye,NGR,1207
+23,dele aiyenugba,NGR,1208
+20,dickson etuhu,NGR,1209
+5,efe ambrose,NGR,1210
+3,ejike uzoenyi 1,NGR,1211
+21,elderson echiejile,NGR,1212
+9,emmanuel emenike,NGR,1213
+23,francis uzoho,NGR,1214
+24,gernot rohr,NGR,1215
+14,godfrey oboabona,NGR,1216
+1,ikechukwu ezenwa,NGR,1217
+15,joel obi,NGR,1218
+10,john obi mikel,NGR,1219
+19,john ogu,NGR,1220
+7,john utaka,NGR,1221
+2,joseph yobo,NGR,1222
+13,juwon oshaniwa,NGR,1223
+12,kalu uche,NGR,1224
+14,kelechi iheanacho,NGR,1225
+22,kenneth omeruo,NGR,1226
+12,kunle odunlami,NGR,1227
+24,lars lagerback,NGR,1228
+6,leon balogun,NGR,1229
+15,lukman haruna,NGR,1230
+20,michael uchebo,NGR,1231
+18,michel babatunde,NGR,1232
+4,nwankwo kanu,NGR,1233
+9,obafemi martins,NGR,1234
+9,odion ighalo,NGR,1235
+17,ogenyi onazi,NGR,1236
+8,oghenekaro etebo,NGR,1237
+8,peter odemwingie,NGR,1238
+5,rabiu afolabi,NGR,1239
+15,ramon azeez,NGR,1240
+4,reuben gabriel,NGR,1241
+14,sani kaita,NGR,1242
+23,shola ameobi,NGR,1243
+13,simeon nwankwo,NGR,1244
+24,stephen keshi,NGR,1245
+3,taye taiwo,NGR,1246
+21,tyronne ebuehi,NGR,1247
+19,uche nwofor,NGR,1248
+11,victor moses,NGR,1249
+18,victor obinna,NGR,1250
+1,vincent enyeama,NGR,1251
+4,wilfred ndidi,NGR,1252
+5,william troost-ekong,NGR,1253
+8,yakubu aiyegbeni,NGR,1254
+16,aaron clapham,NZL,1255
+18,andrew boyens,NZL,1256
+13,andy barron,NZL,1257
+2,ben sigmund,NZL,1258
+10,chris killen,NZL,1259
+20,chris wood,NZL,1260
+17,david mulligan,NZL,1261
+12,glen moss,NZL,1262
+5,ivan vicelich,NZL,1263
+23,james bannatyne,NZL,1264
+22,jeremy brockie,NZL,1265
+21,jeremy christie,NZL,1266
+11,leo bertos,NZL,1267
+1,mark paston,NZL,1268
+15,michael mcglinchey,NZL,1269
+24,ricki herbert,NZL,1270
+14,rory fallon,NZL,1271
+6,ryan nelsen,NZL,1272
+9,shane smeltz,NZL,1273
+7,simon elliott,NZL,1274
+8,tim brown,NZL,1275
+19,tommy smith,NZL,1276
+3,tony lochhead,NZL,1277
+4,winston reid,NZL,1278
+16,abdiel arroyo,PAN,1279
+13,adolfo machado,PAN,1280
+22,alex rodriguez,PAN,1281
+20,anibal godoy,PAN,1282
+11,armando cooper,PAN,1283
+7,blas perez,PAN,1284
+8,edgar barcenas,PAN,1285
+15,erick davis,PAN,1286
+23,felipe baloy,PAN,1287
+4,fidel escobar,PAN,1288
+6,gabriel gomez,PAN,1289
+9,gabriel torres,PAN,1290
+3,harold cummings,PAN,1291
+24,hernan dario gomez,PAN,1292
+10,ismael diaz,PAN,1293
+1,jaime penedo,PAN,1294
+12,jose calderon,PAN,1295
+21,jose luis rodriguez,PAN,1296
+17,luis ovalle,PAN,1297
+18,luis tejada,PAN,1298
+2,michael amir murillo,PAN,1299
+19,ricardo avila,PAN,1300
+5,roman torres,PAN,1301
+14,valentin pimentel,PAN,1302
+22,aldo bobadilla,PAR,1303
+21,antolin alcaraz,PAR,1304
+17,aureliano torres,PAR,1305
+6,carlos bonet,PAR,1306
+3,claudio morel,PAR,1307
+16,cristian riveros,PAR,1308
+2,dario veron,PAR,1309
+4,denis caniza  1°,PAR,1310
+12,diego barreto,PAR,1311
+8,edgar barreto,PAR,1312
+10,edgar benitez,PAR,1313
+13,enrique vera,PAR,1314
+24,gerardo martino,PAR,1315
+11,jonathan santana,PAR,1316
+5,julio caceres,PAR,1317
+1,justo villar  2° n. 1​,PAR,1318
+19,lucas barrios,PAR,1319
+18,nelson haedo,PAR,1320
+20,nestor ortigoza,PAR,1321
+7,oscar cardozo,PAR,1322
+14,paulo da silva,PAR,1323
+23,rodolfo gamarra,PAR,1324
+9,roque santa cruz,PAR,1325
+15,victor caceres,PAR,1326
+2,alberto rodriguez,PER,1327
+3,aldo corzo,PER,1328
+4,anderson santamaria,PER,1329
+18,andre carrillo,PER,1330
+14,andy polo,PER,1331
+12,carlos caceda,PER,1332
+8,christian cueva,PER,1333
+15,christian ramos,PER,1334
+20,edison flores,PER,1335
+10,jefferson farfan,PER,1336
+21,jose carvallo,PER,1337
+17,luis advincula,PER,1338
+5,miguel araujo,PER,1339
+6,miguel trauco,PER,1340
+22,nilson loyola,PER,1341
+9,paolo guerrero,PER,1342
+7,paolo hurtado,PER,1343
+23,pedro aquino,PER,1344
+1,pedro gallese,PER,1345
+11,raul ruidiaz,PER,1346
+13,renato tapia,PER,1347
+24,ricardo gareca,PER,1348
+16,wilder cartagena,PER,1349
+19,yoshimar yotun,PER,1350
+24,adam nawałka,POL,1351
+7,arkadiusz milik,POL,1352
+3,artur jędrzejczyk,POL,1353
+18,bartosz bereszyński,POL,1354
+12,bartosz białkowski,POL,1355
+23,dawid kownacki,POL,1356
+10,grzegorz krychowiak,POL,1357
+6,jacek goralski,POL,1358
+16,jakub błaszczykowski,POL,1359
+5,jan bednarek,POL,1360
+15,kamil glik,POL,1361
+11,kamil grosicki,POL,1362
+8,karol linetty,POL,1363
+13,maciej rybus,POL,1364
+2,michał pazdan,POL,1365
+19,piotr zieliński,POL,1366
+21,rafał kurzawa,POL,1367
+9,robert lewandowski,POL,1368
+17,sławomir peszko,POL,1369
+4,thiago cionek,POL,1370
+1,wojciech szczęsny,POL,1371
+22,łukasz fabiański,POL,1372
+20,łukasz piszczek,POL,1373
+14,łukasz teodorczyk,POL,1374
+23,adrien silva,POR,1375
+19,andre almeida,POR,1376
+9,andre silva,POR,1377
+12,anthony lopes,POR,1378
+23,bebe,POR,1379
+11,bernardo silva,POR,1380
+22,beto,POR,1381
+2,bruno alves,POR,1382
+16,bruno fernandes,POR,1383
+24,carlos queiroz,POR,1384
+21,cedric soares,POR,1385
+7,cristiano ronaldo,POR,1386
+22,daniel fernandes,POR,1387
+10,danny,POR,1388
+20,deco,POR,1389
+5,duda,POR,1390
+11,eder,POR,1391
+1,eduardo,POR,1392
+5,fabio coentrão,POR,1393
+24,fernando santos,POR,1394
+18,gelson martins,POR,1395
+17,gonçalo guedes,POR,1396
+9,hugo almeida,POR,1397
+6,jose fonte,POR,1398
+10,joão mario,POR,1399
+8,joão moutinho,POR,1400
+21,joão pereira,POR,1401
+9,liedson,POR,1402
+4,manuel fernandes,POR,1403
+19,mario rui,POR,1404
+13,miguel,POR,1405
+4,miguel veloso,POR,1406
+17,nani,POR,1407
+14,neto,POR,1408
+24,paulo bento,POR,1409
+3,paulo ferreira,POR,1410
+8,pedro mendes,POR,1411
+3,pepe,POR,1412
+15,rafa,POR,1413
+5,raphael guerreiro,POR,1414
+16,raul meireles,POR,1415
+6,ricardo carvalho,POR,1416
+13,ricardo costa,POR,1417
+15,ricardo pereira,POR,1418
+20,ricardo quaresma,POR,1419
+4,rolando,POR,1420
+20,ruben amorim,POR,1421
+13,ruben dias,POR,1422
+12,rui patricio,POR,1423
+18,silvestre varela,POR,1424
+11,simão,POR,1425
+19,tiago,POR,1426
+10,vieirinha,POR,1427
+6,william carvalho,POR,1428
+9,alan dzagoyev,RUS,1429
+17,aleksandr golovin,RUS,1430
+19,aleksandr samedov,RUS,1431
+21,aleksandr yerojin,RUS,1432
+15,aleksei miranchuk,RUS,1433
+12,andrei lunev,RUS,1434
+5,andrei semionov,RUS,1435
+16,anton miranchuk,RUS,1436
+22,artiom dziuba,RUS,1437
+7,daler kuziayev,RUS,1438
+6,denis cheryshev,RUS,1439
+13,fiodor kudriashov,RUS,1440
+1,igor akinfeyev,RUS,1441
+23,igor smolnikov,RUS,1442
+3,ilia kutepov,RUS,1443
+2,mario fernandes,RUS,1444
+10,ramiro lopez,RUS,1445
+11,roman zobnin,RUS,1446
+4,serguei ignashevich,RUS,1447
+24,stanislav cherchesov,RUS,1448
+20,vladimir gabulov,RUS,1449
+14,vladimir granat,RUS,1450
+8,yuri gazinski,RUS,1451
+18,yuri zhirkov,RUS,1452
+1,abdoulaye diallo,SEN,1453
+23,alfred gomis,SEN,1454
+13,alfred n'diaye,SEN,1455
+24,aliou cisse,SEN,1456
+17,badou ndiaye,SEN,1457
+11,cheikh n'doye,SEN,1458
+8,cheikhou kouyate,SEN,1459
+15,diafra sakho,SEN,1460
+5,idrissa gueye,SEN,1461
+18,ismaila sarr,SEN,1462
+3,kalidou koulibaly,SEN,1463
+4,kara mbodji,SEN,1464
+20,keita balde,SEN,1465
+16,khadim n'diaye,SEN,1466
+21,lamine gassama,SEN,1467
+19,m'baye niang,SEN,1468
+9,mame biram diouf,SEN,1469
+14,moussa konate,SEN,1470
+7,moussa sow,SEN,1471
+22,moussa wague,SEN,1472
+10,sadio mane,SEN,1473
+6,salif sane,SEN,1474
+2,saliou ciss,SEN,1475
+12,youssouf sabaly,SEN,1476
+23,dušan kuciak,SLK,1477
+12,dušan perniš,SLK,1478
+18,erik jendrišek,SLK,1479
+13,filip hološko,SLK,1480
+8,jan kozak,SLK,1481
+1,jan mucha,SLK,1482
+16,jan ďurica,SLK,1483
+19,juraj kucka,SLK,1484
+20,kamil kopunek,SLK,1485
+21,kornel salata,SLK,1486
+17,marek hamšik,SLK,1487
+10,marek sapara,SLK,1488
+4,marek čech,SLK,1489
+14,martin jakubko,SLK,1490
+22,martin petraš,SLK,1491
+3,martin škrtel,SLK,1492
+15,miroslav stoch,SLK,1493
+2,peter pekarik,SLK,1494
+5,radoslav zabavnik,SLK,1495
+11,robert vittek,SLK,1496
+9,stanislav šestak,SLK,1497
+7,vladimir weiss,SLK,1498
+6,zdeno štrba,SLK,1499
+18,aleksandar radosavljevič,SLN,1500
+16,aleksander šeliga,SLN,1501
+17,andraž kirm,SLN,1502
+20,andrej komac,SLN,1503
+13,bojan jokić,SLN,1504
+5,boštjan cesar,SLN,1505
+6,branko ilič,SLN,1506
+21,dalibor stevanovič,SLN,1507
+3,elvedin džinič,SLN,1508
+12,jasmin handanovič,SLN,1509
+4,marko šuler,SLN,1510
+22,matej mavrič,SLN,1511
+24,matjaž kek,SLN,1512
+11,milivoje novakovič,SLN,1513
+2,mišo brečko,SLN,1514
+7,nejc pečnik,SLN,1515
+15,rene krhin,SLN,1516
+8,robert koren,SLN,1517
+1,samir handanovič,SLN,1518
+19,suad filekovič,SLN,1519
+23,tim matavž,SLN,1520
+10,valter birsa,SLN,1521
+9,zlatan ljubijankič,SLN,1522
+14,zlatko dedič,SLN,1523
+4,aaron mokoena,SOA,1524
+10,alan dzagoyev,SOA,1525
+11,aleksandr kerzhakov,SOA,1526
+9,aleksandr kokorin,SOA,1527
+19,aleksandr samedov,SOA,1528
+21,aleksei ionov,SOA,1529
+2,aleksei kozlov,SOA,1530
+5,andrei semionov,SOA,1531
+22,andrei yeschenko,SOA,1532
+5,anele ngcongca,SOA,1533
+17,bernard parker,SOA,1534
+20,bongani khumalo,SOA,1535
+24,carlos alberto parreira,SOA,1536
+8,denis glushakov,SOA,1537
+23,dmitri kombarov,SOA,1538
+24,fabio capello,SOA,1539
+3,gueorgui schennikov,SOA,1540
+1,igor akinfeyev,SOA,1541
+7,igor denisov,SOA,1542
+16,itumeleng khune,SOA,1543
+13,kagiso dikgacoi,SOA,1544
+9,katlego mphela,SOA,1545
+7,lance davids,SOA,1546
+15,lucas thwala,SOA,1547
+6,macbeth sibaya,SOA,1548
+6,maksim kaninnikov,SOA,1549
+14,matthew booth,SOA,1550
+1,moneeb josephs,SOA,1551
+17,oleg shatov,SOA,1552
+15,pavel moguilevets1,SOA,1553
+12,reneilwe letsholonyane,SOA,1554
+4,serguei ignashevich,SOA,1555
+16,serguei ryzhikov,SOA,1556
+22,shu-aib walters,SOA,1557
+2,siboniso gaxa,SOA,1558
+8,siphiwe tshabalala,SOA,1559
+18,siyabonga nomvethe,SOA,1560
+21,siyabonga sangweni,SOA,1561
+10,steven pienaar,SOA,1562
+19,surprise moriri,SOA,1563
+11,teko modise,SOA,1564
+23,thanduyise khuboni,SOA,1565
+3,tsepo masilela,SOA,1566
+14,vasili berezutski,SOA,1567
+20,viktor faizulin,SOA,1568
+13,vladimir granat,SOA,1569
+12,yuri lodyguin,SOA,1570
+18,yuri zhirkov,SOA,1571
+9,ahn jung-hwan,SOK,1572
+22,cha du-ri,SOK,1573
+23,cho hyun-woo,SOK,1574
+4,cho yong-hyung,SOK,1575
+22,go yo-han,SOK,1576
+8,ha dae-sung,SOK,1577
+14,han kook-young,SOK,1578
+14,hong chul,SOK,1579
+20,hong jeong-ho,SOK,1580
+24,hong myung-bo,SOK,1581
+24,huh jung-moo,SOK,1582
+11,hwang hee-chan,SOK,1583
+6,hwang seok-ho,SOK,1584
+20,jang hyun-soo,SOK,1585
+19,ji dong-won,SOK,1586
+8,ju se-jong,SOK,1587
+3,jung seung-hyun,SOK,1588
+1,jung sung-ryong,SOK,1589
+15,jung woo-young,SOK,1590
+23,kang min-soo,SOK,1591
+16,ki sung-yueng,SOK,1592
+7,kim bo-kyung,SOK,1593
+2,kim chang-soo,SOK,1594
+15,kim dong-jin,SOK,1595
+3,kim hyung-il,SOK,1596
+13,kim jae-sung,SOK,1597
+21,kim jin-hyeon,SOK,1598
+8,kim jung-woo,SOK,1599
+12,kim min-woo,SOK,1600
+5,kim nam-il,SOK,1601
+21,kim seung-gyu,SOK,1602
+18,kim shin-wook,SOK,1603
+5,kim young-gwon,SOK,1604
+21,kim young-kwang,SOK,1605
+13,koo ja-cheol,SOK,1606
+4,kwak tae-hwi,SOK,1607
+23,lee bum-young,SOK,1608
+17,lee chung-yong,SOK,1609
+20,lee dong-gook,SOK,1610
+17,lee jae-sung,SOK,1611
+14,lee jung-soo,SOK,1612
+11,lee keun-ho,SOK,1613
+10,lee seung-woo,SOK,1614
+11,lee seung-yeoul,SOK,1615
+1,lee woon-jae,SOK,1616
+12,lee yong,SOK,1617
+12,lee young-pyo,SOK,1618
+18,moon seon-min,SOK,1619
+4,oh ban-suk,SOK,1620
+2,oh beom-seok,SOK,1621
+10,park chu-young,SOK,1622
+7,park ji-sung,SOK,1623
+15,park jong-woo,SOK,1624
+22,park joo-ho,SOK,1625
+24,shin tae-yong,SOK,1626
+9,son heung-min,SOK,1627
+19,yeom ki-hun,SOK,1628
+3,yun suk-young,SOK,1629
+5,yun young-sun,SOK,1630
+17,alvaro arbeloa,SPA,1631
+12,alvaro odriozola,SPA,1632
+6,andres iniesta,SPA,1633
+5,carles puyol,SPA,1634
+4,carlos marchena,SPA,1635
+14,cesar azpilicueta,SPA,1636
+10,cesc fàbregas,SPA,1637
+2,dani carvajal,SPA,1638
+1,david de gea,SPA,1639
+21,david silva,SPA,1640
+7,david villa,SPA,1641
+19,diego costa,SPA,1642
+24,fernando hierro,SPA,1643
+19,fernando llorente,SPA,1644
+9,fernando torres,SPA,1645
+3,gerard pique,SPA,1646
+17,iago aspas,SPA,1647
+1,iker casillas,SPA,1648
+22,isco,SPA,1649
+20,javi martinez,SPA,1650
+22,jesus navas,SPA,1651
+11,joan capdevila,SPA,1652
+18,jordi alba,SPA,1653
+13,juan mata,SPA,1654
+5,juanfran,SPA,1655
+13,kepa arrizabalaga,SPA,1656
+8,koke,SPA,1657
+11,lucas vazquez,SPA,1658
+20,marco asensio,SPA,1659
+4,nacho fernandez,SPA,1660
+16,nacho monreal,SPA,1661
+18,pedro rodriguez,SPA,1662
+23,pepe reina,SPA,1663
+2,raul albiol,SPA,1664
+9,rodrigo,SPA,1665
+20,santi cazorla,SPA,1666
+7,saul ñiguez,SPA,1667
+16,sergio busquets,SPA,1668
+15,sergio ramos,SPA,1669
+10,thiago alcantara,SPA,1670
+24,vicente del bosque,SPA,1671
+12,victor valdes,SPA,1672
+14,xabi alonso,SPA,1673
+8,xavi hernandez,SPA,1674
+22,adem ljajić,SRB,1675
+3,aleksandar kolarov,SRB,1676
+13,aleksandar luković,SRB,1677
+9,aleksandar mitrović,SRB,1678
+8,aleksandar prijović,SRB,1679
+7,andrija živković,SRB,1680
+2,antonio rukavina,SRB,1681
+23,anđelko đuričić,SRB,1682
+12,bojan isailović,SRB,1683
+6,branislav ivanović,SRB,1684
+8,danko lazović,SRB,1685
+10,dejan stanković,SRB,1686
+21,dragan mrđa,SRB,1687
+10,dušan tadić,SRB,1688
+3,duško tošić,SRB,1689
+17,filip kostić,SRB,1690
+4,gojko kačar,SRB,1691
+16,ivan obradović,SRB,1692
+19,luka jović,SRB,1693
+4,luka milivojević,SRB,1694
+23,marko dmitrović,SRB,1695
+16,marko grujić,SRB,1696
+9,marko pantelić,SRB,1697
+14,milan jovanović,SRB,1698
+14,milan rodić,SRB,1699
+17,miloš krasić,SRB,1700
+18,miloš ninković,SRB,1701
+13,miloš veljković,SRB,1702
+24,mladen krstajić,SRB,1703
+21,nemanja matić,SRB,1704
+18,nemanja radonjić,SRB,1705
+5,nemanja vidić,SRB,1706
+11,nenad milijaš,SRB,1707
+20,neven subotić,SRB,1708
+15,nikola milenković,SRB,1709
+15,nikola žigić,SRB,1710
+12,predrag rajković,SRB,1711
+24,radomir antić,SRB,1712
+19,radosav petrović,SRB,1713
+20,sergej milinković-savić,SRB,1714
+5,uroš spajić,SRB,1715
+1,vladimir stojković,SRB,1716
+22,zdravko kuzmanović,SRB,1717
+7,zoran tošić,SRB,1718
+8,albin ekdal,SUE,1719
+4,andreas granqvist,SUE,1720
+10,emil forsberg,SUE,1721
+16,emil krafth,SUE,1722
+14,filip helander,SUE,1723
+13,gustav svensson,SUE,1724
+22,isaac kiese thelin,SUE,1725
+24,janne andersson,SUE,1726
+21,jimmy durmaz,SUE,1727
+11,john guidetti,SUE,1728
+12,karl-johan johnsson,SUE,1729
+23,kristoffer nordfeldt,SUE,1730
+6,ludwig augustinsson,SUE,1731
+9,marcus berg,SUE,1732
+19,marcus rohden,SUE,1733
+5,martin olsson,SUE,1734
+2,mikael lustig,SUE,1735
+20,ola toivonen,SUE,1736
+15,oscar hiljemark,SUE,1737
+18,pontus jansson,SUE,1738
+1,robin olsen,SUE,1739
+7,sebastian larsson,SUE,1740
+3,victor lindelof,SUE,1741
+17,viktor claesson,SUE,1742
+18,admir mehmedi,SWZ,1743
+18,albert bunjaku,SWZ,1744
+9,alexander frei,SWZ,1745
+6,benjamin huggel,SWZ,1746
+10,blaise nkufo,SWZ,1747
+15,blerim džemaili,SWZ,1748
+7,breel embolo,SWZ,1749
+17,denis zakaria,SWZ,1750
+1,diego benaglio,SWZ,1751
+19,eren derdiyok,SWZ,1752
+22,fabian schar,SWZ,1753
+3,françois moubandje,SWZ,1754
+16,gelson fernandes,SWZ,1755
+8,gokhan inler,SWZ,1756
+8,gokhan i̇nler,SWZ,1757
+10,granit xhaka,SWZ,1758
+15,hakan yakın,SWZ,1759
+9,haris seferović,SWZ,1760
+20,johan djourou,SWZ,1761
+21,johnny leoni,SWZ,1762
+19,josip drmić,SWZ,1763
+3,ludovic magnin,SWZ,1764
+5,manuel akanji,SWZ,1765
+14,marco padalino,SWZ,1766
+12,marco wolfli,SWZ,1767
+22,mario eggimann,SWZ,1768
+17,mario gavranović,SWZ,1769
+6,michael lang,SWZ,1770
+4,nico elvedi,SWZ,1771
+24,ottmar hitzfeld,SWZ,1772
+4,philippe senderos,SWZ,1773
+20,pirmin schwegler,SWZ,1774
+8,remo freuler,SWZ,1775
+3,reto ziegler,SWZ,1776
+13,ricardo rodriguez,SWZ,1777
+21,roman burki,SWZ,1778
+2,stephan lichtsteiner,SWZ,1779
+13,stephane grichting,SWZ,1780
+5,steve von bergen,SWZ,1781
+14,steven zuber,SWZ,1782
+7,tranquillo barnetta,SWZ,1783
+14,valentin stocker,SWZ,1784
+11,valon behrami,SWZ,1785
+24,vladimir petković,SWZ,1786
+23,xherdan shaqiri,SWZ,1787
+12,yann sommer,SWZ,1788
+12,yvon mvogo,SWZ,1789
+15,ahmed khalil,TNZ,1790
+12,ali maaloul,TNZ,1791
+9,anice badri,TNZ,1792
+16,aymen mathlouthi,TNZ,1793
+18,bassem srarfi,TNZ,1794
+11,dylan bronn,TNZ,1795
+17,ellyes skhiri,TNZ,1796
+8,fakhreddine ben youssef,TNZ,1797
+1,farouk ben mustapha,TNZ,1798
+13,ferjani sassi,TNZ,1799
+20,ghailene chaalali,TNZ,1800
+21,hamdi nagguez,TNZ,1801
+14,mohamed amine ben amor,TNZ,1802
+22,mouez hassen,TNZ,1803
+24,nabil maaloul,TNZ,1804
+23,naim sliti,TNZ,1805
+5,oussama haddadi,TNZ,1806
+6,rami bedoui,TNZ,1807
+19,saber khalifa,TNZ,1808
+7,saif-eddine khaoui,TNZ,1809
+2,syam ben youssef,TNZ,1810
+10,wahbi khazri,TNZ,1811
+4,yassine meriah,TNZ,1812
+3,yohan benalouane,TNZ,1813
+8,abel hernandez,URU ,1814
+20,alvaro fernandez,URU ,1815
+20,alvaro gonzalez,URU ,1816
+11,alvaro pereira,URU ,1817
+19,andres scotti,URU ,1818
+5,carlos sanchez,URU ,1819
+11,christian stuani,URU ,1820
+7,cristian rodriguez,URU ,1821
+10,diego forlan,URU ,1822
+3,diego godin,URU ,1823
+17,diego laxalt,URU ,1824
+2,diego lugano,URU ,1825
+15,diego perez,URU ,1826
+21,edinson cavani,URU ,1827
+17,egidio arevalo rios,URU ,1828
+1,fernando muslera,URU ,1829
+18,gaston ramirez,URU ,1830
+13,gaston silva,URU ,1831
+10,giorgian de arrascaeta,URU ,1832
+4,guillermo varela,URU ,1833
+18,ignacio gonzalez,URU ,1834
+20,jonathan urretaviscaya,URU ,1835
+4,jorge fucile,URU ,1836
+2,jose gimenez,URU ,1837
+13,jose maria gimenez,URU ,1838
+12,juan castillo,URU ,1839
+14,lucas torreira,URU ,1840
+9,luis suarez,URU ,1841
+22,martin caceres,URU ,1842
+12,martin campaña,URU ,1843
+23,martin silva,URU ,1844
+15,matias vecino,URU ,1845
+6,mauricio victorino,URU ,1846
+18,maxi gomez,URU ,1847
+16,maximiliano pereira,URU ,1848
+8,nahitan nandez,URU ,1849
+14,nicolas lodeiro,URU ,1850
+24,oscar washington tabarez,URU ,1851
+6,rodrigo bentancur,URU ,1852
+12,rodrigo muñoz,URU ,1853
+13,sebastian abreu,URU ,1854
+19,sebastian coates,URU ,1855
+8,sebastian eguren,URU ,1856
+21,sebastian fernandez,URU ,1857
+5,walter gargano,URU ,1858
+11,alejandro bedoya,USA,1859
+9,aron johannsson,USA,1860
+22,benny feilhaber,USA,1861
+24,bob bradley,USA,1862
+14,brad davis,USA,1863
+18,brad guzan,USA,1864
+3,carlos bocanegra,USA,1865
+21,clarence goodson,USA,1866
+8,clint dempsey,USA,1867
+7,damarcus beasley,USA,1868
+2,deandre yedlin,USA,1869
+14,edson buddle,USA,1870
+23,fabian johnson,USA,1871
+16,francisco torres,USA,1872
+20,geoff cameron,USA,1873
+19,graham zusi,USA,1874
+9,herculez gomez,USA,1875
+15,jay demerit,USA,1876
+13,jermaine jones,USA,1877
+6,john brooks,USA,1878
+12,jonathan bornstein,USA,1879
+2,jonathan spector,USA,1880
+17,jozy altidore,USA,1881
+16,julian green,USA,1882
+24,jurgen klinsmann,USA,1883
+15,kyle beckerman,USA,1884
+10,landon donovan,USA,1885
+23,marcus hahnemann,USA,1886
+19,maurice edu,USA,1887
+4,michael bradley,USA,1888
+10,mikkel diskerud,USA,1889
+22,nick rimando,USA,1890
+5,oguchi onyewu,USA,1891
+3,omar gonzalez,USA,1892
+13,ricardo clark,USA,1893
+20,robbie findley,USA,1894
+6,steve cherundolo,USA,1895
+11,stuart holden,USA,1896
+21,tim chandler,USA,1897
+1,tim howard,USA,1898

@@ -1,0 +1,9 @@
+PARA ORDENAR LA INFORMACIÓN DE LOS GOLES -> Tener en cuenta como prerrequisito el orden correcto de los jugadores o las plantillas, una versión final básicamente.
+
+	* Ordenar por pais, generar un csv
+	* Verificar de la tabla de jugadores qué jugador realizó qué gol, reemplazar 'x' nombre, por 'y' entero que represente a un jugador
+
+PARA ORDENAR LOS GOLEADORES
+	
+	* Ordenar por pais de nuevo, generar un csv, para cargar en excel 
+	* Verificar de la tabla de jugadores qué jugador realizó qué cantidad de goles, reemplazar 'x' nombre, por 'y' entero que represente a un jugador

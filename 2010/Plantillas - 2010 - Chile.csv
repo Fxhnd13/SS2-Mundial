@@ -1,0 +1,25 @@
+#,Nombre,Posicion,Edad,PJ Sel,Club,year
+1,Claudio Bravo,POR,27,43,Real Sociedad,2010
+2,Ismael Fuentes,DEF,28,29,Universidad Catolica,2010
+3,Waldo Ponce,DEF,27,25,Universidad Catolica,2010
+4,Mauricio Isla,DEF,21,12,Udinese,2010
+5,Pablo Contreras,DEF,31,51,PAOK Salonica FC,2010
+6,Carlos Carmona,MED,23,20,Reggina,2010
+7,Alexis Sanchez,DEL,21,29,Udinese,2010
+8,Arturo Vidal,DEF,23,23,Bayer Leverkusen,2010
+9,Humberto Suazo,DEL,29,42,Real Zaragoza,2010
+10,Jorge Valdivia,MED,26,39,Al Ain,2010
+11,Mark Gonzalez,DEL,25,39,CSKA Moscu,2010
+12,Miguel Pinto,POR,26,14,Universidad de Chile,2010
+13,Marco Estrada,MED,27,22,Universidad de Chile,2010
+14,Matias Fernandez,MED,24,37,SPORting Lisboa,2010
+15,Jean Beausejour,MED,26,27,America de Mexico,2010
+16,Fabian Orellana,DEL,24,16,Xerez CD,2010
+17,Gary MEDel,DEF,22,24,Boca Juniors,2010
+18,Gonzalo Jara,DEF,24,34,West Bromwich Albion,2010
+19,Gonzalo Fierro,DEL,27,18,Flamengo,2010
+20,Rodrigo Millar,MED,28,21,Colo-Colo,2010
+21,Rodrigo Tello,MED,30,34,Besiktas JK,2010
+22,Esteban Paredes,DEL,29,14,Colo-Colo,2010
+23,Luis Marin,POR,27,3,Union Española,2010
+24,Marcelo Bielsa,DT,,,,2010
