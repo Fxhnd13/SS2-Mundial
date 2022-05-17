@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transformation>
   <info>
-    <name>normalizacion_goles</name>
+    <name>insercion_dim_jugador</name>
     <description/>
     <extended_description/>
     <trans_version/>
@@ -11,7 +11,7 @@
     <parameters>
       <parameter>
         <name>ruta_base</name>
-        <default_value>C:\Users\jsoberanis\Documents\Proyectos\SS2-Mundial\</default_value>
+        <default_value>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\</default_value>
         <description/>
       </parameter>
     </parameters>
@@ -433,53 +433,111 @@
     <clusterschemas>
     </clusterschemas>
     <created_user>-</created_user>
-    <created_date>2022/05/15 11:26:31.006</created_date>
+    <created_date>2022/05/16 20:24:40.939</created_date>
     <modified_user>-</modified_user>
-    <modified_date>2022/05/15 11:26:31.006</modified_date>
-    <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA=</key_for_session_key>
+    <modified_date>2022/05/16 20:24:40.939</modified_date>
+    <key_for_session_key/>
     <is_key_private>N</is_key_private>
   </info>
   <notepads>
   </notepads>
+  <connection>
+    <name>db_connection</name>
+    <server>localhost</server>
+    <type>MSSQLNATIVE</type>
+    <access>Native</access>
+    <database>Mundial</database>
+    <port>1433</port>
+    <username>sa</username>
+    <password>Encrypted 2be98afc86aa7988bb81cad71cc9ea0c9</password>
+    <servername/>
+    <data_tablespace/>
+    <index_tablespace/>
+    <attributes>
+      <attribute>
+        <code>EXTRA_OPTION_MSSQLNATIVE.instance</code>
+        <attribute>DESKTOP-EKIL1H3</attribute>
+      </attribute>
+      <attribute>
+        <code>FORCE_IDENTIFIERS_TO_LOWERCASE</code>
+        <attribute>N</attribute>
+      </attribute>
+      <attribute>
+        <code>FORCE_IDENTIFIERS_TO_UPPERCASE</code>
+        <attribute>N</attribute>
+      </attribute>
+      <attribute>
+        <code>IS_CLUSTERED</code>
+        <attribute>N</attribute>
+      </attribute>
+      <attribute>
+        <code>MSSQLUseIntegratedSecurity</code>
+        <attribute>false</attribute>
+      </attribute>
+      <attribute>
+        <code>MSSQL_DOUBLE_DECIMAL_SEPARATOR</code>
+        <attribute>N</attribute>
+      </attribute>
+      <attribute>
+        <code>PORT_NUMBER</code>
+        <attribute>1433</attribute>
+      </attribute>
+      <attribute>
+        <code>PRESERVE_RESERVED_WORD_CASE</code>
+        <attribute>Y</attribute>
+      </attribute>
+      <attribute>
+        <code>QUOTE_ALL_FIELDS</code>
+        <attribute>N</attribute>
+      </attribute>
+      <attribute>
+        <code>SUPPORTS_BOOLEAN_DATA_TYPE</code>
+        <attribute>Y</attribute>
+      </attribute>
+      <attribute>
+        <code>SUPPORTS_TIMESTAMP_DATA_TYPE</code>
+        <attribute>Y</attribute>
+      </attribute>
+      <attribute>
+        <code>USE_POOLING</code>
+        <attribute>N</attribute>
+      </attribute>
+    </attributes>
+  </connection>
   <order>
     <hop>
-      <from>Jugadores unicos</from>
-      <to>String operations</to>
+      <from>Todas las selecciones</from>
+      <to>Todas las selecciones ordenadas</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Goles por partido</from>
-      <to>String operations 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>String operations</from>
-      <to>Sort rows</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>String operations 2</from>
-      <to>Sort rows 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Sort rows</from>
+      <from>Todas las selecciones ordenadas</from>
       <to>Merge join</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Sort rows 2</from>
+      <from>Selecciones</from>
+      <to>Selecciones ordenadas</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Selecciones ordenadas</from>
       <to>Merge join</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
       <from>Merge join</from>
-      <to>Text file output</to>
+      <to>Añadir id</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Añadir id</from>
+      <to>Tabla DimTiempoGol</to>
       <enabled>Y</enabled>
     </hop>
   </order>
   <step>
-    <name>Goles por partido</name>
+    <name>Todas las selecciones</name>
     <type>CsvInput</type>
     <description/>
     <distribute>Y</distribute>
@@ -489,7 +547,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>${ruta_base}\Recursos\csvs\Copia de Estadisticas Mundiales de Futbol - Goles por partido.csv</filename>
+    <filename>${ruta_base}Recursos\final_csvs\Copia de Estadisticas Mundiales de Futbol - Selecciones en los mundiales.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -505,8 +563,8 @@
     <encoding>CESU-8</encoding>
     <fields>
       <field>
-        <name>no partido</name>
-        <type>Integer</type>
+        <name>Posición</name>
+        <type>Number</type>
         <format>#</format>
         <currency>Q</currency>
         <decimal>.</decimal>
@@ -516,125 +574,7 @@
         <trim_type>none</trim_type>
       </field>
       <field>
-        <name>jugador</name>
-        <type>String</type>
-        <format/>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>-1</length>
-        <precision>-1</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>tiempo</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>15</length>
-        <precision>0</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
-        <name>extra</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>15</length>
-        <precision>0</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
-        <name>tipo de gol</name>
-        <type>String</type>
-        <format/>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>-1</length>
-        <precision>-1</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>seleccion</name>
-        <type>String</type>
-        <format/>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>-1</length>
-        <precision>-1</precision>
-        <trim_type>both</trim_type>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>496</xloc>
-      <yloc>144</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Jugadores unicos</name>
-    <type>CsvInput</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <filename>${ruta_base}Resultados\jugadores_unicos.csv.csv</filename>
-    <filename_field/>
-    <rownum_field/>
-    <include_filename>N</include_filename>
-    <separator>,</separator>
-    <enclosure/>
-    <header>Y</header>
-    <buffer_size>50000</buffer_size>
-    <lazy_conversion>Y</lazy_conversion>
-    <add_filename_result>N</add_filename_result>
-    <parallel>N</parallel>
-    <newline_possible>N</newline_possible>
-    <format>mixed</format>
-    <encoding>CESU-8</encoding>
-    <fields>
-      <field>
-        <name>#</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>15</length>
-        <precision>0</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
-        <name>Nombre</name>
-        <type>String</type>
-        <format/>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>22</length>
-        <precision>-1</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
-        <name>Seleccion</name>
+        <name>Selección</name>
         <type>String</type>
         <format/>
         <currency>Q</currency>
@@ -645,7 +585,106 @@
         <trim_type>none</trim_type>
       </field>
       <field>
-        <name>id</name>
+        <name>Mundiales</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>Campeón</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>PTS</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>partidos jugados</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>ganados</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>empatados</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>perdidos</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>goles a favor</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>goles en contra</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>Dif</name>
         <type>Integer</type>
         <format>#</format>
         <currency>Q</currency>
@@ -665,8 +704,71 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>224</xloc>
-      <yloc>144</yloc>
+      <xloc>96</xloc>
+      <yloc>96</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Selecciones</name>
+    <type>CsvInput</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <filename>${ruta_base}Recursos\final_csvs\Copia de Estadisticas Mundiales de Futbol - Paises.csv</filename>
+    <filename_field/>
+    <rownum_field/>
+    <include_filename>N</include_filename>
+    <separator>,</separator>
+    <enclosure/>
+    <header>Y</header>
+    <buffer_size>50000</buffer_size>
+    <lazy_conversion>Y</lazy_conversion>
+    <add_filename_result>N</add_filename_result>
+    <parallel>N</parallel>
+    <newline_possible>N</newline_possible>
+    <format>mixed</format>
+    <encoding>CESU-8</encoding>
+    <fields>
+      <field>
+        <name>pais</name>
+        <type>String</type>
+        <format/>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>22</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>codigo</name>
+        <type>String</type>
+        <format/>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>3</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>448</xloc>
+      <yloc>368</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -682,15 +784,13 @@
       <schema_name/>
     </partitioning>
     <join_type>INNER</join_type>
-    <step1>Sort rows 2</step1>
-    <step2>Sort rows</step2>
+    <step1>Todas las selecciones ordenadas</step1>
+    <step2>Selecciones ordenadas</step2>
     <keys_1>
-      <key>seleccion</key>
-      <key>jugador</key>
+      <key>Selección</key>
     </keys_1>
     <keys_2>
-      <key>Seleccion</key>
-      <key>Nombre</key>
+      <key>codigo</key>
     </keys_2>
     <attributes/>
     <cluster_schema/>
@@ -701,13 +801,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>352</xloc>
-      <yloc>496</yloc>
+      <xloc>448</xloc>
+      <yloc>96</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Sort rows</name>
+    <name>Todas las selecciones ordenadas</name>
     <type>SortRows</type>
     <description/>
     <distribute>Y</distribute>
@@ -726,15 +826,7 @@
     <unique_rows>N</unique_rows>
     <fields>
       <field>
-        <name>Seleccion</name>
-        <ascending>Y</ascending>
-        <case_sensitive>N</case_sensitive>
-        <collator_enabled>N</collator_enabled>
-        <collator_strength>0</collator_strength>
-        <presorted>N</presorted>
-      </field>
-      <field>
-        <name>Nombre</name>
+        <name>Selección</name>
         <ascending>Y</ascending>
         <case_sensitive>N</case_sensitive>
         <collator_enabled>N</collator_enabled>
@@ -751,13 +843,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>224</xloc>
-      <yloc>368</yloc>
+      <xloc>272</xloc>
+      <yloc>96</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Sort rows 2</name>
+    <name>Selecciones ordenadas</name>
     <type>SortRows</type>
     <description/>
     <distribute>Y</distribute>
@@ -776,15 +868,7 @@
     <unique_rows>N</unique_rows>
     <fields>
       <field>
-        <name>seleccion</name>
-        <ascending>Y</ascending>
-        <case_sensitive>N</case_sensitive>
-        <collator_enabled>N</collator_enabled>
-        <collator_strength>0</collator_strength>
-        <presorted>N</presorted>
-      </field>
-      <field>
-        <name>jugador</name>
+        <name>codigo</name>
         <ascending>Y</ascending>
         <case_sensitive>N</case_sensitive>
         <collator_enabled>N</collator_enabled>
@@ -801,14 +885,14 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>496</xloc>
-      <yloc>368</yloc>
+      <xloc>448</xloc>
+      <yloc>240</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>String operations</name>
-    <type>StringOperations</type>
+    <name>Tabla DimTiempoGol</name>
+    <type>TableOutput</type>
     <description/>
     <distribute>Y</distribute>
     <custom_distribution/>
@@ -817,19 +901,71 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
+    <connection>db_connection</connection>
+    <schema>dbo</schema>
+    <table>Dim_Seleccion</table>
+    <commit>1000</commit>
+    <truncate>N</truncate>
+    <ignore_errors>N</ignore_errors>
+    <use_batch>Y</use_batch>
+    <specify_fields>Y</specify_fields>
+    <partitioning_enabled>N</partitioning_enabled>
+    <partitioning_field/>
+    <partitioning_daily>N</partitioning_daily>
+    <partitioning_monthly>Y</partitioning_monthly>
+    <tablename_in_field>N</tablename_in_field>
+    <tablename_field/>
+    <tablename_in_table>Y</tablename_in_table>
+    <return_keys>N</return_keys>
+    <return_field/>
     <fields>
       <field>
-        <in_stream_name>Nombre</in_stream_name>
-        <out_stream_name/>
-        <trim_type>both</trim_type>
-        <lower_upper>lower</lower_upper>
-        <padding_type/>
-        <pad_char/>
-        <pad_len/>
-        <init_cap/>
-        <mask_xml/>
-        <digits/>
-        <remove_special_characters/>
+        <column_name>id_seleccion</column_name>
+        <stream_name>id_seleccion</stream_name>
+      </field>
+      <field>
+        <column_name>pts</column_name>
+        <stream_name>PTS</stream_name>
+      </field>
+      <field>
+        <column_name>partidos_jugados</column_name>
+        <stream_name>partidos jugados</stream_name>
+      </field>
+      <field>
+        <column_name>empatados</column_name>
+        <stream_name>empatados</stream_name>
+      </field>
+      <field>
+        <column_name>perdidos</column_name>
+        <stream_name>perdidos</stream_name>
+      </field>
+      <field>
+        <column_name>ganados</column_name>
+        <stream_name>ganados</stream_name>
+      </field>
+      <field>
+        <column_name>goles_favor</column_name>
+        <stream_name>goles a favor</stream_name>
+      </field>
+      <field>
+        <column_name>goles_contra</column_name>
+        <stream_name>goles en contra</stream_name>
+      </field>
+      <field>
+        <column_name>dif</column_name>
+        <stream_name>Dif</stream_name>
+      </field>
+      <field>
+        <column_name>campeon</column_name>
+        <stream_name>Campeón</stream_name>
+      </field>
+      <field>
+        <column_name>mundiales</column_name>
+        <stream_name>Mundiales</stream_name>
+      </field>
+      <field>
+        <column_name>nombre</column_name>
+        <stream_name>pais</stream_name>
       </field>
     </fields>
     <attributes/>
@@ -841,14 +977,14 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>224</xloc>
-      <yloc>256</yloc>
+      <xloc>736</xloc>
+      <yloc>96</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>String operations 2</name>
-    <type>StringOperations</type>
+    <name>Añadir id</name>
+    <type>Sequence</type>
     <description/>
     <distribute>Y</distribute>
     <custom_distribution/>
@@ -857,21 +993,16 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <fields>
-      <field>
-        <in_stream_name>jugador</in_stream_name>
-        <out_stream_name/>
-        <trim_type>both</trim_type>
-        <lower_upper>lower</lower_upper>
-        <padding_type/>
-        <pad_char/>
-        <pad_len/>
-        <init_cap/>
-        <mask_xml/>
-        <digits/>
-        <remove_special_characters/>
-      </field>
-    </fields>
+    <valuename>id_seleccion</valuename>
+    <use_database>N</use_database>
+    <connection>db_connection</connection>
+    <schema/>
+    <seqname>SEQ_</seqname>
+    <use_counter>Y</use_counter>
+    <counter_name/>
+    <start_at>1</start_at>
+    <increment_by>1</increment_by>
+    <max_value>999999999</max_value>
     <attributes/>
     <cluster_schema/>
     <remotesteps>
@@ -881,149 +1012,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>496</xloc>
-      <yloc>256</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Text file output</name>
-    <type>TextFileOutput</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <separator>,</separator>
-    <enclosure/>
-    <enclosure_forced>N</enclosure_forced>
-    <enclosure_fix_disabled>N</enclosure_fix_disabled>
-    <header>Y</header>
-    <footer>N</footer>
-    <format>DOS</format>
-    <compression>None</compression>
-    <encoding>CESU-8</encoding>
-    <endedLine/>
-    <fileNameInField>N</fileNameInField>
-    <fileNameField/>
-    <create_parent_folder>Y</create_parent_folder>
-    <file>
-      <name>${ruta_base}Resultados\Goles por partido</name>
-      <servlet_output>N</servlet_output>
-      <do_not_open_new_file_init>N</do_not_open_new_file_init>
-      <extention>csv</extention>
-      <append>Y</append>
-      <split>N</split>
-      <haspartno>N</haspartno>
-      <add_date>N</add_date>
-      <add_time>N</add_time>
-      <SpecifyFormat>N</SpecifyFormat>
-      <date_time_format/>
-      <add_to_result_filenames>Y</add_to_result_filenames>
-      <pad>N</pad>
-      <fast_dump>N</fast_dump>
-      <splitevery/>
-    </file>
-    <fields>
-      <field>
-        <name>no partido</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>15</length>
-        <precision>0</precision>
-      </field>
-      <field>
-        <name>seleccion</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>both</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>jugador</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>both</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>tiempo</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>15</length>
-        <precision>0</precision>
-      </field>
-      <field>
-        <name>extra</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>15</length>
-        <precision>0</precision>
-      </field>
-      <field>
-        <name>tipo de gol</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>both</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>id</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>15</length>
-        <precision>0</precision>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>352</xloc>
-      <yloc>608</yloc>
+      <xloc>592</xloc>
+      <yloc>96</yloc>
       <draw>Y</draw>
     </GUI>
   </step>

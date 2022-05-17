@@ -1,0 +1,2302 @@
+id,Nombre,Posicion,Edad,PJ Sel,Club,year,Seleccion
+1,abdelkader ghezzal,DEL,25,18,ac siena,2010,ALG
+2,abdelkader laifaoui,DEF,28,7,es setif,2010,ALG
+3,abdelmoumene djabou,DEL,27,8,club africain,2014,ALG
+4,adlène guedioura,CEN,24,1,wolverhampton,2010,ALG
+5,aissa mandi,DEF,22,2,stade de reims,2014,ALG
+6,antar yahia,DEF,28,43,vfl bochum,2010,ALG
+7,carl medjani,DEF,25,,ac ajaccio,2010,ALG
+7,carl medjani,DEF,29,26,valenciennes,2014,ALG
+8,cedric si mohamed,POR,29,1,constantine,2014,ALG
+9,djamel abdoun,CEN,24,3,fc nantes,2010,ALG
+10,djamel mesbah,DEF,25,1,us lecce,2010,ALG
+10,djamel mesbah,DEF,29,26,livorno,2014,ALG
+11,el arbi hillel soudani,DEL,26,22,dinamo zagreb,2014,ALG
+12,essaid belkalem,DEF,25,13,watford,2014,ALG
+13,faouzi chaouchi,POR,25,9,es setif,2010,ALG
+14,faouzi ghoulam,DEF,23,6,napoli,2014,ALG
+15,foued kadir,CEN,26,1,valenciennes fc,2010,ALG
+16,habib bellaid,DEF,24,1,us boulogne,2010,ALG
+17,hassan yebda,CEN,26,9,portsmouth fc,2010,ALG
+17,hassan yebda,CEN,30,25,udinese,2014,ALG
+18,islam slimani,DEL,25,20,sporting de lisboa,2014,ALG
+19,karim matmour,CEN,24,22,borussia monchengladbach,2010,ALG
+20,karim ziani,CEN,27,54,vfl wolfsburgo,2010,ALG
+21,liassine cadamuro,DEF,26,7,mallorca,2014,ALG
+22,lounes gaouaoui,POR,32,48,aso chlef,2010,ALG
+23,madjid bougherra,DEF,27,40,rangers fc,2010,ALG
+23,madjid bougherra,DEF,31,62,lekhwiya,2014,ALG
+24,medhi lacen,CEN,26,2,racing santander,2010,ALG
+24,medhi lacen,CEN,30,30,getafe,2014,ALG
+25,mehdi mostefa,CEN,30,23,ajaccio,2014,ALG
+26,mohamed zemmamouche,POR,29,7,alger,2014,ALG
+27,nabil bentaleb,CEN,19,3,tottenham hotspur,2014,ALG
+28,nabil ghilas,DEL,24,5,porto,2014,ALG
+29,nadir belhadj,DEF,27,44,portsmouth fc,2010,ALG
+30,rabah saadane,DT,,,,2010,ALG
+31,rafik djebbour,DEL,26,15,aek atenas,2010,ALG
+32,rafik halliche,DEF,23,16,nacional madeira,2010,ALG
+32,rafik halliche,DEF,27,29,academica,2014,ALG
+33,rafik saifi,DEL,35,59,istres,2010,ALG
+34,rais m'bolhi,POR,24,1,slavia sofia,2010,ALG
+34,rais m'bolhi,POR,28,28,cska sofia,2014,ALG
+35,riyad mahrez,DEL,23,2,leicester city,2014,ALG
+36,ryad boudebouz,CEN,20,1,sochaux,2010,ALG
+37,saphir taider,CEN,22,11,inter de milan,2014,ALG
+38,sofiane feghouli,DEL,24,19,valencia,2014,ALG
+39,vahid halilhodžić,DT,,,,2014,ALG
+40,yacine brahimi,CEN,24,6,granada,2014,ALG
+41,yazid mansouri,CEN,32,66,fc lorient,2010,ALG
+42,abdullah al-khaibari,MED,21,5,al-shabab,2018,ARA
+43,abdullah al-mayouf,POR,31,11,al-hilal,2018,ARA
+44,abdullah otayf,MED,25,16,al-hilal,2018,ARA
+45,abdulmalek al-khaibri,MED,32,36,al-hilal,2018,ARA
+46,ali al-bulaihi,DEF,28,4,al-hilal,2018,ARA
+47,fahad al-muwallad,DEL,23,45,levante,2018,ARA
+48,hattan bahebri,MED,25,5,al-shabab,2018,ARA
+49,housain al-mogahwi,MED,30,18,al-ahli,2018,ARA
+50,juan antonio pizzi,DT,,,,2018,ARA
+51,mansoor al-harbi,DEF,30,40,al-ahli,2018,ARA
+52,mohamed kanno,MED,23,6,al-hilal,2018,ARA
+53,mohammad al-sahlawi,DEL,31,40,al-nassr,2018,ARA
+54,mohammed al-breik,DEF,25,11,al-hilal,2018,ARA
+55,mohammed al-owais,POR,26,6,al-ahli,2018,ARA
+56,motaz hawsawi,DEF,26,17,al-ahli,2018,ARA
+57,muhannad assiri,DEL,31,18,al-ahli,2018,ARA
+58,omar hawsawi,DEF,32,42,al-nassr,2018,ARA
+59,osama hawsawi,DEF,34,135,al-hilal,2018,ARA
+60,salem al-dawsari,MED,26,33,villarreal,2018,ARA
+61,salman al-faraj,MED,28,43,al-hilal,2018,ARA
+62,taisir al-jassim,MED,33,132,al-ahli,2018,ARA
+63,yahya al-shehri,MED,27,57,leganes,2018,ARA
+64,yasser al-mosailem,POR,34,32,al-ahli,2018,ARA
+65,yasser al-shahrani,DEF,26,37,al-hilal,2018,ARA
+66,agustin orion,POR,32,3,boca juniors,2014,ARG
+67,alejandro sabella,DT,59,,,2014,ARG
+68,angel di maria,MED,22,8,benfica,2010,ARG
+68,angel di maria,MED,30,96,psg,2018,ARG
+68,angel di maria,MED,26,40,real madrid,2014,ARG
+69,ariel garce,DEF,30,4,colon,2010,ARG
+70,augusto fernandez,MED,28,5,celta de vigo,2014,ARG
+71,carlos tevez,DEL,26,54,manchester city,2010,ARG
+72,clemente rodriguez,DEF,28,12,estudiantes de la plata,2010,ARG
+73,cristian ansaldi,DEF,31,5,torino,2018,ARG
+74,cristian pavon,MED,22,8,boca juniors,2018,ARG
+75,diego maradona †,DT,,,,2010,ARG
+76,diego milito,DEL,30,21,inter de milan,2010,ARG
+77,diego pozo,POR,32,3,colon,2010,ARG
+78,eduardo salvio,MED,28,11,benfica,2018,ARG
+79,enzo perez,MED,32,25,river plate,2018,ARG
+79,enzo perez,MED,28,6,benfica,2014,ARG
+80,ever banega,MED,29,64,sevilla,2018,ARG
+81,ezequiel garay,DEF,27,13,benfica,2014,ARG
+82,ezequiel lavezzi,DEL,29,23,psg,2014,ARG
+83,federico fazio,DEF,31,9,roma,2018,ARG
+84,federico fernandez,DEF,25,19,napoli,2014,ARG
+85,fernando gago,MED,28,45,boca juniors,2014,ARG
+86,franco armani,POR,31,1,river plate,2018,ARG
+87,gabriel heinze,DEF,32,64,olympique de marsella,2010,ARG
+88,gabriel mercado,DEF,31,22,sevilla,2018,ARG
+89,giovani lo celso,MED,22,5,psg,2018,ARG
+90,gonzalo higuain,DEL,22,5,real madrid,2010,ARG
+90,gonzalo higuain,DEL,30,75,juventus,2018,ARG
+90,gonzalo higuain,DEL,26,34,napoli,2014,ARG
+91,hugo campagnaro,DEF,33,9,inter de milan,2014,ARG
+92,javier mascherano,MED,26,57,liverpool,2010,ARG
+92,javier mascherano,MED,34,146,hebei fortune,2018,ARG
+92,javier mascherano,MED,30,95,barcelona,2014,ARG
+93,javier pastore,MED,21,1,palermo,2010,ARG
+94,jonas gutierrez,MED,26,16,newcastle united,2010,ARG
+95,jorge sampaoli,DT,,,,2018,ARG
+96,jose basanta,DEF,30,4,monterrey,2014,ARG
+97,juan sebastian veron,MED,35,70,estudiantes de la plata,2010,ARG
+98,lionel messi,DEL,23,45,barcelona,2010,ARG
+98,lionel messi,DEL,30,127,barcelona,2018,ARG
+98,lionel messi,DEL,26,84,barcelona,2014,ARG
+99,lucas biglia,MED,32,58,milan,2018,ARG
+99,lucas biglia,MED,28,13,lazio,2014,ARG
+100,marcos acuña,DEF,26,11,sporting de portugal,2018,ARG
+101,marcos rojo,DEF,28,58,manchester united,2018,ARG
+101,marcos rojo,DEF,24,17,sporting de portugal,2014,ARG
+102,mariano andujar,POR,26,4,catania,2010,ARG
+102,mariano andujar,POR,30,8,napoli,2014,ARG
+103,mario bolatti,MED,25,5,fiorentina,2010,ARG
+104,martin demichelis,DEF,29,25,bayern munich,2010,ARG
+104,martin demichelis,DEF,33,37,manchester city,2014,ARG
+105,martin palermo,DEL,36,14,boca juniors,2010,ARG
+106,maximiliano meza,MED,26,5,independiente,2018,ARG
+107,maximiliano rodriguez,MED,29,36,liverpool,2010,ARG
+107,maximiliano rodriguez,MED,33,51,newell's old boys,2014,ARG
+108,nahuel guzman,POR,32,6,tigres,2018,ARG
+109,nicolas burdisso,DEF,29,29,roma,2010,ARG
+110,nicolas otamendi,DEF,22,7,velez sarsfield,2010,ARG
+110,nicolas otamendi,DEF,30,57,manchester city,2018,ARG
+111,nicolas tagliafico,DEF,25,7,ajax,2018,ARG
+112,pablo zabaleta,DEF,29,29,manchester city,2014,ARG
+113,paulo dybala,DEL,24,13,juventus,2018,ARG
+114,ricardo alvarez,MED,26,4,inter de milan,2014,ARG
+115,rodrigo palacio,DEL,32,16,inter de milan,2014,ARG
+116,sergio aguero,DEL,22,22,atletico de madrid,2010,ARG
+116,sergio aguero,DEL,30,88,manchester city,2018,ARG
+116,sergio aguero,DEL,26,48,manchester city,2014,ARG
+117,sergio romero,POR,23,6,az alkmaar,2010,ARG
+117,sergio romero,POR,27,47,monaco,2014,ARG
+118,walter samuel,DEF,32,54,inter de milan,2010,ARG
+119,wilfredo caballero,POR,36,5,chelsea,2018,ARG
+120,aaron mooy,MED,27,34,huddersfield town,2018,AUS
+121,adam federici,POR,25,1,reading fc,2010,AUS
+122,adam taggart,DEL,21,,newcastle united (ing),2014,AUS
+123,alex wilkinson,DEF,30,,jeonbuk hyundai motors (csr),2014,AUS
+124,andrew nabbout,POR,25,4,urawa red diamonds,2018,AUS
+125,aziz behich,DEF,27,23,bursaspor,2018,AUS
+126,bailey wright,DEF,22,,preston north end (ing),2014,AUS
+127,ben halloran,CEN,22,,fortuna dusseldorf (ale),2014,AUS
+128,bert van marwijk,DT,,,,2018,AUS
+129,brad jones,POR,36,6,feyenoord,2018,AUS
+130,brett emerton,CEN,31,72,blackburn rovers,2010,AUS
+131,brett holman,DEL,26,31,az alkmaar,2010,AUS
+132,carl valeri,CEN,25,21,sassuolo,2010,AUS
+133,craig moore,DEF,34,49,kavala f.c.,2010,AUS
+134,daniel arzani,DEL,19,2,melbourne city,2018,AUS
+135,danny vukovic,POR,33,1,genk,2018,AUS
+136,dario vidosic,CEN,27,,adelaide united (aul),2014,AUS
+137,dario vidošić,MED,23,26,msv duisburg,2010,AUS
+138,david carney,DEF,26,25,fc twente,2010,AUS
+139,dimitri petratos,DEL,25,2,newcastle jets,2018,AUS
+140,eugene galekovic,POR,28,,adelaide united fc,2010,AUS
+140,eugene galekovic,POR,33,,adelaide united (aul),2014,AUS
+141,harry kewell,DEL,31,45,galatasaray,2010,AUS
+142,ivan franjic,DEF,27,,brisbane roar (aul),2014,AUS
+143,jackson irvine,MED,25,19,hull city,2018,AUS
+144,james holland,CEN,23,,austria viena (aui),2014,AUS
+145,james meredith,DEF,30,2,millwall,2018,AUS
+146,james troisi,CEN,24,,atalanta (ita),2014,AUS
+147,jamie maclaren,DEL,24,6,hibernian,2018,AUS
+148,jason culina,CEN,29,48,gold coast united,2010,AUS
+149,jason davidson,DEF,23,,heracles (hol),2014,AUS
+150,josh risdon,DEF,25,8,western sydney wanderers,2018,AUS
+151,joshua kennedy,DEL,27,18,nagoya grampus,2010,AUS
+152,lucas neill,DEF,32,55,galatasaray,2010,AUS
+153,luke wilkshire,DEF,28,41,fc dinamo moscu,2010,AUS
+154,mark bresciano,MED,30,54,us palermo,2010,AUS
+154,mark bresciano,CEN,34,,qatar stars league (qat),2014,AUS
+155,mark milligan,DEF,24,20,jef united,2010,AUS
+155,mark milligan,DEF,32,71,al-ahli,2018,AUS
+155,mark milligan,CEN,29,,melbourne victory (aul),2014,AUS
+156,mark schwarzer,POR,37,74,fulham fc,2010,AUS
+157,massimo luongo,MED,25,36,queens park rangers,2018,AUS
+157,massimo luongo,CEN,22,,swindon town (ing),2014,AUS
+158,mathew leckie,DEL,27,53,hertha berlin,2018,AUS
+158,mathew leckie,DEL,23,,fc ingolstadt (ale),2014,AUS
+159,mathew ryan,POR,26,44,brighton & hove albion,2018,AUS
+159,mathew ryan,POR,22,,club brujas kv (bel),2014,AUS
+160,matt mckay,CEN,32,,brisbane roar (aul),2014,AUS
+161,matthew jurman,DEF,28,4,suwon samsung bluewings,2018,AUS
+162,matthew spiranovic,DEF,26,,western sydney wanderers (aul),2014,AUS
+163,michael beauchamp,DEF,29,21,al-jazira,2010,AUS
+164,mile jedinak,CEN,25,11,antalyaspor,2010,AUS
+164,mile jedinak,MED,33,76,aston villa,2018,AUS
+164,mile jedinak,CEN,31,,crystal palace (ing),2014,AUS
+165,milos degenek,DEF,24,18,yokohama f. marinos,2018,AUS
+166,mitchell langerak,POR,26,,borussia dortmund (ale),2014,AUS
+167,nikita rukavytsya,DEL,22,3,ksv roeselare,2010,AUS
+168,oliver bozanic,CEN,23,,fc luzern (sui),2014,AUS
+169,pim verbeek,DT,,,,2010,AUS
+169,pim verbeek,DT,,,,2014,AUS
+170,richard garcia,CEN,28,6,hull city,2010,AUS
+171,robbie kruse,DEL,29,64,vfl bochum,2018,AUS
+172,ryan mcgowan,DEF,25,,shandong luneng (chn),2014,AUS
+173,scott chipperfield,DEF,34,64,fc basel,2010,AUS
+174,tim cahill,CEN,30,39,everton fc,2010,AUS
+174,tim cahill,MED,38,106,millwall,2018,AUS
+174,tim cahill,DEL,35,,new york red bulls (usa),2014,AUS
+175,tom rogić,MED,25,37,celtic,2018,AUS
+176,tomi juric,DEL,26,35,lucerna,2018,AUS
+177,tommy oar,CEN,21,,fc utrecht (hol),2014,AUS
+178,trent sainsbury,DEF,26,35,grasshoppers,2018,AUS
+179,vince grella,CEN,30,44,blackburn rovers,2010,AUS
+180,adnan januzaj,DEL,23,8,real sociedad,2018,BEL
+180,adnan januzaj,DEL,19,,manchester united,2014,BEL
+181,anthony vanden borre,DEF,26,,anderlecht,2014,BEL
+182,axel witsel,MED,29,86,tianjin quanjian,2018,BEL
+182,axel witsel,CEN,25,,zenit san petersburgo,2014,BEL
+183,daniel van buyten,DEF,36,,bayern de munich,2014,BEL
+184,dedryck boyata,DEF,27,6,celtic,2018,BEL
+185,divock origi,DEL,19,,lille,2014,BEL
+186,dries mertens,DEL,31,66,ssc napoli,2018,BEL
+186,dries mertens,DEL,27,,napoli,2014,BEL
+187,eden hazard,DEL,27,83,chelsea,2018,BEL
+187,eden hazard,CEN,23,,chelsea,2014,BEL
+188,jan vertonghen,DEF,31,101,tottenham hotspur,2018,BEL
+188,jan vertonghen,DEF,27,,tottenham hotspur,2014,BEL
+189,kevin de bruyne,MED,26,58,manchester city,2018,BEL
+189,kevin de bruyne,CEN,22,,wolfsburgo,2014,BEL
+190,kevin mirallas,DEL,26,,everton,2014,BEL
+191,koen casteels,POR,25,0,vfl wolfsburg,2018,BEL
+192,laurent ciman,DEF,28,,standard lieja,2014,BEL
+193,leander dendoncker,DEF,23,4,rsc anderlecht,2018,BEL
+194,marc wilmots,DT,,,,,BEL
+195,marouane fellaini,MED,30,80,manchester united,2018,BEL
+195,marouane fellaini,CEN,26,,manchester united,2014,BEL
+196,michy batshuayi,DEL,24,14,borussia dortmund,2018,BEL
+197,moussa dembele,MED,30,74,tottenham hotspur,2018,BEL
+197,moussa dembele,CEN,26,,tottenham hotspur,2014,BEL
+198,nacer chadli,MED,28,42,west bromwich albion,2018,BEL
+198,nacer chadli,CEN,24,,tottenham hotspur,2014,BEL
+199,nicolas lombaerts,DEF,29,,zenit san petersburgo,2014,BEL
+200,roberto martinez montoliu,DT,,,,,BEL
+201,romelu lukaku,DEL,25,65,manchester united,2018,BEL
+201,romelu lukaku,DEL,21,,everton,2014,BEL
+202,sammy bossut1,POR,28,,zulte waregem,2014,BEL
+203,simon mignolet,POR,30,21,liverpool,2018,BEL
+203,simon mignolet,POR,25,,liverpool,2014,BEL
+204,steven defour,CEN,26,,porto,2014,BEL
+205,thibaut courtois,POR,26,57,chelsea,2018,BEL
+205,thibaut courtois,POR,22,,atletico de madrid,2014,BEL
+206,thomas meunier,DEF,26,24,psg,2018,BEL
+207,thomas vermaelen,DEF,32,64,barcelona,2018,BEL
+207,thomas vermaelen,DEF,28,,arsenal,2014,BEL
+208,thorgan hazard,MED,25,9,borussia monchengladbach,2018,BEL
+209,toby alderweireld,DEF,29,73,tottenham hotspur,2018,BEL
+209,toby alderweireld,DEF,25,,atletico de madrid,2014,BEL
+210,vincent kompany,DEF,32,74,manchester city,2018,BEL
+210,vincent kompany,DEF,28,,manchester city,2014,BEL
+211,yannick carrasco,MED,24,24,dalian yifang,2018,BEL
+212,youri tielemans,MED,21,7,as monaco,2018,BEL
+213,anel hadžić,CEN,24,2,sturm graz,2014,BOS
+214,asmir avdukić,POR,33,3,borac banja luka,2014,BOS
+215,asmir begović,POR,26,30,stoke city,2014,BOS
+216,avdija vršajević,CEN,28,13,hajduk split,2014,BOS
+217,edin džeko,DEL,28,62,manchester city,2014,BOS
+218,edin višća,DEL,24,10,istanbul başakşehir,2014,BOS
+219,emir spahić,DEF,33,74,bayer 04 leverkusen,2014,BOS
+220,ermin bičakčić,DEF,24,7,eintracht braunschweig,2014,BOS
+221,haris medunjanin,CEN,29,35,gaziantepspor,2014,BOS
+222,izet hajrović,CEN,22,8,galatasaray,2014,BOS
+223,jasmin fejzić,POR,28,0,aalen,2014,BOS
+224,mensur mujdža,CEN,30,24,friburgo,2014,BOS
+225,miralem pjanić,CEN,24,28,roma,2014,BOS
+226,muhamed bešić,DEF,21,9,ferencvaros,2014,BOS
+227,ognjen vranješ,DEF,24,13,elazığspor,2014,BOS
+228,safet sušić,DT,,,,,BOS
+229,sead kolašinac,DEF,20,4,schalke 04,2014,BOS
+230,sejad salihović,CEN,29,42,hoffenheim,2014,BOS
+231,senad lulić,CEN,28,33,lazio,2014,BOS
+232,senijad ibričić,CEN,28,44,erciyesspor,2014,BOS
+233,tino sušić,CEN,22,2,hajduk split,2014,BOS
+234,toni šunjić,DEF,25,7,zorya lugansk,2014,BOS
+235,vedad ibišević,DEL,29,55,stuttgart,2014,BOS
+236,zvjezdan misimović,CEN,32,81,guizhou renhe,2014,BOS
+237,alisson,POR,25,26,as roma,2018,BRA
+238,bernard,DEL,21,11,shakhtar donetsk,2014,BRA
+239,casemiro,MED,26,24,real madrid,2018,BRA
+240,cassio,POR,31,1,corinthians,2018,BRA
+241,dani alves,DEF,31,75,fc barcelona,2014,BRA
+241,dani alves,DEF,27,35,barcelona,2010,BRA
+242,danilo,DEF,26,18,manchester city,2018,BRA
+243,dante,DEF,30,12,bayern de munich,2014,BRA
+244,david luiz,DEF,27,36,chelsea,2014,BRA
+245,doni,POR,30,10,roma,2010,BRA
+246,douglas costa,DEL,27,25,juventus,2018,BRA
+247,dunga,DT,,,,2010,BRA
+248,ederson,POR,24,1,manchester city,2018,BRA
+249,elano,MED,28,43,galatasaray,2010,BRA
+250,fagner,DEF,29,4,corinthians,2018,BRA
+251,felipe melo,MED,26,18,juventus,2010,BRA
+252,fernandinho,CEN,29,7,manchester city,2014,BRA
+252,fernandinho,MED,33,44,manchester city,2018,BRA
+253,filipe luis,DEF,32,33,atletico de madrid,2018,BRA
+254,fred,DEL,30,33,fluminense,2014,BRA
+254,fred,MED,25,8,shakhtar donetsk,2018,BRA
+255,gabriel jesus,DEL,21,17,manchester city,2018,BRA
+256,gilberto,DEF,34,33,cruzeiro,2010,BRA
+257,gilberto silva,MED,33,88,panathinaikos,2010,BRA
+258,gomes,POR,29,11,tottenham hotspur,2010,BRA
+259,grafite,DEL,31,3,wolfsburgo,2010,BRA
+260,henrique,DEF,27,5,napoli,2014,BRA
+261,hernanes,CEN,29,24,inter de milan,2014,BRA
+262,hulk,DEL,27,35,zenit san petersburgo,2014,BRA
+263,jefferson,POR,31,9,botafogo,2014,BRA
+264,jo,DEL,27,27,atletico mineiro,2014,BRA
+265,josue,MED,30,27,wolfsburgo,2010,BRA
+266,joão miranda,DEF,33,47,inter de milan,2018,BRA
+267,juan,DEF,31,74,roma,2010,BRA
+268,julio baptista,MED,28,46,roma,2010,BRA
+269,julio cesar,POR,34,80,toronto,2014,BRA
+269,julio cesar,POR,30,48,inter de milan,2010,BRA
+270,kaka,MED,28,78,real madrid,2010,BRA
+271,kleberson,MED,30,31,flamengo,2010,BRA
+272,lucio,DEF,32,91,inter de milan,2010,BRA
+273,luis fabiano,DEL,29,38,sevilla,2010,BRA
+274,luisão,DEF,29,42,benfica,2010,BRA
+275,luiz felipe scolari,DT,,,,2014,BRA
+276,luiz gustavo,CEN,26,19,wolfsburgo,2014,BRA
+277,maicon,DEF,32,72,roma,2014,BRA
+277,maicon,DEF,28,58,inter de milan,2010,BRA
+278,marcelo,DEF,26,31,real madrid,2014,BRA
+278,marcelo,DEF,30,54,real madrid,2018,BRA
+279,marquinhos,DEF,24,26,paris saint-germain,2018,BRA
+280,maxwell,DEF,32,9,paris saint-germain,2014,BRA
+281,michel bastos,DEF,26,5,olympique de lyon,2010,BRA
+282,neymar jr,DEL,22,49,fc barcelona,2014,BRA
+282,neymar jr,DEL,26,85,paris saint-germain,2018,BRA
+283,nilmar,DEL,25,17,villarreal,2010,BRA
+284,oscar,CEN,22,31,chelsea,2014,BRA
+285,paulinho,CEN,25,26,tottenham hotspur,2014,BRA
+285,paulinho,MED,29,50,fc barcelona,2018,BRA
+286,pedro geromel,DEF,32,2,gremio,2018,BRA
+287,philippe coutinho,MED,26,37,fc barcelona,2018,BRA
+288,ramires,CEN,27,42,chelsea,2014,BRA
+288,ramires,MED,23,12,benfica,2010,BRA
+289,renato augusto,MED,30,28,beijing sinobo guoan,2018,BRA
+290,roberto firmino,DEL,26,21,liverpool,2018,BRA
+291,robinho,DEL,26,75,santos,2010,BRA
+292,taison,DEL,30,8,shakhtar donetsk,2018,BRA
+293,thiago silva,DEF,29,46,paris saint-germain,2014,BRA
+293,thiago silva,DEF,26,9,ac milan,2010,BRA
+293,thiago silva,DEF,33,71,paris saint-germain,2018,BRA
+294,tite,DT,,,,2018,BRA
+295,victor,POR,31,6,atletico mineiro,2014,BRA
+296,willian,CEN,25,7,chelsea,2014,BRA
+296,willian,MED,29,57,chelsea,2018,BRA
+297,achille emana,DEL,28,34,real betis,2010,CAM
+298,alexandre song,CEN,22,23,arsenal fc,2010,CAM
+298,alexandre song,CEN,,,barcelona,2014,CAM
+299,allam nyom,DEF,,,granada,2014,CAM
+300,aurelien chedjou,DEF,24,9,lille osc,2010,CAM
+300,aurelien chedjou,DEF,,,galatasaray,2014,CAM
+301,benjamin moukandjo,DEL,,,nancy,2014,CAM
+302,benoit assou-ekotto,DEF,26,8,tottenham hotspur,2010,CAM
+302,benoit assou-ekotto,DEF,,,queens park rangers,2014,CAM
+303,carlos idriss kameni,POR,26,55,rcd español,2010,CAM
+304,cedric djeugoue,DEF,,,coton sport,2014,CAM
+305,charles itandje,POR,,,konyaspor,2014,CAM
+306,dany nounkeu,DEF,,,beşiktaş,2014,CAM
+307,edgar salli,CEN,,,lens,2014,CAM
+308,eric maxim choupo-moting,DEL,21,1,nuremberg,2010,CAM
+308,eric maxim choupo-moting,DEL,,,maguncia 05,2014,CAM
+309,eyong enoh,CEN,24,12,ajax amsterdam,2010,CAM
+309,eyong enoh,CEN,,,antalyaspor,2014,CAM
+310,fabrice olinga,DEL,,,zulte waregem,2014,CAM
+311,gaetan bong,DEF,22,1,valenciennes fc,2010,CAM
+312,georges mandjeck,CEN,21,6,kaiserslautern,2010,CAM
+313,geremi njitap,DEF,31,114,ankaragucu,2010,CAM
+314,guy n'dy assembe,POR,24,1,valenciennes fc,2010,CAM
+315,henri bedimo,DEF,,,olympique de lyon,2014,CAM
+316,jean ii makoun,CEN,27,50,olympique de lyon,2010,CAM
+316,jean ii makoun,CEN,,,stade rennes,2014,CAM
+317,joel matip,CEN,18,3,fc schalke 04,2010,CAM
+317,joel matip,CEN,,,schalke 04,2014,CAM
+318,landry n'guemo,CEN,24,7,as nancy,2010,CAM
+318,landry n'guemo,CEN,,,girondins de bordeaux,2014,CAM
+319,loic feudjou,POR,,,coton sport,2014,CAM
+320,mohammadou idrissou,DEL,30,30,freiburgo,2010,CAM
+321,nicolas n'koulou,DEF,20,16,as monaco,2010,CAM
+321,nicolas n'koulou,DEF,,,olympique de marsella,2014,CAM
+322,paul le guen,DT,,,,2010,CAM
+323,pierre webo,DEL,28,41,real mallorca,2010,CAM
+323,pierre webo,DEL,,,fenerbahçe,2014,CAM
+324,rigobert song,DEF,33,136,trabzonspor,2010,CAM
+325,sammy n'djock,POR,,,fethiyespor,2014,CAM
+326,samuel eto'o,DEL,29,92,inter de milan,2010,CAM
+326,samuel eto'o,DEL,,,chelsea,2014,CAM
+327,sebastien bassong,DEF,23,6,tottenham hotspur,2010,CAM
+328,souleymanou hamidou,POR,36,21,kayserispor,2010,CAM
+329,stephane mbia,DEF,24,30,olympique de marsella,2010,CAM
+329,stephane mbia,CEN,,,sevilla,2014,CAM
+330,vincent aboubakar,DEL,18,1,coton sport,2010,CAM
+330,vincent aboubakar,DEL,,,lorient,2014,CAM
+331,volker finke,DT,,,,2014,CAM
+332,alexis sanchez,DEL,25,67,barcelona,2014,CHI
+332,alexis sanchez,DEL,21,29,udinese,2010,CHI
+333,arturo vidal,CEN,27,54,juventus,2014,CHI
+333,arturo vidal,DEF,23,23,bayer leverkusen,2010,CHI
+334,carlos carmona,CEN,27,45,atalanta,2014,CHI
+334,carlos carmona,MED,23,20,reggina,2010,CHI
+335,charles aranguiz,CEN,25,21,internacional,2014,CHI
+336,claudio bravo,POR,31,79,real sociedad,2014,CHI
+336,claudio bravo,POR,27,43,real sociedad,2010,CHI
+337,cristopher toselli,POR,25,4,universidad catolica,2014,CHI
+338,eduardo vargas,DEL,24,30,valencia,2014,CHI
+339,esteban paredes,DEL,33,35,colo-colo,2014,CHI
+339,esteban paredes,DEL,29,14,colo-colo,2010,CHI
+340,eugenio mena,DEF,25,25,santos,2014,CHI
+341,fabian orellana,DEL,28,26,celta de vigo,2014,CHI
+341,fabian orellana,DEL,24,16,xerez cd,2010,CHI
+342,felipe gutierrez,CEN,23,18,twente,2014,CHI
+343,francisco silva,CEN,28,12,osasuna,2014,CHI
+344,gary medel,DEF,26,61,cardiff city,2014,CHI
+344,gary medel,DEF,22,24,boca juniors,2010,CHI
+345,gonzalo fierro,DEL,27,18,flamengo,2010,CHI
+346,gonzalo jara,DEF,28,65,nottingham forest,2014,CHI
+346,gonzalo jara,DEF,24,34,west bromwich albion,2010,CHI
+347,humberto suazo,DEL,29,42,real zaragoza,2010,CHI
+348,ismael fuentes,DEF,28,29,universidad catolica,2010,CHI
+349,jean beausejour,CEN,30,60,wigan athletic,2014,CHI
+349,jean beausejour,MED,26,27,america de mexico,2010,CHI
+350,johnny herrera,POR,33,8,universidad de chile,2014,CHI
+351,jorge valdivia,CEN,30,57,palmeiras,2014,CHI
+351,jorge valdivia,MED,26,39,al ain,2010,CHI
+352,jose pedro fuenzalida,CEN,29,23,colo-colo,2014,CHI
+353,jose rojas,DEF,30,19,universidad de chile,2014,CHI
+354,luis marin,POR,27,3,union española,2010,CHI
+355,marcelo bielsa,DT,,,,2014,CHI
+355,marcelo bielsa,DT,,,,2010,CHI
+356,marcelo diaz,CEN,27,21,basel,2014,CHI
+357,marco estrada,MED,27,22,universidad de chile,2010,CHI
+358,mark gonzalez,DEL,25,39,cska moscu,2010,CHI
+359,matias fernandez,MED,24,37,sporting lisboa,2010,CHI
+360,mauricio isla,DEF,26,47,juventus,2014,CHI
+360,mauricio isla,DEF,21,12,udinese,2010,CHI
+361,mauricio pinilla,DEL,30,26,cagliari,2014,CHI
+362,miguel pinto,POR,26,14,universidad de chile,2010,CHI
+363,miiko albornoz,DEF,23,2,malmo,2014,CHI
+364,pablo contreras,DEF,31,51,paok salonica fc,2010,CHI
+365,rodrigo millar,MED,28,21,colo-colo,2010,CHI
+366,rodrigo tello,MED,30,34,besiktas jk,2010,CHI
+367,waldo ponce,DEF,27,25,universidad catolica,2010,CHI
+368,abel aguilar,MED,29,49,toulouse,2014,COL
+368,abel aguilar,CEN,33,70,deportivo cali,2018,COL
+369,adrian ramos,DEL,28,26,hertha berlin,2014,COL
+370,alexander mejia,MED,25,8,atletico nacional,2014,COL
+371,camilo vargas,POR,25,0,santa fe,2014,COL
+371,camilo vargas,POR,29,5,deportivo cali,2018,COL
+372,camilo zuñiga,DEF,28,50,napoli,2014,COL
+373,carlos bacca,DEL,27,11,sevilla,2014,COL
+373,carlos bacca,DEL,31,44,villarreal,2018,COL
+374,carlos carbonero,MED,23,1,river plate,2014,COL
+375,carlos sanchez,MED,28,44,elche,2014,COL
+375,carlos sanchez,CEN,32,84,espanyol,2018,COL
+376,carlos valdes,DEF,29,14,san lorenzo,2014,COL
+377,cristian zapata,DEF,27,24,milan,2014,COL
+377,cristian zapata,DEF,31,55,milan,2018,COL
+378,david ospina,POR,25,44,niza,2014,COL
+378,david ospina,POR,29,85,arsenal,2018,COL
+379,davinson sanchez,DEF,22,8,tottenham hotspur,2018,COL
+380,eder alvarez balanta,DEF,21,3,river plate,2014,COL
+381,farid diaz,DEF,34,13,club olimpia,2018,COL
+382,faryd mondragon,POR,42,50,deportivo cali,2014,COL
+383,freddy guarin,MED,27,49,inter de milan,2014,COL
+384,jackson martinez,DEL,27,27,porto,2014,COL
+385,james rodriguez,MED,22,22,monaco,2014,COL
+385,james rodriguez,CEN,26,62,bayern munich,2018,COL
+386,jefferson lerma,CEN,23,4,levante,2018,COL
+387,johan mojica,DEF,25,3,girona,2018,COL
+388,jose fernando cuadrado,POR,32,1,once caldas,2018,COL
+389,jose izquierdo,DEL,25,4,brighton & hove albion,2018,COL
+390,jose pekerman,DT,,,,,COL
+391,juan fernando quintero,MED,21,1,porto,2014,COL
+391,juan fernando quintero,CEN,25,14,river plate,2018,COL
+392,juan guillermo cuadrado,MED,26,26,fiorentina,2014,COL
+392,juan guillermo cuadrado,CEN,29,69,juventus,2018,COL
+393,luis muriel,DEL,27,18,sevilla,2018,COL
+394,mario alberto yepes,DEF,38,98,atalanta,2014,COL
+395,mateus uribe,CEN,27,7,club america,2018,COL
+396,miguel borja,DEL,25,6,palmeiras,2018,COL
+397,oscar murillo,DEF,30,12,pachuca,2018,COL
+398,pablo armero,DEF,27,53,west ham united,2014,COL
+399,radamel falcao,DEL,32,72,a.s.monaco,2018,COL
+400,santiago arias,DEF,22,6,psv eindhoven,2014,COL
+400,santiago arias,DEF,26,40,psv eindhoven,2018,COL
+401,teofilo gutierrez,DEL,29,30,river plate,2014,COL
+402,victor ibarbo,MED,24,9,cagliari,2014,COL
+403,wilmar barrios,CEN,24,10,boca juniors,2018,COL
+404,yerry mina,DEF,23,11,barcelona,2018,COL
+405,bryan oviedo,DEF,28,43,sunderland,2018,CRC
+406,bryan ruiz,DEL,29,,psv eindhoven,2014,CRC
+406,bryan ruiz,MED,32,109,sporting de lisboa,2018,CRC
+407,celso borges,CEN,26,,aik,2014,CRC
+407,celso borges,MED,30,112,deportivo la coruña,2018,CRC
+408,christian bolaños,CEN,30,,copenhague,2014,CRC
+408,christian bolaños,MED,34,80,deportivo saprissa,2018,CRC
+409,cristian gamboa,DEF,24,,rosenborg ballklub,2014,CRC
+409,cristian gamboa,DEF,28,67,celtic,2018,CRC
+410,daniel cambronero,POR,26,,herediano,2014,CRC
+411,daniel colindres,MED,33,11,deportivo saprissa,2018,CRC
+412,dave myrie1,DEF,26,,herediano,2014,CRC
+413,david guzman,MED,28,42,portland timbers,2018,CRC
+414,diego calvo,CEN,23,,vålerenga,2014,CRC
+415,francisco calvo,DEF,25,37,minnesota united,2018,CRC
+416,giancarlo gonzalez,DEF,26,,columbus crew,2014,CRC
+416,giancarlo gonzalez,DEF,30,69,bologna,2018,CRC
+417,ian smith,DEF,20,3,ifk norrkoping,2018,CRC
+418,joel campbell,DEL,22,,olympiacos,2014,CRC
+418,joel campbell,DEL,25,76,real betis,2018,CRC
+419,johan venegas,DEL,29,46,deportivo saprissa,2018,CRC
+420,johnny acosta,DEF,30,,alajuelense,2014,CRC
+420,johnny acosta,DEF,34,68,aguilas doradas,2018,CRC
+421,jorge luis pinto,DT,,,,2014,CRC
+422,jose miguel cubero,CEN,27,,herediano,2014,CRC
+423,junior diaz,DEF,30,,maguncia 05,2014,CRC
+424,kendall waston,DEF,30,26,vancouver whitecaps,2018,CRC
+425,kenner gutierrez,DEF,29,9,liga deportiva alajuelense,2018,CRC
+426,keylor navas,POR,27,,levante,2014,CRC
+426,keylor navas,POR,31,80,real madrid,2018,CRC
+427,leonel moreira,POR,29,9,herediano,2018,CRC
+428,marco ureña,DEL,24,,kuban krasnodar,2014,CRC
+428,marco ureña,DEL,28,63,los angeles fc,2018,CRC
+429,michael barrantes,CEN,30,,aalesund,2014,CRC
+430,michael umaña,DEF,31,,deportivo saprissa,2014,CRC
+431,oscar duarte,DEF,25,,club brujas,2014,CRC
+431,oscar duarte,DEF,29,38,español,2018,CRC
+432,oscar esteban granados,CEN,22,,herediano,2014,CRC
+433,oscar ramirez,DT,,,,2018,CRC
+434,patrick pemberton,POR,32,,alajuelense,2014,CRC
+434,patrick pemberton,POR,36,39,liga deportiva alajuelense,2018,CRC
+435,randall azofeifa,MED,33,57,herediano,2018,CRC
+436,randall brenes,DEL,30,,cartagines,2014,CRC
+437,rodney wallace,MED,29,30,new york city,2018,CRC
+438,roy miller,DEF,29,,new york red bulls,2014,CRC
+439,waylon francis,DEF,23,,columbus crew,2014,CRC
+440,yeltsin tejeda,CEN,22,,deportivo saprissa,2014,CRC
+440,yeltsin tejeda,MED,26,50,lausanne-sport,2018,CRC
+441,andrej kramarić,DEL,26,31,tsg hoffenheim,2018,CRO
+442,ante rebić,DEL,20,5,fiorentina,2014,CRO
+442,ante rebić,DEL,24,16,eintracht frankfurt,2018,CRO
+443,danijel pranjić,DEF,32,50,panathinaikos,2014,CRO
+444,danijel subašić,POR,29,6,monaco,2014,CRO
+444,danijel subašić,POR,33,38,as monaco,2018,CRO
+445,darijo srna,DEF,32,113,shakhtar donetsk,2014,CRO
+446,dejan lovren,DEF,24,25,southampton,2014,CRO
+446,dejan lovren,DEF,28,39,liverpool,2018,CRO
+447,domagoj vida,DEF,25,23,dinamo kiev,2014,CRO
+447,domagoj vida,DEF,29,59,beşiktaş,2018,CRO
+448,dominik livaković,POR,23,1,dinamo zagreb,2018,CRO
+449,duje ćaleta-car,DEF,21,1,red bull salzburg,2018,CRO
+450,eduardo,DEL,31,63,shakhtar donetsk,2014,CRO
+451,filip bradarić,MED,26,4,hnk rijeka,2018,CRO
+452,gordon schildenfeld,DEF,29,21,panathinaikos,2014,CRO
+453,ivan perišić,CEN,25,29,wolfsburgo,2014,CRO
+453,ivan perišić,DEL,29,66,inter de milan,2018,CRO
+454,ivan rakitić,CEN,26,62,barcelona,2014,CRO
+454,ivan rakitić,MED,30,92,fc barcelona,2018,CRO
+455,ivan strinić,DEF,30,43,sampdoria,2018,CRO
+456,ivica olić,DEL,34,92,wolfsburgo,2014,CRO
+457,josip pivarić,DEF,29,19,dinamo de kiev,2018,CRO
+458,lovre kalinić,POR,28,11,kaa gent,2018,CRO
+459,luka modrić,CEN,28,75,real madrid,2014,CRO
+459,luka modrić,MED,32,106,real madrid,2018,CRO
+460,marcelo brozović,CEN,21,1,dinamo zagreb,2014,CRO
+460,marcelo brozović,MED,25,35,inter de milan,2018,CRO
+461,mario mandžukić,DEL,28,50,bayern munich,2014,CRO
+461,mario mandžukić,DEL,32,83,juventus,2018,CRO
+462,marko pjaca,DEL,23,16,fc schalke 04,2018,CRO
+463,mateo kovačić,CEN,20,10,inter de milan,2014,CRO
+463,mateo kovačić,MED,24,41,real madrid,2018,CRO
+464,milan badelj,CEN,25,9,hamburgo,2014,CRO
+464,milan badelj,MED,29,38,fiorentina,2018,CRO
+465,nikica jelavić,DEL,28,33,hull city,2014,CRO
+466,niko kovač,DT,,,,2014,CRO
+467,nikola kalinić,DEL,30,42,ac milan,2018,CRO
+468,ognjen vukojević,CEN,30,55,dinamo kiev,2014,CRO
+469,oliver zelenika,POR,21,0,lokomotiva,2014,CRO
+470,sammir,CEN,27,6,getafe,2014,CRO
+471,stipe pletikosa,POR,35,111,rostov,2014,CRO
+472,tin jedvaj,DEF,22,12,bayer 04 leverkusen,2018,CRO
+473,vedran ćorluka,DEF,28,72,lokomotiv moscu,2014,CRO
+473,vedran ćorluka,DEF,32,99,lokomotiv moscu,2018,CRO
+474,zlatko dalić,DT,,,,2018,CRO
+475,šime vrsaljko,DEF,22,7,genoa,2014,CRO
+475,šime vrsaljko,DEF,26,35,atletico de madrid,2018,CRO
+476,andreas christensen,DEF,22,16,chelsea,2018,DEN
+477,andreas cornelius,DEL,25,18,atalanta,2018,DEN
+478,christian eriksen,MED,18,3,ajax amsterdam,2010,DEN
+478,christian eriksen,MED,26,78,tottenham hotspur,2018,DEN
+479,christian poulsen,MED,30,73,juventus,2010,DEN
+480,daniel agger,DEF,25,31,liverpool fc,2010,DEN
+481,daniel jensen,MED,30,48,werder bremen,2010,DEN
+482,dennis rommedahl,DEL,31,95,ajax amsterdam,2010,DEN
+483,frederik rønnow,POR,25,6,brøndby,2018,DEN
+484,henrik dalsgaard,DEF,28,11,brentford,2018,DEN
+485,jakob poulsen,MED,26,12,agf aarhus,2010,DEN
+486,jannik vestergaard,DEF,25,16,borussia monchengladbach,2018,DEN
+487,jens stryger larsen,DEF,27,13,udinese,2018,DEN
+488,jesper christiansen,POR,32,11,fc copenhague,2010,DEN
+489,jesper grønkjær,DEL,32,77,fc copenhague,2010,DEN
+490,jon dahl tomasson,DEL,33,109,feyenoord,2010,DEN
+491,jonas knudsen,DEF,25,3,ipswich town,2018,DEN
+492,jonas lossl,POR,29,1,huddersfield town,2018,DEN
+493,kasper dolberg,DEL,20,6,ajax,2018,DEN
+494,kasper schmeichel,POR,31,35,leicester city,2018,DEN
+495,lars jacobsen,DEF,30,30,blackburn rovers,2010,DEN
+496,lasse schone,MED,32,36,ajax,2018,DEN
+497,lukas lerager,MED,24,4,girondins de burdeos,2018,DEN
+498,martin braithwaite,DEL,27,20,girondins de burdeos,2018,DEN
+499,martin jorgensen,DEL,30,146,acf fiorentina,2010,DEN
+500,mathias jørgensen,DEF,28,12,huddersfield town,2018,DEN
+501,michael krohn-dehli,MED,35,59,deportivo la coruña,2018,DEN
+502,mikkel beckmann,DEL,26,4,randers fc,2010,DEN
+503,morten olsen,DT,,,,,DEN
+504,nicklas bendtner,DEL,22,32,arsenal fc,2010,DEN
+505,nicolai jørgensen,DEL,27,31,feyenoord,2018,DEN
+506,patrick mtiliga,DEF,29,3,malaga cf,2010,DEN
+507,per krøldrup,DEF,30,29,acf fiorentina,2010,DEN
+508,pione sisto,DEL,23,14,celta de vigo,2018,DEN
+509,simon kjær,DEF,21,9,palermo,2010,DEN
+509,simon kjær,DEF,29,78,sevilla,2018,DEN
+510,simon poulsen,DEF,26,4,az alkmaar,2010,DEN
+511,stephan andersen,POR,28,6,brøndby if,2010,DEN
+512,søren larsen,DEL,28,18,duisburgo,2010,DEN
+513,thomas delaney,MED,26,27,werder bremen,2018,DEN
+514,thomas enevoldsen,MED,22,5,fc groningen,2010,DEN
+515,thomas kahlenberg,MED,27,31,vfl wolfsburgo,2010,DEN
+516,thomas sørensen,POR,33,86,stoke city,2010,DEN
+517,viktor fischer,DEL,24,19,copenhague,2018,DEN
+518,william kvist,MED,25,13,fc copenhague,2010,DEN
+518,william kvist,MED,33,80,copenhague,2018,DEN
+519,yussuf poulsen,DEL,23,28,rb leipzig,2018,DEN
+520,åge hareide,DT,,,,2018,DEN
+521,adrian bone,POR,25,3,el nacional,2014,ECU
+522,alexander dominguez,POR,27,18,ldu quito,2014,ECU
+523,antonio valencia,CEN,28,71,manchester united,2014,ECU
+524,carlos gruezo,CEN,19,3,stuttgart,2014,ECU
+525,christian noboa,CEN,29,42,dinamo moscu,2014,ECU
+526,edison mendez,CEN,35,111,independiente santa fe,2014,ECU
+527,enner valencia,DEL,24,10,west ham united,2014,ECU
+528,felipe caicedo,DEL,25,50,espanyol,2014,ECU
+529,fidel martinez,CEN,24,8,tijuana,2014,ECU
+530,frickson erazo,DEF,26,37,flamengo,2014,ECU
+531,gabriel achilier,DEF,29,23,emelec,2014,ECU
+532,jaime ayovi,DEL,26,30,godoy cruz,2014,ECU
+533,jefferson montero,CEN,24,40,swansea city,2014,ECU
+534,joao rojas,DEL,24,30,cruz azul,2014,ECU
+535,jorge guagua,DEF,32,59,emelec,2014,ECU
+536,juan carlos paredes,DEF,26,38,watford,2014,ECU
+537,luis fernando saritama,CEN,30,49,barcelona sc,2014,ECU
+538,maximo banguera,POR,28,25,barcelona,2014,ECU
+539,michael arroyo,CEN,27,20,atlante,2014,ECU
+540,oscar bagui,DEF,31,21,emelec,2014,ECU
+541,oswaldo minda1,CEN,30,18,chivas usa,2014,ECU
+542,reinaldo rueda,DT,,,,2014,ECU
+543,renato ibarra,CEN,23,18,vitesse,2014,ECU
+544,walter ayovi,DEF,34,90,pachuca,2014,ECU
+545,abdallah said,MED,32,36,kups kuopio,2018,EGT
+546,ahmed al-muhammadi,DEF,30,78,aston villa,2018,EGT
+547,ahmed fathy,DEF,33,126,al-ahly,2018,EGT
+548,ahmed hegazy,DEF,27,45,west bromwich albion,2018,EGT
+549,ali gabr,DEF,29,21,west bromwich albion,2018,EGT
+550,amr warda,DEL,24,16,atromitos,2018,EGT
+551,ayman ashraf,DEF,27,4,al-ahly,2018,EGT
+552,essam el-hadary,POR,45,158,al-taawoun,2018,EGT
+553,hector cuper,DT,,,,,EGT
+554,mahmoud hamdy,DEF,23,0,zamalek,2018,EGT
+555,mahmoud kahraba,DEL,24,19,al-ittihad,2018,EGT
+556,marwan mohsen,DEL,29,24,al-ahly,2018,EGT
+557,mohamed abdel-shafy,DEF,32,51,al-fateh,2018,EGT
+558,mohamed el-shenawy,POR,29,3,al-ahly,2018,EGT
+559,mohamed elneny,MED,25,61,arsenal,2018,EGT
+560,mohamed salah,DEL,25,57,liverpool,2018,EGT
+561,omar gaber,MED,26,24,los angeles fc,2018,EGT
+562,ramadan sobhi,DEL,21,23,stoke city,2018,EGT
+563,saad samir,DEF,29,11,al-ahly,2018,EGT
+564,sam morsy,MED,25,5,wigan athletic,2018,EGT
+565,sherif ekramy,POR,34,22,al-ahly,2018,EGT
+566,shikabala,DEL,32,29,al-raed,2018,EGT
+567,tarek hamed,MED,29,21,zamalek,2018,EGT
+568,trezeguet,MED,23,24,kasımpaşa,2018,EGT
+569,aaron lennon,MED,23,17,tottenham hotspur,2010,ENG
+570,adam lallana,CEN,26,,southampton,2014,ENG
+571,alex oxlade-chamberlain,CEN,20,,arsenal,2014,ENG
+572,ashley cole,DEF,29,78,chelsea,2010,ENG
+573,ashley young,DEF,32,34,manchester united,2018,ENG
+574,ben foster,POR,31,,west bromwich albion,2014,ENG
+575,chris smalling,DEF,24,,manchester united,2014,ENG
+576,daniel sturridge,DEL,24,,liverpool,2014,ENG
+577,daniel welbeck,DEL,23,,manchester united,2014,ENG
+578,danny rose,DEF,27,18,tottenham hotspur,2018,ENG
+579,danny welbeck,DEL,27,39,arsenal,2018,ENG
+580,david james,POR,39,50,portsmouth,2010,ENG
+581,dele alli,MED,22,25,tottenham hotspur,2018,ENG
+582,emile heskey,DEL,32,58,aston villa,2010,ENG
+583,eric dier,MED,24,26,tottenham hotspur,2018,ENG
+584,fabian delph,DEF,28,11,manchester city,2018,ENG
+585,fabio capello,DT,,,,2010,ENG
+586,frank lampard,CEN,35,,chelsea,2014,ENG
+586,frank lampard,MED,31,78,chelsea,2010,ENG
+587,fraser forster,POR,26,,celtic,2014,ENG
+588,gareth barry,MED,29,36,manchester city,2010,ENG
+589,gareth southgate,DT,,,,2018,ENG
+590,gary cahill,DEF,28,,chelsea,2014,ENG
+590,gary cahill,DEF,27,60,chelsea,2018,ENG
+591,glen johnson,DEF,29,,liverpool,2014,ENG
+591,glen johnson,DEF,25,22,liverpool,2010,ENG
+592,harry kane,DEL,24,24,tottenham hotspur,2018,ENG
+593,harry maguire,DEF,25,5,leicester city,2018,ENG
+594,jack butland,POR,25,8,stoke city,2018,ENG
+595,jack wilshere,CEN,22,,arsenal,2014,ENG
+596,james milner,CEN,28,,manchester city,2014,ENG
+596,james milner,MED,24,8,aston villa,2010,ENG
+597,jamie carragher,DEF,32,36,liverpool,2010,ENG
+598,jamie vardy,DEL,31,22,leicester city,2018,ENG
+599,jermain defoe,DEL,27,39,tottenham hotspur,2010,ENG
+600,jesse lingard,MED,25,12,manchester united,2018,ENG
+601,joe cole,MED,28,54,chelsea,2010,ENG
+602,joe hart,POR,27,,manchester city,2014,ENG
+602,joe hart,POR,23,3,birmingham,2010,ENG
+603,john stones,DEF,24,26,manchester city,2018,ENG
+604,john terry,DEF,29,60,chelsea,2010,ENG
+605,jordan henderson,CEN,23,,liverpool,2014,ENG
+605,jordan henderson,MED,27,39,liverpool,2018,ENG
+606,jordan pickford,POR,24,3,everton,2018,ENG
+607,kieran trippier,DEF,27,26,tottenham hotspur,2018,ENG
+608,kyle walker,DEF,28,35,manchester city,2018,ENG
+609,ledley king,DEF,29,20,tottenham hotspur,2010,ENG
+610,leighton baines,DEF,29,,everton,2014,ENG
+611,luke shaw,DEF,18,,southampton,2014,ENG
+612,marcus rashford,DEL,20,19,manchester united,2018,ENG
+613,matthew upson,DEF,31,19,west ham united,2010,ENG
+614,michael carrick,MED,28,22,manchester united,2010,ENG
+615,michael dawson3​,DEF,26,0,tottenham hotspur,2010,ENG
+616,nick pope,POR,33,1,burnley,2018,ENG
+617,peter crouch,DEL,29,38,tottenham hotspur,2010,ENG
+618,phil jagielka,DEF,31,,everton,2014,ENG
+619,phil jones,DEF,22,,manchester united,2014,ENG
+619,phil jones,DEF,26,25,manchester united,2018,ENG
+620,raheem sterling,CEN,19,,liverpool,2014,ENG
+620,raheem sterling,DEL,23,38,manchester city,2018,ENG
+621,rickie lambert,DEL,32,,southampton,2014,ENG
+622,robert green,POR,30,10,west ham united,2010,ENG
+623,ross barkley,CEN,20,,everton,2014,ENG
+624,roy hodgson,DT,,,,2014,ENG
+625,ruben loftus-cheek,MED,22,4,chelsea,2018,ENG
+626,shaun wright-phillips,MED,28,31,manchester city,2010,ENG
+627,stephen warnock,DEF,28,1,aston villa,2010,ENG
+628,steven gerrard,CEN,34,,liverpool,2014,ENG
+628,steven gerrard,MED,30,80,liverpool,2010,ENG
+629,trent alexander-arnold,DEF,19,1,liverpool,2018,ENG
+630,wayne rooney,DEL,28,,manchester united,2014,ENG
+630,wayne rooney,DEL,24,60,manchester united,2010,ENG
+631,abou diaby,MED,24,5,arsenal,2010,FRA
+632,adil rami,DEF,23,,olympique de marsella,2014,FRA
+632,adil rami,DEF,32,35,olympique de marsella,2018,FRA
+633,alou diarra,MED,28,25,girondins de burdeos,2010,FRA
+634,alphonse areola,POR,25,0,paris saint-germain,2018,FRA
+635,andre-pierre gignac,DEL,24,13,toulouse,2010,FRA
+636,anthony reveillère,DEF,30,6,olympique de lyon,2010,FRA
+637,antoine griezmann,DEL,23,,atletico de madrid,2014,FRA
+637,antoine griezmann,DEL,27,54,atletico de madrid,2018,FRA
+638,bacary sagna,DEF,31,,arsenal,2014,FRA
+638,bacary sagna,DEF,27,20,arsenal,2010,FRA
+639,benjamin mendy,DEF,23,7,manchester city,2018,FRA
+640,benjamin pavard,DEF,22,6,vfb stuttgart,2018,FRA
+641,blaise matuidi,CEN,27,,paris saint-germain,2014,FRA
+641,blaise matuidi,MED,31,67,juventus,2018,FRA
+642,cedric carrasso,POR,28,,girondins de burdeos,2010,FRA
+643,corentin tolisso,MED,23,9,bayern de munich,2018,FRA
+644,didier deschamps,DT,,,,,FRA
+645,djibril cisse,DEL,28,39,panathinaikos,2010,FRA
+646,djibril sidibe,DEF,25,17,monaco,2018,FRA
+647,eric abidal,DEF,30,48,barcelona,2010,FRA
+648,florent malouda,DEL,29,54,chelsea,2010,FRA
+649,florian thauvin,DEL,25,4,olympique de marsella,2018,FRA
+650,francis coquelin,CEN,29,,arsenal,2014,FRA
+651,franck ribery,MED,27,45,bayern de munich,2010,FRA
+652,gael clichy,DEF,24,4,arsenal,2010,FRA
+653,hugo lloris,POR,27,,tottenham hotspur,2014,FRA
+653,hugo lloris,POR,23,11,olympique de lyon,2010,FRA
+653,hugo lloris,POR,31,98,tottenham hotspur,2018,FRA
+654,jeremy menez,MED,23,12,as roma,2010,FRA
+655,karim benzema,DEL,26,,real madrid,2014,FRA
+656,kylian mbappe,DEL,19,15,paris saint-germain,2018,FRA
+657,laurent koscielny,CEN,28,,arsenal,2014,FRA
+658,loic remy,DEL,27,,newcastle united,2014,FRA
+659,lucas digne,DEF,21,,as roma,2014,FRA
+660,lucas hernandez,DEF,22,5,atletico de madrid,2018,FRA
+661,mamadou sakho,DEF,24,,liverpool,2014,FRA
+662,marc planus,DEF,27,1,girondins de burdeos,2010,FRA
+663,mathieu debuchy,DEF,29,,arsenal,2014,FRA
+664,mathieu valbuena,MED,25,1,olympique de marsella,2010,FRA
+665,mickael landreau,POR,35,,bastia,2014,FRA
+666,morgan schneiderlin 3,CEN,24,,southampton,2014,FRA
+667,moussa sissoko,DEF,24,,newcastle united,2014,FRA
+668,n'golo kante,MED,27,24,chelsea,2018,FRA
+669,nabil fekir,DEL,24,12,olympique de lyon,2018,FRA
+670,nicolas anelka,DEL,31,67,chelsea,2010,FRA
+671,olivier giroud,DEL,27,,arsenal,2014,FRA
+671,olivier giroud,DEL,31,74,chelsea,2018,FRA
+672,ousmane dembele,DEL,21,12,barcelona,2018,FRA
+673,patrice evra,DEF,33,,manchester united,2014,FRA
+673,patrice evra,DEF,29,30,manchester united,2010,FRA
+674,paul pogba,CEN,21,,juventus,2014,FRA
+674,paul pogba,MED,25,54,manchester united,2018,FRA
+675,presnel kimpembe,DEF,22,2,paris saint-germain,2018,FRA
+676,raphael varane,DEF,22,,real madrid,2014,FRA
+676,raphael varane,DEF,25,42,real madrid,2018,FRA
+677,raymond domenech,DT,,,,,FRA
+678,remy cabella2,DEL,24,,montpellier,2014,FRA
+679,samuel umtiti,DEF,24,19,barcelona,2018,FRA
+680,sebastien squillaci,DEF,29,20,sevilla,2010,FRA
+681,sidney govou,DEL,30,46,olympique de lyon,2010,FRA
+682,stephane ruffier 1,POR,27,,saint-etienne,2014,FRA
+683,steve mandanda,POR,25,13,olympique de marsella,2010,FRA
+683,steve mandanda,POR,33,27,olympique de marsella,2018,FRA
+684,steven n'zonzi,MED,29,4,sevilla,2018,FRA
+685,thierry henry,DEL,32,121,barcelona,2010,FRA
+686,thomas lemar,DEL,22,12,monaco,2018,FRA
+687,william gallas,DEF,32,81,arsenal,2010,FRA
+688,yoann gourcuff,CEN,30,,olympique de lyon,2014,FRA
+688,yoann gourcuff,MED,23,20,girondins de burdeos,2010,FRA
+689,yohan cabaye,CEN,28,,paris saint-germain,2014,FRA
+690,andre schurrle,CEN,23,33,chelsea,2014,GER
+691,antonio rudiger,DEF,25,24,chelsea,2018,GER
+692,arne friedrich,DEF,31,72,hertha berlin,2010,GER
+693,bastian schweinsteiger,MED,25,74,bayern de munich,2010,GER
+693,bastian schweinsteiger,CEN,29,102,bayern munich,2014,GER
+694,benedikt howedes,DEF,26,21,schalke 04,2014,GER
+695,cacau,DEL,29,8,stuttgart,2010,GER
+696,christoph kramer,CEN,23,2,borussia monchengladbach,2014,GER
+697,dennis aogo,DEF,23,2,hamburgo,2010,GER
+698,erik durm,DEF,22,1,borussia dortmund,2014,GER
+699,hans-jorg butt,POR,36,1,bayern de munich,2010,GER
+700,holger badstuber,DEF,21,2,bayern de munich,2010,GER
+701,i̇lkay gundoğan,MED,27,26,manchester city,2018,GER
+702,jerome boateng,DEF,21,5,hamburgo,2010,GER
+702,jerome boateng,DEF,29,71,bayern munich,2018,GER
+702,jerome boateng,DEF,25,39,bayern munich,2014,GER
+703,joachim low,DT,,,,2010,GER
+703,joachim low,DT,,,,2018,GER
+703,joachim low,DT,,,,2014,GER
+704,jonas hector,DEF,28,38,1. fc colonia,2018,GER
+705,joshua kimmich,DEF,23,29,bayern munich,2018,GER
+706,julian brandt,MED,22,16,bayer 04 leverkusen,2018,GER
+707,julian draxler,MED,24,44,paris saint-germain,2018,GER
+707,julian draxler,CEN,20,11,schalke 04,2014,GER
+708,kevin großkreutz,DEF,25,5,borussia dortmund,2014,GER
+709,kevin trapp,POR,27,3,paris saint-germain,2018,GER
+710,leon goretzka,MED,23,15,fc schalke 04,2018,GER
+711,lukas podolski,DEL,25,73,koln,2010,GER
+711,lukas podolski,CEN,29,114,arsenal,2014,GER
+712,manuel neuer,POR,24,5,schalke 04,2010,GER
+712,manuel neuer,POR,32,76,bayern munich,2018,GER
+712,manuel neuer,POR,28,45,bayern munich,2014,GER
+713,marc-andre ter stegen,POR,26,20,fc barcelona,2018,GER
+714,marcell jansen,MED,24,31,hamburgo,2010,GER
+715,marco reus,DEL,29,31,borussia dortmund,2018,GER
+716,mario gomez,DEL,24,34,bayern de munich,2010,GER
+716,mario gomez,DEL,32,75,vfb stuttgart,2018,GER
+717,mario gotze,CEN,22,29,bayern munich,2014,GER
+718,marko marin,MED,21,9,werder bremen,2010,GER
+719,marvin plattenhardt,DEF,26,6,hertha berlin,2018,GER
+720,mats hummels,DEF,29,64,bayern munich,2018,GER
+720,mats hummels,DEF,25,30,borussia dortmund,2014,GER
+721,matthias ginter,DEF,24,18,borussia monchengladbach,2018,GER
+721,matthias ginter,CEN,20,2,friburgo,2014,GER
+722,mesut ozil,MED,21,10,werder bremen,2010,GER
+722,mesut ozil,MED,29,90,arsenal,2018,GER
+722,mesut ozil,CEN,25,55,arsenal,2014,GER
+723,miroslav klose,DEL,32,96,bayern de munich,2010,GER
+723,miroslav klose,DEL,36,132,lazio,2014,GER
+724,niklas sule,DEF,22,11,bayern munich,2018,GER
+725,per mertesacker,DEF,25,62,werder bremen,2010,GER
+725,per mertesacker,DEF,29,98,arsenal,2014,GER
+726,philipp lahm,DEF,26,65,bayern de munich,2010,GER
+726,philipp lahm,DEF,30,106,bayern munich,2014,GER
+727,piotr trochowski,MED,26,31,hamburgo,2010,GER
+728,roman weidenfeller,POR,33,3,borussia dortmund,2014,GER
+729,ron-robert zieler,POR,25,3,hannover 96,2014,GER
+730,sami khedira,MED,23,5,stuttgart,2010,GER
+730,sami khedira,MED,31,75,juventus,2018,GER
+730,sami khedira,CEN,27,46,real madrid,2014,GER
+731,sebastian rudy,MED,28,25,bayern munich,2018,GER
+732,serdar tasci,DEF,23,12,stuttgart,2010,GER
+733,shkodran mustafi2,DEF,22,1,sampdoria,2014,GER
+734,stefan kießling,DEL,26,4,bayer 04 leverkusen,2010,GER
+735,thomas muller,MED,20,2,bayern de munich,2010,GER
+735,thomas muller,MED,28,91,bayern munich,2018,GER
+735,thomas muller,CEN,24,49,bayern munich,2014,GER
+736,tim wiese,POR,28,2,werder bremen,2010,GER
+737,timo werner,DEL,22,14,rb leipzig,2018,GER
+738,toni kroos,MED,20,4,bayer 04 leverkusen,2010,GER
+738,toni kroos,MED,28,83,real madrid,2018,GER
+738,toni kroos,CEN,24,44,bayern munich,2014,GER
+739,adam kwarasey,POR,,,strømsgodset,2014,GHA
+740,afriyie acquah,CEN,,,parma,2014,GHA
+741,akwasi appiah,DT,,,,2014,GHA
+742,albert adomah,CEN,,,middlesbrough,2014,GHA
+743,andre ayew,CEN,,,olympique de marsella,2014,GHA
+743,andre ayew,MED,20,20,ac arles,2010,GHA
+744,anthony annan,MED,23,31,rosenborg ballklub,2010,GHA
+745,asamoah gyan,DEL,,,al-ain,2014,GHA
+745,asamoah gyan,DEL,24,38,stade rennais,2010,GHA
+746,christian atsu,CEN,,,chelsea fc,2014,GHA
+747,daniel agyei,POR,20,2,liberty professionals,2010,GHA
+748,daniel opare,DEF,,,fc porto,2014,GHA
+749,derek boateng,MED,27,21,getafe cf,2010,GHA
+750,dominic adiyiah,DEL,20,5,milan,2010,GHA
+751,emmanuel agyemang-badu,CEN,,,udinese,2014,GHA
+752,fatau dauda,POR,,,orlando pirates,2014,GHA
+753,hans sarpei,DEF,33,29,bayer leverkusen,2010,GHA
+754,harrison afful,DEF,,,esperance,2014,GHA
+755,ibrahim ayew,DEF,22,6,zamalek,2010,GHA
+756,isaac vorsah,DEF,21,13,hoffenheim,2010,GHA
+757,john boye,DEF,,,stade rennes,2014,GHA
+758,john mensah,DEF,27,63,sunderland,2010,GHA
+759,john pantsil,DEF,28,55,fulham fc,2010,GHA
+760,jonathan mensah,DEF,,,evian thonon gaillard,2014,GHA
+760,jonathan mensah,DEF,19,3,granada cf,2010,GHA
+761,jordan ayew,DEL,,,olympique de marseille,2014,GHA
+762,kevin prince boateng,CEN,,,schalke 04,2014,GHA
+762,kevin prince boateng,DEL,23,,portsmouth fc,2010,GHA
+763,kwadwo asamoah,CEN,,,juventus,2014,GHA
+763,kwadwo asamoah,MED,21,14,udinese,2010,GHA
+764,lee addy,DEF,24,9,berekum chelsea f.c.,2010,GHA
+765,majeed waris,DEL,,,fc spartak moskva,2014,GHA
+766,matthew amoah,DEL,29,41,nac breda,2010,GHA
+767,michael essien,CEN,,,milan,2014,GHA
+768,milovan rajevac,DT,,,,2010,GHA
+769,mohammed rabiu,CEN,,,kuban krasnodar,2014,GHA
+770,prince tagoe,DEL,23,17,hoffenheim,2010,GHA
+771,quincy owusu-abeyie,DEL,24,12,al-sadd,2010,GHA
+772,rashid sumaila,DEF,,,mamelodi sundowns,2014,GHA
+773,richard kingson,POR,32,78,wigan athletic,2010,GHA
+774,samuel inkoom,DEF,,,dnipro dnipropetrovsk,2014,GHA
+774,samuel inkoom,DEF,21,15,fc basilea,2010,GHA
+775,stephen ahorlu,POR,21,,heart of lions,2010,GHA
+776,stephen appiah,MED,29,64,bologna,2010,GHA
+777,steven adams,POR,,,aduana stars,2014,GHA
+778,sulley muntari,CEN,,,milan,2014,GHA
+778,sulley muntari,MED,25,52,inter de milan,2010,GHA
+779,wakaso mubarak,CEN,,,rubin kazan,2014,GHA
+780,alexandros tziolis,CEN,,,kayserispor,2014,GRE
+780,alexandros tziolis,MED,25,18,ac siena,2010,GRE
+781,alexandros tzorvas,POR,27,8,panathinaikos,2010,GRE
+782,andreas samaris,CEN,,,olympiacos,2014,GRE
+783,angelos charisteas,DEL,30,84,nuremberg,2010,GRE
+784,athanassios prittas,MED,31,,aris salonica fc,2010,GRE
+785,avraam papadopoulos,DEF,25,13,olympiacos fc,2010,GRE
+786,christos patsatzoglou,DEF,31,42,ac omonia,2010,GRE
+787,dimitris salpingidis,DEL,,,paok,2014,GRE
+787,dimitris salpingidis,DEL,28,35,panathinaikos,2010,GRE
+788,fernando santos,DT,,,,2014,GRE
+789,georgios karagounis,MED,33,93,panathinaikos,2010,GRE
+790,georgios samaras,DEL,,,celtic,2014,GRE
+790,georgios samaras,DEL,25,33,celtic fc,2010,GRE
+791,giannis fetfatzidis,DEL,,,genoa,2014,GRE
+792,giannis maniatis,CEN,,,olympiacos,2014,GRE
+793,giorgos karagounis,CEN,,,fulham,2014,GRE
+794,giorgos tzavellas,DEF,,,paok,2014,GRE
+795,giourkas seitaridis,DEF,29,69,panathinaikos,2010,GRE
+796,jose holebas,DEF,,,olympiacos,2014,GRE
+797,konstantinos chalkias,POR,36,26,paok salonica fc,2010,GRE
+798,konstantinos katsouranis,MED,30,69,panathinaikos,2010,GRE
+799,kostas katsouranis,CEN,,,paok,2014,GRE
+800,kostas manolas,DEF,,,olympiacos,2014,GRE
+801,kostas mitroglou,DEL,,,fulham,2014,GRE
+802,lazaros christodoulopoulos,DEL,,,bologna,2014,GRE
+803,loukas vyntra,DEF,,,levante,2014,GRE
+803,loukas vyntra,DEF,29,28,panathinaikos,2010,GRE
+804,michalis sifakis,POR,25,2,aris salonica fc,2010,GRE
+805,nikos spiropoulos,DEF,26,18,panathinaikos,2010,GRE
+806,orestis karnezis,POR,,,granada,2014,GRE
+807,otto rehhagel,DT,,,,2010,GRE
+808,panagiotis glykos,POR,,,paok,2014,GRE
+809,panagiotis kone,CEN,,,bologna,2014,GRE
+810,panagiotis tachtsidis,CEN,,,torino,2014,GRE
+811,pantelis kapetanos,DEL,27,3,steaua bucarest,2010,GRE
+812,sokratis papastathopoulos,DEF,,,borussia dortmund,2014,GRE
+812,sokratis papastathopoulos,DEF,22,9,genoa fc,2010,GRE
+813,sotirios kyrgiakos,DEF,30,58,liverpool,2010,GRE
+814,sotiris ninis,MED,20,4,panathinaikos,2010,GRE
+815,stefanos kapino,POR,,,panathinaikos,2014,GRE
+816,stelios malezas,DEF,25,,paok salonica fc,2010,GRE
+817,theofanis gekas,DEL,,,konyaspor,2014,GRE
+817,theofanis gekas,DEL,30,47,hertha de berlin,2010,GRE
+818,vangelis moras,DEF,,,hellas verona,2014,GRE
+818,vangelis moras,DEF,28,11,bologna,2010,GRE
+819,vasilis torosidis,DEF,,,roma,2014,GRE
+819,vasilis torosidis,DEF,25,26,olympiacos fc,2010,GRE
+820,amado guevara,MED,34,133,motagua,2010,HON
+821,andy najar,CEN,22,,anderlecht,2014,HON
+822,boniek garcia,CEN,29,,houston dynamo,2014,HON
+823,brayan beckeles,DEF,28,,boavista,2014,HON
+824,carlo costly,DEL,31,,gaziantepspor,2014,HON
+825,carlos pavon,DEL,36,98,real españa,2010,HON
+826,danilo turcios,MED,32,82,olimpia,2010,HON
+827,david suazo,DEL,30,50,inter de milan,2010,HON
+828,donis escober,POR,30,11,olimpia,2010,HON
+828,donis escober,POR,33,,olimpia,2014,HON
+829,edder delgado,CEN,29,,real españa,2014,HON
+830,edgard alvarez,MED,30,46,bari,2010,HON
+831,emilio izaguirre,DEF,24,39,motagua,2010,HON
+831,emilio izaguirre,DEF,28,,celtic,2014,HON
+832,georgie welcome,DEL,25,11,as monaco,2010,HON
+833,hendry thomas,MED,25,39,wigan athletic,2010,HON
+834,jerry bengtson,DEL,27,,c.a. belgrano,2014,HON
+835,jerry palacios,DEL,32,,alajuelense,2014,HON
+836,johnny palacios,DEF,23,4,olimpia,2010,HON
+837,jorge claros,CEN,28,,sporting kansas city,2014,HON
+838,juan carlos garcia,DEF,26,,wigan athletic,2014,HON
+839,juan pablo montes,DEF,28,,motagua,2014,HON
+840,julio cesar de leon,DEL,30,73,torino,2010,HON
+841,luis fernando suarez,DT,,,,2014,HON
+842,luis garrido,CEN,23,,houston dynamo,2014,HON
+843,luis lopez,POR,20,,real españa,2014,HON
+844,mario martinez,CEN,24,,real españa,2014,HON
+845,marvin chavez,CEN,30,,chivas usa,2014,HON
+846,mauricio sabillon,DEF,31,25,hangzhou greentown,2010,HON
+847,maynor figueroa,DEF,27,66,wigan athletic,2010,HON
+847,maynor figueroa,DEF,31,,hull city,2014,HON
+848,noel valladares,POR,33,71,olimpia,2010,HON
+848,noel valladares,POR,37,,olimpia,2014,HON
+849,oscar boniek garcia,DEF,25,42,olimpia,2010,HON
+850,osman chavez,DEF,25,26,wisła cracovia,2010,HON
+850,osman chavez,DEF,29,,qingdao jonoon,2014,HON
+851,ramon nuñez,MED,25,16,leeds united,2010,HON
+852,reynaldo rueda,DT,,,,2010,HON
+853,ricardo canales,POR,27,2,motagua,2010,HON
+854,roger espinoza,DEL,23,10,kansas city wizards,2010,HON
+854,roger espinoza,CEN,27,,wigan athletic,2014,HON
+855,rony martinez,DEL,25,,real sociedad,2014,HON
+856,sergio mendoza,DEF,29,3,motagua,2010,HON
+857,victor bernardez,DEF,28,40,anderlecht,2010,HON
+857,victor bernardez,DEF,32,,san jose earthquakes,2014,HON
+858,walter martinez,DEL,28,34,marathon,2010,HON
+859,wilson palacios,MED,25,69,tottenham hotspur,2010,HON
+859,wilson palacios,CEN,29,,stoke city,2014,HON
+860,ahmad alenemeh,DEF,,,naft tehran,2014,IRA
+861,alireza beiranvand,POR,25,22,persepolis,2018,IRA
+862,alireza haghighi,POR,,,sporting covilhã,2014,IRA
+863,alireza jahanbakhsh,DEL,,,nec,2014,IRA
+863,alireza jahanbakhsh,DEL,24,38,az,2018,IRA
+864,amir abedzadeh,POR,25,1,maritimo,2018,IRA
+865,amir hossein sadeghi,DEF,,,esteghlal,2014,IRA
+866,andranik teymourian,CEN,,,esteghlal,2014,IRA
+867,ashkan dejagah,DEL,,,fulham,2014,IRA
+867,ashkan dejagah,DEL,31,46,nottingham forest,2018,IRA
+868,bakhtiar rahmani,CEN,,,foolad,2014,IRA
+869,carlos queiroz,DT,,,,2014,IRA
+869,carlos queiroz,DT,,,,2018,IRA
+870,daniel davari,POR,,,eintracht braunschweig,2014,IRA
+871,ehsan hajsafi,CEN,,,sepahan,2014,IRA
+871,ehsan hajsafi,DEF,28,94,olympiacos,2018,IRA
+872,ghasem hadadifar,CEN,,,zob ahan,2014,IRA
+873,hashem beikzadeh,DEF,,,esteghlal,2014,IRA
+874,hossein mahini,DEF,,,persepolis,2014,IRA
+875,jalal hosseini,DEF,,,persepolis,2014,IRA
+876,javad nekounam,CEN,,,al-kuwait,2014,IRA
+877,karim ansarifard,DEL,,,persepolis,2014,IRA
+877,karim ansarifard,DEL,28,64,olympiacos,2018,IRA
+878,khosro heydari,DEL,,,esteghlal,2014,IRA
+879,majid hosseini,DEF,21,1,esteghlal,2018,IRA
+880,masoud shojaei,DEL,,,las palmas,2014,IRA
+880,masoud shojaei,MED,34,74,aek atenas,2018,IRA
+881,mehdi taremi,DEL,25,26,al-gharafa,2018,IRA
+882,mehdi torabi,MED,23,17,saipa,2018,IRA
+883,mehrdad pouladi,DEF,,,persepolis,2014,IRA
+884,milad mohammadi,DEF,25,19,ajmat grozni,2018,IRA
+885,mohammad rashid mazaheri,POR,29,3,zob ahan,2018,IRA
+886,mohammad reza khanzadeh,DEF,27,11,padideh,2018,IRA
+887,morteza pouraliganji,DEF,26,27,al-sadd,2018,IRA
+888,omid ebrahimi,MED,30,30,esteghlal,2018,IRA
+889,pejman montazeri,DEF,,,umm salal,2014,IRA
+889,pejman montazeri,DEF,34,46,esteghlal,2018,IRA
+890,rahman ahmadi,POR,,,sepahan,2014,IRA
+891,ramin rezaeian,DEF,28,28,oostende,2018,IRA
+892,reza ghoochannejhad,DEL,,,charlton athletic,2014,IRA
+892,reza ghoochannejhad,DEL,30,43,heerenveen,2018,IRA
+893,reza haghighi,CEN,,,persepolis,2014,IRA
+894,rouzbeh cheshmi,DEF,24,10,esteghlal,2018,IRA
+895,saeid ezatolahi,MED,21,25,amkar perm,2018,IRA
+896,saman ghoddos,DEL,24,8,ostersund,2018,IRA
+897,sardar azmoun,DEL,23,33,rubin kazan,2018,IRA
+898,steven beitashour,DEF,,,vancouver whitecaps,2014,IRA
+899,vahid amiri,MED,30,36,persepolis,2018,IRA
+900,albert guðmundsson,MED,20,5,psv eindhoven,2018,ISL
+901,alfreð finnbogason,DEL,29,47,fc augsburg,2018,ISL
+902,ari freyr skulason,DEF,31,56,ksc lokeren,2018,ISL
+903,arnor ingvi traustason,MED,25,19,malmo,2018,ISL
+904,aron gunnarsson,MED,29,77,cardiff city,2018,ISL
+905,birkir bjarnason,MED,30,67,aston villa,2018,ISL
+906,birkir mar sævarsson,DEF,33,79,valur reykjavik,2018,ISL
+907,bjorn sigurðarson,DEL,27,12,fc rostov,2018,ISL
+908,emil hallfreðsson,MED,33,64,udinese,2018,ISL
+909,frederik schram,POR,23,4,fc roskilde,2018,ISL
+910,gylfi sigurðsson,MED,28,57,everton,2018,ISL
+911,hannes þor halldorsson,POR,34,49,randers fc,2018,ISL
+912,heimir hallgrimsson,DT,,,,2018,ISL
+913,holmar orn eyjolfsson,DEF,27,10,levski sofia,2018,ISL
+914,horður bjorgvin magnusson,DEF,25,16,bristol city,2018,ISL
+915,johann berg guðmundsson,MED,27,67,burnley,2018,ISL
+916,jon daði boðvarsson,DEL,26,38,reading,2018,ISL
+917,kari arnason,DEF,35,67,aberdeen,2018,ISL
+918,olafur ingi skulason,MED,35,36,kardemir karabukspor,2018,ISL
+919,ragnar sigurðsson,DEF,31,77,fc rostov,2018,ISL
+920,runar alex runarsson,POR,23,3,fc nordsjælland,2018,ISL
+921,rurik gislason,MED,30,47,sv sandhausen,2018,ISL
+922,samuel friðjonsson,MED,22,4,vålerenga,2018,ISL
+923,sverrir ingi ingason,DEF,24,20,fc rostov,2018,ISL
+924,alberto aquilani,CEN,29,35,fiorentina,2014,ITA
+925,alberto gilardino,DEL,27,73,fiorentina,2010,ITA
+926,alessio cerci,DEL,26,12,torino,2014,ITA
+927,andrea barzagli,DEF,33,47,juventus,2014,ITA
+928,andrea pirlo,CEN,35,109,juventus,2014,ITA
+928,andrea pirlo,MED,30,67,milan,2010,ITA
+929,angelo palombo,MED,28,36,sampdoria,2010,ITA
+930,antonio candreva,CEN,27,20,lazio,2014,ITA
+931,antonio cassano,DEL,31,37,parma,2014,ITA
+932,antonio di natale,DEL,32,11,udinese,2010,ITA
+933,cesare prandelli,DT,,,,,ITA
+934,christian maggio,DEF,28,76,napoli,2010,ITA
+935,ciro immobile,DEL,24,2,torino,2014,ITA
+936,claudio marchisio,CEN,28,44,juventus,2014,ITA
+936,claudio marchisio,MED,24,11,juventus,2010,ITA
+937,daniele de rossi,CEN,30,95,roma,2014,ITA
+937,daniele de rossi,MED,27,53,roma,2010,ITA
+938,domenico criscito,DEF,23,6,genoa,2010,ITA
+939,fabio cannavaro,DEF,36,135,juventus,2010,ITA
+940,fabio quagliarella,DEL,27,2,napoli,2010,ITA
+941,federico marchetti,POR,27,9,cagliari,2010,ITA
+942,gabriel paletta,DEF,28,2,parma,2014,ITA
+943,gennaro gattuso,MED,32,72,milan,2010,ITA
+944,giampaolo pazzini,DEL,25,15,sampdoria,2010,ITA
+945,gianluca zambrotta,DEF,33,97,milan,2010,ITA
+946,gianluigi buffon,POR,36,140,juventus,2014,ITA
+946,gianluigi buffon,POR,32,102,juventus,2010,ITA
+947,giorgio chiellini,DEF,29,68,juventus,2014,ITA
+947,giorgio chiellini,DEF,25,32,juventus,2010,ITA
+948,ignazio abate,DEF,27,20,milan,2014,ITA
+949,leonardo bonucci,DEF,27,37,juventus,2014,ITA
+949,leonardo bonucci,DEF,23,1,bari,2010,ITA
+950,lorenzo insigne,DEL,23,5,napoli,2014,ITA
+951,marcello lippi,DT,,,,,ITA
+952,marco parolo,CEN,29,4,parma,2014,ITA
+953,marco verratti,CEN,21,6,paris saint-germain,2014,ITA
+954,mario balotelli,DEL,23,30,milan,2014,ITA
+955,matteo darmian,DEF,24,1,torino,2014,ITA
+956,mattia de sciglio,DEF,21,11,milan,2014,ITA
+957,mattia perin,POR,21,0,genoa,2014,ITA
+958,mauro camoranesi,MED,33,41,juventus,2010,ITA
+959,morgan de sanctis,POR,33,10,napoli,2010,ITA
+960,riccardo montolivo,MED,25,73,fiorentina,2010,ITA
+961,salvatore bocchetti,DEF,23,73,genoa,2010,ITA
+962,salvatore sirigu,POR,27,8,paris saint-germain,2014,ITA
+963,simone pepe,MED,26,15,udinese,2010,ITA
+964,thiago motta,CEN,31,22,paris saint-germain,2014,ITA
+965,vincenzo iaquinta,DEL,31,36,juventus,2010,ITA
+966,abdul kader keita,MED,28,55,galatasaray,2010,IVC
+967,aristide zogbo,POR,28,6,maccabi netanya,2010,IVC
+968,arthur boka,DEF,31,81,malaga,2014,IVC
+968,arthur boka,DEF,27,54,stuttgart,2010,IVC
+969,aruna dindane,DEL,29,54,lekhwiya sc,2010,IVC
+970,benjamin angoua,DEF,23,7,valenciennes fc,2010,IVC
+971,boubacar barry,POR,34,80,lokeren,2014,IVC
+971,boubacar barry,POR,30,45,lokeren,2010,IVC
+972,cheick tiote,CEN,28,46,newcastle united,2014,IVC
+972,cheick tiote,MED,23,8,fc twente,2010,IVC
+973,constant djakpa,DEF,27,6,eintracht frankfurt,2014,IVC
+974,daniel yeboah,POR,25,7,asec mimosas,2010,IVC
+975,didier drogba,DEL,36,104,galatasaray,2014,IVC
+975,didier drogba,DEL,32,27,chelsea,2010,IVC
+976,didier ya konan,CEN,30,26,ittihad,2014,IVC
+977,didier zokora,DEF,33,121,trabzonspor,2014,IVC
+977,didier zokora,MED,29,80,sevilla fc,2010,IVC
+978,emmanuel eboue,DEF,27,51,arsenal fc,2010,IVC
+979,emmanuel kone,MED,23,12,international curtea de arges,2010,IVC
+980,gervinho,DEL,27,56,roma,2014,IVC
+980,gervinho,MED,23,13,lille osc,2010,IVC
+981,giovanni sio,DEL,25,8,basel,2014,IVC
+982,guy demel,DEF,28,26,hamburgo sv,2010,IVC
+983,ismael diomande,CEN,21,3,saint-etienne,2014,IVC
+984,jean-daniel akpa-akpro,DEF,21,1,toulouse,2014,IVC
+985,jean-jacques gosso,MED,27,6,as monaco,2010,IVC
+986,kolo toure,DEF,33,108,liverpool,2014,IVC
+986,kolo toure,DEF,29,76,manchester city,2010,IVC
+987,mathis bolly,DEL,23,5,fortuna dusseldorf,2014,IVC
+988,max gradel,CEN,26,27,saint-etienne,2014,IVC
+989,ousmane diarrassouba,DEF,27,1,çaykur rizespor,2014,IVC
+990,romaric,MED,27,38,sevilla fc,2010,IVC
+991,sabri lamouchi,DT,,,,,IVC
+992,salomon kalou,DEL,28,70,lille,2014,IVC
+992,salomon kalou,DEL,24,27,chelsea,2010,IVC
+993,sayouba mande,POR,21,1,stabæk,2014,IVC
+994,serey die,CEN,29,10,basel,2014,IVC
+995,serge aurier,DEF,21,11,toulouse,2014,IVC
+996,seydou doumbia,DEL,22,20,cska moscu,2010,IVC
+997,siaka tiene,DEF,28,52,valenciennes fc,2010,IVC
+998,souleymane bamba,DEF,29,46,trabzonspor,2014,IVC
+998,souleymane bamba,DEF,25,19,hibernian fc,2010,IVC
+999,steve gohouri,DEF,29,11,wigan athletic,2010,IVC
+1000,sven-goran eriksson,DT,,,,,IVC
+1001,sylvain gbohouo,POR,25,2,sewe sport,2014,IVC
+1002,wilfried bony,DEL,25,27,swansea city,2014,IVC
+1003,yaya toure,CEN,31,85,manchester city,2014,IVC
+1003,yaya toure,MED,27,45,fc barcelona,2010,IVC
+1004,akira nishino,DT,,,,2018,JAP
+1005,alberto zaccheroni,DT,,,,2014,JAP
+1006,atsuto uchida,DEF,26,68,schalke 04,2014,JAP
+1006,atsuto uchida,DEF,22,31,kashima antlers,2010,JAP
+1007,daiki iwamasa,DEF,28,2,kashima antlers,2010,JAP
+1008,daisuke matsui,MED,27,22,grenoble foot 38,2010,JAP
+1009,eiji kawashima,POR,31,56,standard de lieja,2014,JAP
+1009,eiji kawashima,POR,27,8,kawasaki frontale,2010,JAP
+1009,eiji kawashima,POR,35,84,fc metz,2018,JAP
+1010,gaku shibasaki,MED,26,17,getafe,2018,JAP
+1011,gen shoji,DEF,25,10,kashima antlers,2018,JAP
+1012,genki haraguchi,MED,27,32,fortuna dusseldorf,2018,JAP
+1013,gotoku sakai,DEF,23,12,stuttgart,2014,JAP
+1013,gotoku sakai,DEF,27,40,hamburgo sv,2018,JAP
+1014,hiroki sakai,DEF,24,18,hannover 96,2014,JAP
+1014,hiroki sakai,DEF,28,42,olympique de marsella,2018,JAP
+1015,hiroshi kiyotake,DEL,24,25,nuremberg,2014,JAP
+1016,hotaru yamaguchi,CEN,23,12,cerezo osaka,2014,JAP
+1016,hotaru yamaguchi,MED,27,41,cerezo osaka,2018,JAP
+1017,jun'ichi inamoto,MED,30,79,kawasaki frontale,2010,JAP
+1018,keiji tamada,DEL,30,68,nagoya grampus,2010,JAP
+1019,keisuke honda,DEL,27,56,milan,2014,JAP
+1019,keisuke honda,MED,23,11,cska moscu,2010,JAP
+1019,keisuke honda,MED,32,95,pachuca,2018,JAP
+1020,kengo nakamura,MED,29,45,kawasaki frontale,2010,JAP
+1021,kisho yano,DEL,26,17,albirex niigata,2010,JAP
+1022,kosuke nakamura,POR,23,3,kashiwa reysol,2018,JAP
+1023,makoto hasebe,CEN,30,78,nuremberg,2014,JAP
+1023,makoto hasebe,MED,26,28,wolfsburgo,2010,JAP
+1023,makoto hasebe,MED,32,110,eintracht frankfurt,2018,JAP
+1024,manabu saito,DEL,24,5,yokohama f. marinos,2014,JAP
+1025,marcus tulio tanaka,DEF,29,37,nagoya grampus,2010,JAP
+1026,masaaki higashiguchi,POR,32,4,gamba osaka,2018,JAP
+1027,masahiko inoha,DEF,28,21,jubilo iwata,2014,JAP
+1028,masato morishige,DEF,27,10,tokyo,2014,JAP
+1029,maya yoshida,DEF,25,41,southampton,2014,JAP
+1029,maya yoshida,DEF,29,82,southampton,2018,JAP
+1030,naomichi ueda,DEF,23,3,kashima antlers,2018,JAP
+1031,ryota oshima,MED,25,5,kawasaki frontale,2018,JAP
+1032,seigo narazaki,POR,34,75,nagoya grampus,2010,JAP
+1033,shinji kagawa,DEL,25,57,manchester united,2014,JAP
+1033,shinji kagawa,MED,29,91,borussia dortmund,2018,JAP
+1034,shinji okazaki,DEL,28,76,maguncia 05,2014,JAP
+1034,shinji okazaki,DEL,24,25,shimizu s-pulse,2010,JAP
+1034,shinji okazaki,DEL,32,112,leicester city,2018,JAP
+1035,shuichi gonda,POR,25,2,tokyo,2014,JAP
+1036,shunsuke nakamura,MED,31,95,yokohama f. marinos,2010,JAP
+1037,shusaku nishikawa,POR,27,13,urawa reds,2014,JAP
+1038,takashi inui,MED,30,26,eibar,2018,JAP
+1039,takashi usami,MED,26,23,fortuna dusseldorf,2018,JAP
+1040,takayuki morimoto,DEL,22,3,catania,2010,JAP
+1041,takeshi okada,DT,,,,2010,JAP
+1042,tomoaki makino,DEF,31,32,urawa red diamonds,2018,JAP
+1043,toshihiro aoyama,CEN,28,6,sanfrecce hiroshima,2014,JAP
+1044,wataru endo,DEF,25,11,urawa red diamonds,2018,JAP
+1045,yasuhito endo,CEN,34,144,gamba osaka,2014,JAP
+1045,yasuhito endo,MED,30,91,gamba osaka,2010,JAP
+1046,yasuyuki konno,DEF,31,81,gamba osaka,2014,JAP
+1046,yasuyuki konno,DEF,27,34,fc tokyo,2010,JAP
+1047,yoichiro kakitani,DEL,24,12,cerezo osaka,2014,JAP
+1048,yoshikatsu kawaguchi,POR,34,116,jubilo iwata,2010,JAP
+1049,yoshinori muto,DEL,25,23,fsv mainz,2018,JAP
+1050,yoshito okubo,DEL,32,57,kawasaki frontale,2014,JAP
+1050,yoshito okubo,DEL,27,46,vissel kobe,2010,JAP
+1051,yuji nakazawa,DEF,32,102,yokohama f. marinos,2010,JAP
+1052,yuki abe,MED,28,42,urawa red diamonds,2010,JAP
+1053,yuto nagatomo,DEF,27,70,internazionale,2014,JAP
+1053,yuto nagatomo,DEF,23,23,fc tokyo,2010,JAP
+1053,yuto nagatomo,DEF,31,105,galatasaray,2018,JAP
+1054,yuya osako,DEL,24,9,1860 munich,2014,JAP
+1054,yuya osako,DEL,28,28,1. fc colonia,2018,JAP
+1055,yūichi komano,DEF,28,51,jubilo iwata,2010,JAP
+1056,ahn young-hak,MED,31,27,omiya ardija,2010,KPR
+1057,an chol-hyok,DEL,24,37,rimyongsu,2010,KPR
+1058,cha jong-hyok,DEF,24,33,amrokgang,2010,KPR
+1059,choe kum-chol,DEL,23,21,4.25,2010,KPR
+1060,hong yong-jo,DEL,28,65,fc rostov,2010,KPR
+1061,ji yun-nam,DEF,33,28,4.25,2010,KPR
+1062,jong tae-se,DEL,26,23,kawasaki frontale,2010,KPR
+1063,kim jong-hun,DT,,,,2010,KPR
+1064,kim kum-il,MED,22,12,4.25,2010,KPR
+1065,kim kyong-il,MED,21,3,rimyongsu,2010,KPR
+1066,kim myong-gil,POR,25,31,amrokgang,2010,KPR
+1067,kim myong-won,POR,26,10,amrokgang,2010,KPR
+1068,kim yong-jun,MED,26,85,pyongyang city,2010,KPR
+1069,mun in-guk,MED,31,41,4.25,2010,KPR
+1070,nam song-chol,DEF,28,51,4.25,2010,KPR
+1071,pak chol-jin,DEF,24,32,amrokgang,2010,KPR
+1072,pak nam-chol,MED,24,31,4.25,2010,KPR
+1072,pak nam-chol,DEF,21,6,amrokgang,2010,KPR
+1073,pak sung-hyok,MED,20,3,sobaeksu,2010,KPR
+1074,ri chol-myong,MED,22,4,pyongyang city,2010,KPR
+1075,ri jun-il,DEF,22,26,sobaeksu,2010,KPR
+1076,ri kwang-chon,DEF,24,37,4.25,2010,KPR
+1077,ri kwang-hyok,DEF,22,0,kyonggongop,2010,KPR
+1078,ri myong-guk,POR,23,33,pyongyang city,2010,KPR
+1079,achraf hakimi,DEF,19,10,real madrid,2018,MAR
+1080,ahmed reda tagnaouti,POR,22,2,ittihad tanger,2018,MAR
+1081,amine harit,MED,20,6,schalke 04,2018,MAR
+1082,ayoub el kaabi,DEL,24,10,renaissance de berkane,2018,MAR
+1083,aziz bouhaddouz,DEL,31,15,st. pauli,2018,MAR
+1084,fayçal fajr,MED,29,23,getafe,2018,MAR
+1085,hakim ziyech,MED,25,18,ajax,2018,MAR
+1086,hamza mendyl,DEF,20,13,lille,2018,MAR
+1087,herve renard,DT,,,,,MAR
+1088,karim el ahmadi,MED,33,51,feyenoord,2018,MAR
+1089,khalid boutaib,DEL,31,18,yeni malatyaspor,2018,MAR
+1090,manuel da costa,DEF,32,28,estambul başakşehir,2018,MAR
+1091,mbark boussoufa,MED,33,59,al-jazira,2018,MAR
+1092,mehdi benatia,DEF,31,57,juventus,2018,MAR
+1093,mehdi carcela-gonzalez,MED,28,20,standard lieja,2018,MAR
+1094,munir mohamedi,POR,29,27,numancia,2018,MAR
+1095,nabil dirar,DEF,32,34,fenerbahçe,2018,MAR
+1096,nordin amrabat,MED,31,44,leganes,2018,MAR
+1097,romain saiss,DEF,28,24,wolverhampton wanderers,2018,MAR
+1098,sofyan amrabat,MED,21,6,feyenoord,2018,MAR
+1099,yassine bounou,POR,27,11,girona,2018,MAR
+1100,younès belhanda,MED,28,47,galatasaray,2018,MAR
+1101,youssef ait bennasser,MED,21,14,caen,2018,MAR
+1102,youssef en-nesyri,DEL,21,16,malaga,2018,MAR
+1103,adolfo bautista,DEL,31,31,guadalajara,2010,MEX
+1104,alan pulido,DEL,23,6,tigres uanl,2014,MEX
+1105,alberto medina,MED,27,53,guadalajara,2010,MEX
+1106,alfredo talavera,POR,31,14,toluca,2014,MEX
+1106,alfredo talavera,POR,35,27,d. toluca,2018,MEX
+1107,andres guardado,MED,23,52,deportivo la coruña,2010,MEX
+1107,andres guardado,MED,27,106,bayer leverkusen,2014,MEX
+1107,andres guardado,MED,31,145,real betis,2018,MEX
+1108,carlos peña,MED,24,15,leon,2014,MEX
+1109,carlos salcedo,DEF,24,21,eintracht frankfurt,2018,MEX
+1110,carlos salcido,DEF,30,70,psv eindhoven,2010,MEX
+1110,carlos salcido,DEF,34,122,tigres uanl,2014,MEX
+1111,carlos vela,DEL,21,24,arsenal fc,2010,MEX
+1111,carlos vela,DEL,29,68,los angeles f. c.,2018,MEX
+1112,cuauhtemoc blanco n. 1​,DEL,37,112,veracruz,2010,MEX
+1113,diego reyes,DEF,21,15,porto,2014,MEX
+1114,edson alvarez,DEF,20,13,c. america,2018,MEX
+1115,efrain juarez,DEF,22,16,unam,2010,MEX
+1116,erick gutierrez,MED,22,9,c. f. pachuca,2018,MEX
+1117,francisco rodriguez,DEF,28,45,psv eindhoven,2010,MEX
+1117,francisco rodriguez,DEF,32,97,america,2014,MEX
+1118,gerardo torrado n. 1​,MED,31,112,cruz azul,2010,MEX
+1119,giovani dos santos,MED,21,23,galatasaray,2010,MEX
+1119,giovani dos santos,DEL,25,78,villarreal,2014,MEX
+1119,giovani dos santos,MED,29,105,los angeles galaxy,2018,MEX
+1120,guillermo franco,DEL,33,20,west ham united,2010,MEX
+1121,guillermo ochoa,POR,24,36,america,2010,MEX
+1121,guillermo ochoa,POR,28,61,ajaccio,2014,MEX
+1121,guillermo ochoa,POR,32,94,standard liège,2018,MEX
+1122,hector herrera,MED,24,17,porto,2014,MEX
+1122,hector herrera,DEF,28,66,f. c. porto,2018,MEX
+1123,hector moreno,DEF,22,7,az alkmaar,2010,MEX
+1123,hector moreno,DEF,26,57,rcd español,2014,MEX
+1123,hector moreno,DEF,30,92,real sociedad,2018,MEX
+1124,hirving lozano,DEL,22,28,psv eindhoven,2018,MEX
+1125,hugo ayala,DEF,31,43,c. f. tigres uanl,2018,MEX
+1126,isaac brizuela,MED,23,7,toluca,2014,MEX
+1127,israel castro,MED,29,27,unam,2010,MEX
+1128,javier aguirre,DT,,,,2010,MEX
+1129,javier aquino,MED,24,23,villarreal,2014,MEX
+1129,javier aquino,MED,28,53,c. f. tigres uanl,2018,MEX
+1130,javier hernandez,DEL,22,8,guadalajara,2010,MEX
+1130,javier hernandez,DEL,26,66,manchester united,2014,MEX
+1130,javier hernandez,DEL,30,102,west ham united f. c.,2018,MEX
+1131,jesus gallardo,MED,23,23,c. universidad nacional,2018,MEX
+1132,jesus manuel corona,MED,25,36,f. c. porto,2018,MEX
+1133,jonathan dos santos,MED,28,32,los angeles galaxy,2018,MEX
+1134,jonny magallon,DEF,28,50,guadalajara,2010,MEX
+1135,jorge torres nilo,DEF,22,6,atlas,2010,MEX
+1136,jose de jesus corona,POR,33,33,cruz azul,2014,MEX
+1136,jose de jesus corona,POR,37,52,cruz azul f. c.,2018,MEX
+1137,jose juan vazquez,MED,26,8,leon,2014,MEX
+1138,juan carlos osorio,DT,,,,2018,MEX
+1139,luis ernesto michel,POR,30,4,guadalajara,2010,MEX
+1140,marco fabian,MED,24,18,cruz azul,2014,MEX
+1140,marco fabian,DEL,29,39,eintracht frankfurt,2018,MEX
+1141,miguel angel ponce1,DEF,25,7,toluca,2014,MEX
+1142,miguel herrera,DT,,,,2014,MEX
+1143,miguel layun,DEF,25,17,america,2014,MEX
+1143,miguel layun,MED,29,64,sevilla f. c.,2018,MEX
+1144,oribe peralta,DEL,30,32,santos laguna,2014,MEX
+1144,oribe peralta,DEL,34,67,c. america,2018,MEX
+1145,oscar perez,POR,37,49,jaguares,2010,MEX
+1146,pablo barrera,MED,22,17,unam,2010,MEX
+1147,paul aguilar,DEF,24,7,pachuca,2010,MEX
+1147,paul aguilar,DEF,28,32,america,2014,MEX
+1148,rafael marquez,DEF,35,124,leon,2014,MEX
+1148,rafael marquez,DEF,39,145,atlas f. c.,2018,MEX
+1149,rafael marquez​,DEF,31,88,fc barcelona,2010,MEX
+1150,raul jimenez,DEL,23,24,america,2014,MEX
+1150,raul jimenez,DEL,27,63,s. l. benfica,2018,MEX
+1151,ricardo osorio,DEF,30,74,vfb stuttgart,2010,MEX
+1152,andre ooijer,DEF,35,54,psv eindhoven,2010,NED
+1153,arjen robben,MED,26,47,bayern de munich,2010,NED
+1153,arjen robben,DEL,30,75,bayern de munich,2014,NED
+1154,bert van marwijk,DT,,,,,NED
+1155,bruno martins indi,DEF,22,2,feyenoord,2014,NED
+1156,daley blind,DEF,24,12,ajax,2014,NED
+1157,daryl janmaat,DEF,24,16,feyenoord,2014,NED
+1158,demy de zeeuw,MED,27,25,ajax,2010,NED
+1159,dirk kuyt,DEL,29,63,liverpool,2010,NED
+1159,dirk kuyt,DEL,33,98,fenerbahçe,2014,NED
+1160,edson braafheid,DEF,27,7,celtic,2010,NED
+1161,eljero elia,DEL,23,9,hamburgo sv,2010,NED
+1162,georginio wijnaldum,CEN,23,5,psv eindhoven,2014,NED
+1163,giovanni van bronckhorst,DEF,35,99,feyenoord,2010,NED
+1164,gregory van der wiel,DEF,22,10,ajax,2010,NED
+1165,ibrahim afellay,MED,24,23,psv eindhoven,2010,NED
+1166,jasper cillessen,POR,25,8,ajax de amsterdam,2014,NED
+1167,jeremain lens,DEL,26,22,dinamo kiev,2014,NED
+1168,joel veltman,DEF,22,2,ajax de amsterdam,2014,NED
+1169,john heitinga,DEF,26,54,everton,2010,NED
+1170,jonathan de guzman,CEN,26,10,swansea city,2014,NED
+1171,jordy clasie,CEN,22,8,feyenoord,2014,NED
+1172,joris mathijsen,DEF,30,56,hamburgo,2010,NED
+1173,khalid boulahrouz,DEF,28,29,stuttgart,2010,NED
+1174,klaas-jan huntelaar,DEL,26,32,ac milan,2010,NED
+1174,klaas-jan huntelaar,DEL,30,62,schalke 04,2014,NED
+1175,leroy fer,CEN,24,6,norwich city,2014,NED
+1176,louis van gaal,DT,,,,,NED
+1177,maarten stekelenburg,POR,27,27,ajax,2010,NED
+1178,mark van bommel,MED,33,56,bayern de munich,2010,NED
+1179,memphis depay,DEL,20,6,psv eindhoven,2014,NED
+1180,michel vorm,POR,26,4,fc utrecht,2010,NED
+1180,michel vorm,POR,30,14,swansea city,2014,NED
+1181,nigel de jong,MED,25,42,manchester city,2010,NED
+1181,nigel de jong,CEN,29,71,milan,2014,NED
+1182,paul verhaegh,DEF,30,2,augsburgo,2014,NED
+1183,rafael van der vaart,MED,27,78,real madrid,2010,NED
+1184,robin van persie,DEL,26,44,arsenal,2010,NED
+1184,robin van persie,DEL,30,85,manchester united,2014,NED
+1185,ron vlaar,DEF,29,24,aston villa,2014,NED
+1186,ryan babel,DEL,23,39,liverpool,2010,NED
+1187,sander boschker,POR,39,1,twente,2010,NED
+1188,stefan de vrij,DEF,22,12,feyenoord,2014,NED
+1189,stijn schaars,MED,26,12,az alkmaar,2010,NED
+1190,terence kongolo,DEF,20,1,feyenoord,2014,NED
+1191,tim krul,POR,26,5,newcastle united,2014,NED
+1192,wesley sneijder,MED,25,61,inter de milan,2010,NED
+1192,wesley sneijder,CEN,30,99,galatasaray,2014,NED
+1193,abdullahi shehu,DEF,25,25,bursaspor,2018,NGR
+1194,ahmed musa,DEL,25,72,cska moscu,2018,NGR
+1194,ahmed musa,DEL,21,32,cska moscu,2014,NGR
+1195,alex iwobi,DEL,22,19,arsenal,2018,NGR
+1196,austin ejide,POR,26,19,hapoel petah tikva,2010,NGR
+1196,austin ejide,POR,,,hapoel be'er sheva,2014,NGR
+1197,ayila yussuf,MED,25,27,dinamo de kiev,2010,NGR
+1198,azubuike egwuekwe,DEF,,9,warri wolves,2014,NGR
+1199,brian idowu,DEF,26,5,amkar perm,2018,NGR
+1200,brown ideye,DEL,21,,fc sochaux,2010,NGR
+1201,chidi odiah,DEF,26,26,cska moscu,2010,NGR
+1202,chidozie awaziem,DEF,21,4,fc nantes,2018,NGR
+1203,chigozie agbim,POR,,,gombe united,2014,NGR
+1204,chinedu ogbuke obasi,DEL,24,13,hoffenheim,2010,NGR
+1205,daniel akpeyi,POR,32,7,chippa united,2018,NGR
+1206,danny shittu,DEF,29,27,bolton wanderers,2010,NGR
+1207,dele adeleye,DEF,21,6,sparta rotterdam,2010,NGR
+1208,dele aiyenugba,POR,26,8,bnei yehuda,2010,NGR
+1209,dickson etuhu,MED,28,14,fulham,2010,NGR
+1210,efe ambrose,DEF,25,29,celtic,2014,NGR
+1211,ejike uzoenyi 1,CEN,22,20,enugu rangers,2014,NGR
+1212,elderson echiejile,DEF,22,12,stade rennais fc,2010,NGR
+1212,elderson echiejile,DEF,30,62,cercle brugge,2018,NGR
+1213,emmanuel emenike,DEL,27,19,fenerbahçe,2014,NGR
+1214,francis uzoho,POR,19,6,deportivo la coruña,2018,NGR
+1215,gernot rohr,DT,,,,,NGR
+1216,godfrey oboabona,DEF,,,çaykur rizespor,2014,NGR
+1217,ikechukwu ezenwa,POR,29,24,enyimba,2018,NGR
+1218,joel obi,MED,27,17,torino,2018,NGR
+1219,john obi mikel,MED,31,85,tianjin teda,2018,NGR
+1219,john obi mikel,CEN,27,52,chelsea,2014,NGR
+1220,john ogu,MED,30,20,hapoel be'er sheva,2018,NGR
+1221,john utaka,DEL,28,44,portsmouth fc,2010,NGR
+1222,joseph yobo,DEF,29,67,everton fc,2010,NGR
+1222,joseph yobo,DEF,33,82,fenerbahçe,2014,NGR
+1223,juwon oshaniwa,DEF,,,ashdod,2014,NGR
+1224,kalu uche,MED,27,23,ud almeria,2010,NGR
+1225,kelechi iheanacho,DEL,22,18,leicester city,2018,NGR
+1226,kenneth omeruo,DEF,24,39,kasımpaşa,2018,NGR
+1226,kenneth omeruo,DEF,20,3,chelsea,2014,NGR
+1227,kunle odunlami,DEF,24,2,sunshine stars,2014,NGR
+1228,lars lagerback,DT,,,,,NGR
+1229,leon balogun,DEF,29,19,fsv mainz,2018,NGR
+1230,lukman haruna,MED,29,5,as monaco,2010,NGR
+1231,michael uchebo,CEN,,,cercle brugge,2014,NGR
+1232,michel babatunde,DEL,,,volyn lutsk,2014,NGR
+1233,nwankwo kanu,MED,33,85,portsmouth fc,2010,NGR
+1234,obafemi martins,DEL,25,34,wolfsburgo,2010,NGR
+1235,odion ighalo,DEL,28,19,changchun yatai,2018,NGR
+1236,ogenyi onazi,MED,25,52,trabzonspor,2018,NGR
+1236,ogenyi onazi,CEN,21,21,lazio,2014,NGR
+1237,oghenekaro etebo,MED,22,14,las palmas,2018,NGR
+1238,peter odemwingie,DEL,28,49,lokomotiv moscu,2010,NGR
+1238,peter odemwingie,DEL,,,stoke city,2014,NGR
+1239,rabiu afolabi,DEF,30,16,red bull salzburg,2010,NGR
+1240,ramon azeez,CEN,,,almeria,2014,NGR
+1241,reuben gabriel,CEN,23,24,waasland-beveren,2014,NGR
+1242,sani kaita,MED,24,22,alania vladikavkaz,2010,NGR
+1243,shola ameobi,DEL,32,10,newcastle,2014,NGR
+1244,simeon nwankwo,DEL,26,2,fc crotone,2018,NGR
+1245,stephen keshi,DT,,,,,NGR
+1246,taye taiwo,DEF,25,42,olympique marsella,2010,NGR
+1247,tyronne ebuehi,DEF,22,7,ado la haya,2018,NGR
+1248,uche nwofor,DEL,,,vvv venlo,2014,NGR
+1249,victor moses,DEL,27,34,chelsea,2018,NGR
+1249,victor moses,CEN,23,19,chelsea,2014,NGR
+1250,victor obinna,DEL,23,33,malaga cf,2010,NGR
+1251,vincent enyeama,POR,27,55,hapoel tel aviv,2010,NGR
+1251,vincent enyeama,POR,31,82,lille,2014,NGR
+1252,wilfred ndidi,MED,21,17,leicester city,2018,NGR
+1253,william troost-ekong,DEF,24,22,bursaspor,2018,NGR
+1254,yakubu aiyegbeni,DEL,27,50,everton fc,2010,NGR
+1255,aaron clapham,MED,23,0,canterbury united,2010,NZL
+1256,andrew boyens,DEF,26,15,new york red bulls,2010,NZL
+1257,andy barron,MED,29,11,team wellington,2010,NZL
+1258,ben sigmund,DEF,29,14,wellington phoenix,2010,NZL
+1259,chris killen,DEL,28,31,middlesbrough,2010,NZL
+1260,chris wood,DEL,18,9,west bromwich albion,2010,NZL
+1261,david mulligan,MED,28,25,auckland city,2010,NZL
+1262,glen moss,POR,27,15,melbourne victory,2010,NZL
+1263,ivan vicelich,DEF,33,66,auckland city,2010,NZL
+1264,james bannatyne,POR,34,3,team wellington,2010,NZL
+1265,jeremy brockie,DEL,22,18,newcastle united jets,2010,NZL
+1266,jeremy christie,MED,27,22,tampa bay,2010,NZL
+1267,leo bertos,MED,28,34,wellington phoenix,2010,NZL
+1268,mark paston,POR,33,23,wellington phoenix,2010,NZL
+1269,michael mcglinchey,MED,23,5,motherwell,2010,NZL
+1270,ricki herbert,DT,,,,2010,NZL
+1271,rory fallon,DEL,28,7,plymouth argyle,2010,NZL
+1272,ryan nelsen,DEF,32,41,blackburn rovers,2010,NZL
+1273,shane smeltz,DEL,28,30,gold coast united,2010,NZL
+1274,simon elliott,MED,36,63,wellington phoenix,2010,NZL
+1275,tim brown,MED,29,25,wellington phoenix,2010,NZL
+1276,tommy smith,DEF,20,4,ipswich town,2010,NZL
+1277,tony lochhead,DEF,28,30,wellington phoenix,2010,NZL
+1278,winston reid,DEF,21,3,midtjylland,2010,NZL
+1279,abdiel arroyo,DEL,24,33,alajuelense,2018,PAN
+1280,adolfo machado,DEF,33,76,houston dynamo,2018,PAN
+1281,alex rodriguez,POR,27,6,san francisco,2018,PAN
+1282,anibal godoy,MED,28,59,san jose earthquakes,2018,PAN
+1283,armando cooper,MED,30,98,universidad de chile,2018,PAN
+1284,blas perez,DEL,37,118,municipal,2018,PAN
+1285,edgar barcenas,MED,24,29,cafetaleros de tapachula,2018,PAN
+1286,erick davis,DEF,27,38,dunajska streda,2018,PAN
+1287,felipe baloy,DEF,37,102,municipal,2018,PAN
+1288,fidel escobar,DEF,23,23,new york red bulls,2018,PAN
+1289,gabriel gomez,MED,34,144,atletico bucaramanga,2018,PAN
+1290,gabriel torres,DEL,29,72,huachipato,2018,PAN
+1291,harold cummings,DEF,26,52,san jose earthquakes,2018,PAN
+1292,hernan dario gomez,DT,,,,2018,PAN
+1293,ismael diaz,DEL,21,11,deportivo fabril,2018,PAN
+1294,jaime penedo,POR,36,131,dinamo bucurești,2018,PAN
+1295,jose calderon,POR,32,31,chorrillo,2018,PAN
+1296,jose luis rodriguez,MED,19,2,kaa gent,2018,PAN
+1297,luis ovalle,DEF,29,25,cd olimpia,2018,PAN
+1298,luis tejada,DEL,36,105,sport boys,2018,PAN
+1299,michael amir murillo,DEF,22,22,new york red bulls,2018,PAN
+1300,ricardo avila,MED,21,5,kaa gent,2018,PAN
+1301,roman torres,DEF,32,111,seattle sounders,2018,PAN
+1302,valentin pimentel,MED,27,23,plaza amador,2018,PAN
+1303,aldo bobadilla,POR,34,19,independiente medellin,2010,PAR
+1304,antolin alcaraz,DEF,27,6,brujas,2010,PAR
+1305,aureliano torres,DEF,27,29,san lorenzo de almagro,2010,PAR
+1306,carlos bonet,DEF,32,64,olimpia,2010,PAR
+1307,claudio morel,DEF,32,27,boca juniors,2010,PAR
+1308,cristian riveros,MED,27,47,cruz azul,2010,PAR
+1309,dario veron,DEF,30,29,pumas,2010,PAR
+1310,denis caniza  1°,DEF,35,98,leon,2010,PAR
+1311,diego barreto,POR,28,3,cerro porteño,2010,PAR
+1312,edgar barreto,MED,25,48,atalanta,2010,PAR
+1313,edgar benitez,DEL,22,13,america,2010,PAR
+1314,enrique vera,MED,31,29,liga de quito,2010,PAR
+1315,gerardo martino,DT,47,,,2010,PAR
+1316,jonathan santana,MED,28,24,vfl wolfsburgo,2010,PAR
+1317,julio caceres,DEF,30,63,atletico mineiro,2010,PAR
+1318,justo villar  2° n. 1​,POR,32,73,real valladolid,2010,PAR
+1319,lucas barrios,DEL,25,3,borussia dortmund,2010,PAR
+1320,nelson haedo,DEL,26,38,borussia dortmund,2010,PAR
+1321,nestor ortigoza,MED,25,6,argentinos juniors,2010,PAR
+1322,oscar cardozo,DEL,27,29,benfica,2010,PAR
+1323,paulo da silva,DEF,30,71,sunderland,2010,PAR
+1324,rodolfo gamarra,DEL,21,3,libertad,2010,PAR
+1325,roque santa cruz,DEL,28,70,manchester city,2010,PAR
+1326,victor caceres,MED,25,27,libertad,2010,PAR
+1327,alberto rodriguez,DEF,34,,atletico junior (col),2018,PER
+1328,aldo corzo,DEF,29,,universitario (per),2018,PER
+1329,anderson santamaria,DEF,26,,puebla (mex),2018,PER
+1330,andre carrillo,DEL,27,,watford (ing),2018,PER
+1331,andy polo,MED,24,,portland timbers (usa),2018,PER
+1332,carlos caceda,POR,27,,deportivo municipal (per),2018,PER
+1333,christian cueva,MED,27,,san pablo (bra),2018,PER
+1334,christian ramos,DEF,30,,veracruz (mex),2018,PER
+1335,edison flores,DEL,24,,aalborg bk (din),2018,PER
+1336,jefferson farfan,DEL,34,,lokomotiv moscu (rus),2018,PER
+1337,jose carvallo,POR,32,,utc (per),2018,PER
+1338,luis advincula,DEF,28,,lobos buap (mex),2018,PER
+1339,miguel araujo,DEF,24,,alianza lima (per),2018,PER
+1340,miguel trauco,DEF,26,,flamengo (bra),2018,PER
+1341,nilson loyola,DEF,24,,fbc melgar (per),2018,PER
+1342,paolo guerrero,DEL,34,,flamengo (bra),2018,PER
+1343,paolo hurtado,MED,28,,vitoria de guimarães (por),2018,PER
+1344,pedro aquino,MED,23,,leon (mex),2018,PER
+1345,pedro gallese,POR,28,,veracruz (mex),2018,PER
+1346,raul ruidiaz,DEL,28,,monarcas morelia (mex),2018,PER
+1347,renato tapia,MED,23,,feyenoord (hol),2018,PER
+1348,ricardo gareca,DT,,,,2018,PER
+1349,wilder cartagena,MED,24,,veracruz (mex),2018,PER
+1350,yoshimar yotun,MED,28,,orlando city (usa),2018,PER
+1351,adam nawałka,DT,,,,2018,POL
+1352,arkadiusz milik,DEL,24,39,ssc napoli,2018,POL
+1353,artur jędrzejczyk,DEF,30,35,legia varsovia,2018,POL
+1354,bartosz bereszyński,DEF,25,7,sampdoria,2018,POL
+1355,bartosz białkowski,POR,30,1,ipswich town,2018,POL
+1356,dawid kownacki,DEL,21,1,sampdoria,2018,POL
+1357,grzegorz krychowiak,MED,28,50,west bromwich albion,2018,POL
+1358,jacek goralski,MED,25,4,ludogorets razgrad,2018,POL
+1359,jakub błaszczykowski,MED,32,98,vfl wolfsburg,2018,POL
+1360,jan bednarek,DEF,22,2,southampton,2018,POL
+1361,kamil glik,DEF,30,57,as monaco,2018,POL
+1362,kamil grosicki,MED,30,57,hull city,2018,POL
+1363,karol linetty,MED,24,20,sampdoria,2018,POL
+1364,maciej rybus,MED,28,50,lokomotiv moscu,2018,POL
+1365,michał pazdan,DEF,30,32,legia varsovia,2018,POL
+1366,piotr zieliński,MED,24,32,ssc napoli,2018,POL
+1367,rafał kurzawa,MED,25,3,gornik zabrze,2018,POL
+1368,robert lewandowski,DEL,29,94,bayern munich,2018,POL
+1369,sławomir peszko,MED,33,43,lechia gdańsk,2018,POL
+1370,thiago cionek,DEF,32,18,spal ferrara,2018,POL
+1371,wojciech szczęsny,POR,28,34,juventus,2018,POL
+1372,łukasz fabiański,POR,33,44,swansea city,2018,POL
+1373,łukasz piszczek,DEF,33,62,borussia dortmund,2018,POL
+1374,łukasz teodorczyk,DEL,27,16,rsc anderlecht,2018,POL
+1375,adrien silva,MED,29,23,leicester city,2018,POR
+1376,andre almeida,DEF,,,benfica,2014,POR
+1377,andre silva,DEL,22,23,milan,2018,POR
+1378,anthony lopes,POR,27,7,olympique de lyon,2018,POR
+1379,bebe,DEL,,,rayo vallecano de madrid,2014,POR
+1380,bernardo silva,MED,23,25,manchester city,2018,POR
+1381,beto,POR,,,sevilla,2014,POR
+1381,beto,POR,28,1,porto,2010,POR
+1381,beto,POR,36,14,goztepe,2018,POR
+1382,bruno alves,DEF,,,fenerbahçe,2014,POR
+1382,bruno alves,DEF,28,30,porto,2010,POR
+1382,bruno alves,DEF,36,96,rangers,2018,POR
+1383,bruno fernandes,MED,23,6,sporting de lisboa,2018,POR
+1384,carlos queiroz,DT,,,,,POR
+1385,cedric soares,DEF,26,29,southampton,2018,POR
+1386,cristiano ronaldo,DEL,,,real madrid,2014,POR
+1386,cristiano ronaldo,DEL,25,71,real madrid,2010,POR
+1386,cristiano ronaldo,DEL,33,150,real madrid,2018,POR
+1387,daniel fernandes,POR,26,2,iraklis,2010,POR
+1388,danny,DEL,26,10,zenit san petersburgo,2010,POR
+1389,deco,MED,32,73,chelsea,2010,POR
+1390,duda,DEF,29,15,malaga,2010,POR
+1391,eder,DEL,,,braga,2014,POR
+1392,eduardo,POR,,,braga,2014,POR
+1392,eduardo,POR,27,14,sporting braga,2010,POR
+1393,fabio coentrão,DEF,,,real madrid,2014,POR
+1393,fabio coentrão,MED,22,3,benfica,2010,POR
+1394,fernando santos,DT,,,,,POR
+1395,gelson martins,DEL,23,18,sporting de lisboa,2018,POR
+1396,gonçalo guedes,DEL,21,10,valencia,2018,POR
+1397,hugo almeida,DEL,,,beşiktaş,2014,POR
+1397,hugo almeida,DEL,25,25,werder bremen,2010,POR
+1398,jose fonte,DEF,34,31,dalian yifang,2018,POR
+1399,joão mario,MED,25,36,west ham united,2018,POR
+1400,joão moutinho,CEN,,,monaco,2014,POR
+1400,joão moutinho,MED,31,110,monaco,2018,POR
+1401,joão pereira,DEF,,,valencia,2014,POR
+1402,liedson,DEL,32,9,sporting de lisboa,2010,POR
+1403,manuel fernandes,MED,32,14,lokomotiv moscu,2018,POR
+1404,mario rui,DEF,27,4,napoli,2018,POR
+1405,miguel,DEF,30,56,valencia,2010,POR
+1406,miguel veloso,CEN,,,dinamo kiev,2014,POR
+1406,miguel veloso,MED,24,11,sporting de lisboa,2010,POR
+1407,nani,DEL,,,manchester united,2014,POR
+1408,neto,DEF,,,zenit san petersburgo,2014,POR
+1409,paulo bento,DT,,,,,POR
+1410,paulo ferreira,DEF,31,61,chelsea,2010,POR
+1411,pedro mendes,MED,30,7,sporting de lisboa,2010,POR
+1412,pepe,DEF,,,real madrid,2014,POR
+1412,pepe,MED,27,24,real madrid,2010,POR
+1412,pepe,DEF,35,95,beşiktaş,2018,POR
+1413,rafa,CEN,,,braga,2014,POR
+1414,raphael guerreiro,DEF,24,24,borussia dortmund,2018,POR
+1415,raul meireles,CEN,,,fenerbahçe,2014,POR
+1415,raul meireles,MED,27,33,porto,2010,POR
+1416,ricardo carvalho,DEF,32,62,chelsea,2010,POR
+1417,ricardo costa,DEF,,,valencia,2014,POR
+1417,ricardo costa,DEF,29,8,lille,2010,POR
+1418,ricardo pereira,DEF,24,4,porto,2018,POR
+1419,ricardo quaresma,DEL,34,77,beşiktaş,2018,POR
+1420,rolando,DEF,31,8,porto,2010,POR
+1421,ruben amorim,CEN,,,benfica,2014,POR
+1421,ruben amorim,MED,25,,benfica,2010,POR
+1422,ruben dias,DEF,21,1,benfica,2018,POR
+1423,rui patricio,POR,,,sporting de lisboa,2014,POR
+1423,rui patricio,POR,30,69,sporting de lisboa,2018,POR
+1424,silvestre varela,DEL,,,porto,2014,POR
+1425,simão,DEL,30,80,atletico de madrid,2010,POR
+1426,tiago,MED,29,50,atletico de madrid,2010,POR
+1427,vieirinha,DEL,,,wolfsburgo,2014,POR
+1428,william carvalho,CEN,,,sporting de lisboa,2014,POR
+1428,william carvalho,MED,26,43,sporting de lisboa,2018,POR
+1429,alan dzagoyev,MED,27,57,cska moscu,2018,RUS
+1430,aleksandr golovin,MED,22,19,cska moscu,2018,RUS
+1431,aleksandr samedov,MED,33,48,spartak de moscu,2018,RUS
+1432,aleksandr yerojin,MED,28,17,zenit de san petersburgo,2018,RUS
+1433,aleksei miranchuk,MED,22,18,lokomotiv moscu,2018,RUS
+1434,andrei lunev,POR,26,3,zenit de san petersburgo,2018,RUS
+1435,andrei semionov,DEF,29,6,ajmat grozni,2018,RUS
+1436,anton miranchuk,MED,22,6,lokomotiv moscu,2018,RUS
+1437,artiom dziuba,DEL,29,23,arsenal tula,2018,RUS
+1438,daler kuziayev,MED,25,6,zenit de san petersburgo,2018,RUS
+1439,denis cheryshev,MED,27,11,villarreal,2018,RUS
+1440,fiodor kudriashov,DEF,31,19,rubin kazan,2018,RUS
+1441,igor akinfeyev,POR,32,106,cska moscu,2018,RUS
+1442,igor smolnikov,DEF,29,27,zenit de san petersburgo,2018,RUS
+1443,ilia kutepov,DEF,24,7,spartak de moscu,2018,RUS
+1444,mario fernandes,DEF,27,5,cska moscu,2018,RUS
+1445,ramiro lopez,DEL,28,32,krasnodar,2018,RUS
+1446,roman zobnin,MED,24,12,spartak de moscu,2018,RUS
+1447,serguei ignashevich,DEF,38,122,cska moscu,2018,RUS
+1448,stanislav cherchesov,DT,,,,2018,RUS
+1449,vladimir gabulov,POR,34,10,club brujas,2018,RUS
+1450,vladimir granat,DEF,31,12,rubin kazan,2018,RUS
+1451,yuri gazinski,MED,28,6,krasnodar,2018,RUS
+1452,yuri zhirkov,DEF,34,84,zenit de san petersburgo,2018,RUS
+1453,abdoulaye diallo,POR,26,17,rennes,2018,SEN
+1454,alfred gomis,POR,24,1,spal ferrara,2018,SEN
+1455,alfred n'diaye,MED,28,20,wolverhampton wanderers,2018,SEN
+1456,aliou cisse,DT,,,,2018,SEN
+1457,badou ndiaye,MED,27,19,stoke city,2018,SEN
+1458,cheikh n'doye,MED,32,25,birmingham city,2018,SEN
+1459,cheikhou kouyate,MED,28,47,west ham united,2018,SEN
+1460,diafra sakho,DEL,28,11,rennes,2018,SEN
+1461,idrissa gueye,MED,28,60,everton,2018,SEN
+1462,ismaila sarr,DEL,20,15,rennes,2018,SEN
+1463,kalidou koulibaly,DEF,26,25,ssc napoli,2018,SEN
+1464,kara mbodji,DEF,28,52,rsc anderlecht,2018,SEN
+1465,keita balde,DEL,23,18,as monaco,2018,SEN
+1466,khadim n'diaye,POR,33,25,horoya conakry,2018,SEN
+1467,lamine gassama,DEF,28,36,alanyaspor,2018,SEN
+1468,m'baye niang,DEL,23,6,torino,2018,SEN
+1469,mame biram diouf,DEL,30,48,stoke city,2018,SEN
+1470,moussa konate,DEL,25,27,amiens,2018,SEN
+1471,moussa sow,DEL,32,51,bursaspor,2018,SEN
+1472,moussa wague,DEF,19,9,kas eupen,2018,SEN
+1473,sadio mane,DEL,26,52,liverpool,2018,SEN
+1474,salif sane,MED,27,21,hannover 96,2018,SEN
+1475,saliou ciss,DEF,28,18,valenciennes,2018,SEN
+1476,youssouf sabaly,DEF,25,4,bordeaux,2018,SEN
+1477,dušan kuciak,POR,25,3,fc vaslui,2010,SLK
+1478,dušan perniš,POR,25,3,dundee united football club,2010,SLK
+1479,erik jendrišek,DEL,24,24,fc schalke 04,2010,SLK
+1480,filip hološko,DEL,26,38,estambul başakşehir fk,2010,SLK
+1481,jan kozak,MED,30,24,fc timişoara,2010,SLK
+1482,jan mucha,POR,27,15,legia de varsovia,2010,SLK
+1483,jan ďurica,DEF,28,38,fc lokomotiv moscu,2010,SLK
+1484,juraj kucka,MED,23,6,athletic club sparta praga,2010,SLK
+1485,kamil kopunek,MED,26,9,spartak trnava,2010,SLK
+1486,kornel salata,DEF,25,4,slovan bratislava,2010,SLK
+1487,marek hamšik,MED,22,32,napoli,2010,SLK
+1488,marek sapara,MED,27,25,galatasaray,2010,SLK
+1489,marek čech,DEF,27,40,west bromwich albion,2010,SLK
+1490,martin jakubko,DEL,30,24,fc saturn ramenskoye,2010,SLK
+1491,martin petraš,DEF,30,38,ac cesena,2010,SLK
+1492,martin škrtel,DEF,25,39,liverpool fc,2010,SLK
+1493,miroslav stoch,MED,20,12,fc twente,2010,SLK
+1494,peter pekarik,DEF,23,21,vfl wolfsburgo,2010,SLK
+1495,radoslav zabavnik,DEF,29,44,1. fsv maguncia 05,2010,SLK
+1496,robert vittek,DEL,28,70,lille osc,2010,SLK
+1497,stanislav šestak,DEL,27,33,ankaragucu,2010,SLK
+1498,vladimir weiss,MED,20,9,manchester united,2010,SLK
+1498,vladimir weiss,DT,,,,,SLK
+1499,zdeno štrba,MED,34,21,xanthi athlitikos omilos,2010,SLK
+1500,aleksandar radosavljevič,MED,31,15,ae larisa,2010,SLN
+1501,aleksander šeliga,POR,30,1,sparta rotterdam,2010,SLN
+1502,andraž kirm,MED,25,26,wisla cracovia,2010,SLN
+1503,andrej komac,MED,30,41,maccabi tel aviv,2010,SLN
+1504,bojan jokić,DEF,24,34,chievo verona,2010,SLN
+1505,boštjan cesar,DEF,27,42,grenoble foot 38,2010,SLN
+1506,branko ilič,DEF,27,37,fc moscu,2010,SLN
+1507,dalibor stevanovič,MED,25,15,sbv vitesse,2010,SLN
+1508,elvedin džinič,DEF,24,0,nk maribor,2010,SLN
+1509,jasmin handanovič,POR,32,3,ac mantova,2010,SLN
+1510,marko šuler,DEF,27,17,gent,2010,SLN
+1511,matej mavrič,DEF,31,32,tus koblenz,2010,SLN
+1512,matjaž kek,DT,,,,,SLN
+1513,milivoje novakovič,DEL,31,38,koln,2010,SLN
+1514,mišo brečko,DEF,26,31,koln,2010,SLN
+1515,nejc pečnik,DEL,24,8,nacional madeira,2010,SLN
+1516,rene krhin,MED,20,4,inter de milan,2010,SLN
+1517,robert koren,MED,29,46,west bromwich albion,2010,SLN
+1518,samir handanovič,POR,25,39,udinese,2010,SLN
+1519,suad filekovič,DEF,31,13,nk maribor,2010,SLN
+1520,tim matavž,DEL,21,0,fc groningen,2010,SLN
+1521,valter birsa,MED,23,34,aj auxerre,2010,SLN
+1522,zlatan ljubijankič,DEL,26,17,gent,2010,SLN
+1523,zlatko dedič,DEL,25,24,bochum,2010,SLN
+1524,aaron mokoena,DEF,29,101,portsmouth,2010,SOA
+1525,alan dzagoyev,CEN,,,cska moscu,2014,SOA
+1526,aleksandr kerzhakov,DEL,,,zenit san petersburgo,2014,SOA
+1527,aleksandr kokorin,DEL,,,dinamo moscu,2014,SOA
+1528,aleksandr samedov,DEL,,,lokomotiv moscu,2014,SOA
+1529,aleksei ionov,DEL,,,dinamo moscu,2014,SOA
+1530,aleksei kozlov,DEF,,,dinamo moscu,2014,SOA
+1531,andrei semionov,DEF,,,terek grozny,2014,SOA
+1532,andrei yeschenko,DEF,,,anzhi makhachkala,2014,SOA
+1533,anele ngcongca,DEF,22,5,genk,2010,SOA
+1534,bernard parker,DEL,24,28,twente,2010,SOA
+1535,bongani khumalo,DEF,23,14,supersport united,2010,SOA
+1536,carlos alberto parreira,DT,,,,2010,SOA
+1537,denis glushakov,CEN,,,spartak moscu,2014,SOA
+1538,dmitri kombarov,DEF,,,spartak moscu,2014,SOA
+1539,fabio capello,DT,,,,2014,SOA
+1540,gueorgui schennikov,DEF,,,cska moscu,2014,SOA
+1541,igor akinfeyev,POR,,,cska moscu,2014,SOA
+1542,igor denisov,CEN,,,dinamo moscu,2014,SOA
+1543,itumeleng khune,POR,22,27,kaizer chiefs,2010,SOA
+1544,kagiso dikgacoi,MED,25,37,fulham,2010,SOA
+1545,katlego mphela,DEL,25,30,mamelodi sundowns,2010,SOA
+1546,lance davids,MED,25,22,ajax cape town,2010,SOA
+1547,lucas thwala,DEF,28,24,orlando pirates,2010,SOA
+1548,macbeth sibaya,MED,32,58,rubin kazan,2010,SOA
+1549,maksim kaninnikov,DEL,,,amkar perm,2014,SOA
+1550,matthew booth,DEF,33,27,mamelodi sundowns,2010,SOA
+1551,moneeb josephs,POR,30,17,orlando pirates,2010,SOA
+1552,oleg shatov,CEN,,,zenit san petersburgo,2014,SOA
+1553,pavel moguilevets1,CEN,,,rubin kazan,2014,SOA
+1554,reneilwe letsholonyane,MED,28,13,kaizer chiefs,2010,SOA
+1555,serguei ignashevich,DEF,,,cska moscu,2014,SOA
+1556,serguei ryzhikov,POR,,,rubin kazan,2014,SOA
+1557,shu-aib walters,POR,28,,maritzburg united,2010,SOA
+1558,siboniso gaxa,DEF,26,37,mamelodi sundowns,2010,SOA
+1559,siphiwe tshabalala,MED,25,49,kaizer chiefs,2010,SOA
+1560,siyabonga nomvethe,DEL,32,76,moroka swallows,2010,SOA
+1561,siyabonga sangweni,DEF,28,8,golden arrows,2010,SOA
+1562,steven pienaar,MED,28,50,everton,2010,SOA
+1563,surprise moriri,MED,30,34,mamelodi sundowns,2010,SOA
+1564,teko modise,MED,27,52,orlando pirates,2010,SOA
+1565,thanduyise khuboni,MED,24,9,golden arrows,2010,SOA
+1566,tsepo masilela,DEF,25,30,maccabi haifa,2010,SOA
+1567,vasili berezutski,DEL,,,guangzhou,2014,SOA
+1568,viktor faizulin,CEN,,,zenit san petersburgo,2014,SOA
+1569,vladimir granat,DEF,,,dinamo moscu,2014,SOA
+1570,yuri lodyguin,POR,,,zenit san petersburgo,2014,SOA
+1571,yuri zhirkov,CEN,,,dinamo moscu,2014,SOA
+1572,ahn jung-hwan,DEL,34,71,dalian shide,2010,SOK
+1573,cha du-ri,DEF,29,47,sc freiburgo,2010,SOK
+1574,cho hyun-woo,POR,26,6,daegu fc,2018,SOK
+1575,cho yong-hyung,DEF,26,32,jeju united fc,2010,SOK
+1576,go yo-han,DEF,30,20,fc seoul,2018,SOK
+1577,ha dae-sung,CEN,29,,beijing guoan,2014,SOK
+1578,han kook-young,CEN,24,,kashiwa reysol,2014,SOK
+1579,hong chul,DEF,27,14,sangju sangmu,2018,SOK
+1580,hong jeong-ho,DEF,24,,augsburgo,2014,SOK
+1581,hong myung-bo,DT,,,,2014,SOK
+1582,huh jung-moo,DT,,,,2010,SOK
+1583,hwang hee-chan,DEL,22,14,red bull salzburg,2018,SOK
+1584,hwang seok-ho,DEF,24,,sanfrecce hiroshima,2014,SOK
+1585,jang hyun-soo,DEF,26,51,fc tokyo,2018,SOK
+1586,ji dong-won,CEN,23,,augsburgo,2014,SOK
+1587,ju se-jong,MED,27,11,ansan mugunghwa,2018,SOK
+1588,jung seung-hyun,DEF,24,6,sagan tosu,2018,SOK
+1589,jung sung-ryong,POR,25,16,seongnam ilhwa chunma,2010,SOK
+1589,jung sung-ryong,POR,29,,suwon bluewings,2014,SOK
+1590,jung woo-young,MED,28,30,vissel kobe,2018,SOK
+1591,kang min-soo,DEF,24,31,suwon bluewings,2010,SOK
+1592,ki sung-yueng,MED,21,22,celtic fc,2010,SOK
+1592,ki sung-yueng,MED,29,102,swansea city,2018,SOK
+1592,ki sung-yueng,CEN,25,,sunderland,2014,SOK
+1593,kim bo-kyung,MED,20,6,oita trinita,2010,SOK
+1593,kim bo-kyung,CEN,24,,cardiff city,2014,SOK
+1594,kim chang-soo,DEF,28,,kashiwa reysol,2014,SOK
+1595,kim dong-jin,DEF,28,61,ulsan hyundai,2010,SOK
+1596,kim hyung-il,DEF,26,2,pohang steelers,2010,SOK
+1597,kim jae-sung,MED,26,8,pohang steelers,2010,SOK
+1598,kim jin-hyeon,POR,30,15,cerezo osaka,2018,SOK
+1599,kim jung-woo,MED,28,57,gwangju sangmu fc,2010,SOK
+1600,kim min-woo,DEF,28,20,sangju sangmu,2018,SOK
+1601,kim nam-il,MED,33,93,fc tom tomsk,2010,SOK
+1602,kim seung-gyu,POR,27,33,vissel kobe,2018,SOK
+1602,kim seung-gyu,POR,23,,ulsan hyundai,2014,SOK
+1603,kim shin-wook,DEL,30,50,jeonbuk hyundai motors,2018,SOK
+1603,kim shin-wook,DEL,26,,ulsan hyundai,2014,SOK
+1604,kim young-gwon,DEF,28,53,guangzhou evergrande,2018,SOK
+1604,kim young-gwon,DEF,24,,guangzhou evergrande,2014,SOK
+1605,kim young-kwang,POR,26,14,ulsan hyundai,2010,SOK
+1606,koo ja-cheol,MED,29,68,fc augsburg,2018,SOK
+1606,koo ja-cheol,DEL,25,,maguncia 05,2014,SOK
+1607,kwak tae-hwi,DEF,32,,al-hilal,2014,SOK
+1608,lee bum-young,POR,25,,busan i'park,2014,SOK
+1609,lee chung-yong,MED,21,24,bolton wanderers fc,2010,SOK
+1609,lee chung-yong,CEN,25,,bolton wanderers,2014,SOK
+1610,lee dong-gook,DEL,31,83,jeonbuk motors,2010,SOK
+1611,lee jae-sung,MED,25,35,jeonbuk hyundai motors,2018,SOK
+1612,lee jung-soo,DEF,30,25,kashima antlers,2010,SOK
+1613,lee keun-ho,DEL,29,,sangju sangmu,2014,SOK
+1614,lee seung-woo,MED,20,4,hellas verona,2018,SOK
+1615,lee seung-yeoul,DEL,21,8,fc seoul,2010,SOK
+1616,lee woon-jae,POR,37,130,suwon bluewings,2010,SOK
+1617,lee yong,DEF,31,28,jeonbuk hyundai motors,2018,SOK
+1617,lee yong,DEF,27,,ulsan hyundai,2014,SOK
+1618,lee young-pyo,DEF,33,113,al hilal,2010,SOK
+1619,moon seon-min,MED,26,3,incheon united,2018,SOK
+1620,oh ban-suk,DEF,30,2,jeju united,2018,SOK
+1621,oh beom-seok,DEF,25,38,ulsan hyundai,2010,SOK
+1622,park chu-young,DEL,24,41,as monaco,2010,SOK
+1622,park chu-young,DEL,28,,watford,2014,SOK
+1623,park ji-sung,MED,29,88,manchester united,2010,SOK
+1624,park jong-woo,CEN,25,,guangzhou r&f,2014,SOK
+1625,park joo-ho,DEF,31,36,ulsan hyundai,2018,SOK
+1625,park joo-ho,DEF,27,,1. fsv maguncia 05,2014,SOK
+1626,shin tae-yong,DT,,,,2018,SOK
+1627,son heung-min,DEL,25,67,tottenham hotspur,2018,SOK
+1627,son heung-min,CEN,21,,bayer leverkusen,2014,SOK
+1628,yeom ki-hun,MED,27,35,suwon bluewings,2010,SOK
+1629,yun suk-young,DEF,24,,queens park rangers,2014,SOK
+1630,yun young-sun,DEF,29,6,seongnam fc,2018,SOK
+1631,alvaro arbeloa,DEF,27,13,real madrid,2010,SPA
+1632,alvaro odriozola,DEF,22,4,real sociedad,2018,SPA
+1633,andres iniesta,MED,32,127,barcelona,2018,SPA
+1633,andres iniesta,MED,26,40,barcelona,2010,SPA
+1633,andres iniesta,CEN,30,97,barcelona,2014,SPA
+1634,carles puyol,DEF,32,81,barcelona,2010,SPA
+1635,carlos marchena,DEF,30,56,valencia,2010,SPA
+1636,cesar azpilicueta,DEF,28,22,chelsea,2018,SPA
+1636,cesar azpilicueta,DEF,24,6,chelsea,2014,SPA
+1637,cesc fàbregas,MED,23,48,arsenal,2010,SPA
+1637,cesc fàbregas,CEN,27,89,barcelona,2014,SPA
+1638,dani carvajal,DEF,26,15,real madrid,2018,SPA
+1639,david de gea,POR,27,29,manchester united,2018,SPA
+1639,david de gea,POR,23,1,manchester united,2014,SPA
+1640,david silva,DEL,32,121,manchester city,2018,SPA
+1640,david silva,MED,24,33,valencia,2010,SPA
+1640,david silva,CEN,28,80,manchester city,2014,SPA
+1641,david villa,DEL,28,55,valencia,2010,SPA
+1641,david villa,DEL,32,96,atletico de madrid,2014,SPA
+1642,diego costa,DEL,29,20,atletico de madrid,2018,SPA
+1642,diego costa,DEL,25,2,atletico de madrid,2014,SPA
+1643,fernando hierro,DT,,,,2018,SPA
+1644,fernando llorente,DEL,25,5,athletic club,2010,SPA
+1645,fernando torres,DEL,26,72,liverpool,2010,SPA
+1645,fernando torres,DEL,30,107,chelsea,2014,SPA
+1646,gerard pique,DEF,31,98,barcelona,2018,SPA
+1646,gerard pique,DEF,23,14,barcelona,2010,SPA
+1646,gerard pique,DEF,27,60,barcelona,2014,SPA
+1647,iago aspas,DEL,30,10,celta vigo,2018,SPA
+1648,iker casillas,POR,29,102,real madrid,2010,SPA
+1648,iker casillas,POR,33,154,real madrid,2014,SPA
+1649,isco,MED,26,28,real madrid,2018,SPA
+1650,javi martinez,MED,21,1,athletic club,2010,SPA
+1650,javi martinez,DEF,25,17,bayern de munich,2014,SPA
+1651,jesus navas,DEL,24,3,sevilla,2010,SPA
+1652,joan capdevila,DEF,32,42,villarreal,2010,SPA
+1653,jordi alba,DEF,29,62,barcelona,2018,SPA
+1653,jordi alba,DEF,25,26,barcelona,2014,SPA
+1654,juan mata,DEL,22,7,valencia,2010,SPA
+1654,juan mata,CEN,26,33,manchester united,2014,SPA
+1655,juanfran,DEF,29,8,atletico de madrid,2014,SPA
+1656,kepa arrizabalaga,POR,23,1,athletic club,2018,SPA
+1657,koke,MED,26,40,atletico de madrid,2018,SPA
+1657,koke,CEN,22,8,atletico de madrid,2014,SPA
+1658,lucas vazquez,DEL,26,7,real madrid,2018,SPA
+1659,marco asensio,MED,22,12,real madrid,2018,SPA
+1660,nacho fernandez,DEF,28,17,real madrid,2018,SPA
+1661,nacho monreal,DEF,32,22,arsenal,2018,SPA
+1662,pedro rodriguez,DEL,22,2,barcelona,2010,SPA
+1662,pedro rodriguez,DEL,26,40,barcelona,2014,SPA
+1663,pepe reina,POR,35,36,napoli,2018,SPA
+1663,pepe reina,POR,27,19,liverpool,2010,SPA
+1663,pepe reina,POR,31,32,napoli,2014,SPA
+1664,raul albiol,DEF,24,22,real madrid,2010,SPA
+1664,raul albiol,DEF,28,46,napoli,2014,SPA
+1665,rodrigo,DEL,27,6,valencia,2018,SPA
+1666,santi cazorla,CEN,29,64,arsenal,2014,SPA
+1667,saul ñiguez,MED,23,10,atletico de madrid,2018,SPA
+1668,sergio busquets,MED,29,103,barcelona,2018,SPA
+1668,sergio busquets,MED,21,11,barcelona,2010,SPA
+1668,sergio busquets,CEN,25,66,barcelona,2014,SPA
+1669,sergio ramos,DEF,32,152,real madrid,2018,SPA
+1669,sergio ramos,DEF,24,57,real madrid,2010,SPA
+1669,sergio ramos,DEF,28,117,real madrid,2014,SPA
+1670,thiago alcantara,MED,27,29,bayern de munich,2018,SPA
+1671,vicente del bosque,DT,,,,2010,SPA
+1671,vicente del bosque,DT,,,,2014,SPA
+1672,victor valdes,POR,28,1,barcelona,2010,SPA
+1673,xabi alonso,MED,28,66,real madrid,2010,SPA
+1673,xabi alonso,CEN,32,111,real madrid,2014,SPA
+1674,xavi hernandez,MED,30,84,barcelona,2010,SPA
+1674,xavi hernandez,CEN,34,132,barcelona,2014,SPA
+1675,adem ljajić,MED,26,29,torino,2018,SRB
+1676,aleksandar kolarov,DEF,24,10,lazio,2010,SRB
+1676,aleksandar kolarov,DEF,32,76,as roma,2018,SRB
+1677,aleksandar luković,DEF,27,19,udinese,2010,SRB
+1678,aleksandar mitrović,DEL,23,37,fulham,2018,SRB
+1679,aleksandar prijović,DEL,28,9,paok salonica,2018,SRB
+1680,andrija živković,MED,21,10,benfica,2018,SRB
+1681,antonio rukavina,DEF,26,19,1860 munich,2010,SRB
+1681,antonio rukavina,DEF,34,47,villarreal,2018,SRB
+1682,anđelko đuričić,POR,29,1,união leiria,2010,SRB
+1683,bojan isailović,POR,30,3,zagłębie lubin,2010,SRB
+1684,branislav ivanović,DEF,26,29,chelsea,2010,SRB
+1684,branislav ivanović,DEF,34,103,zenit saint petersburg,2018,SRB
+1685,danko lazović,DEL,27,34,zenit san petersburgo,2010,SRB
+1686,dejan stanković,CEN,31,86,inter de milan,2010,SRB
+1687,dragan mrđa,DEL,26,3,vojvodina,2010,SRB
+1688,dušan tadić,MED,29,53,southampton,2018,SRB
+1689,duško tošić,DEF,33,24,beşiktaş,2018,SRB
+1690,filip kostić,MED,25,23,hamburgo sv,2018,SRB
+1691,gojko kačar,CEN,23,15,hertha berlin,2010,SRB
+1692,ivan obradović,DEF,21,10,real zaragoza,2010,SRB
+1693,luka jović,DEL,20,1,eintracht frankfurt,2018,SRB
+1694,luka milivojević,MED,27,28,crystal palace,2018,SRB
+1695,marko dmitrović,POR,26,2,eibar,2018,SRB
+1696,marko grujić,MED,22,8,cardiff city,2018,SRB
+1697,marko pantelić,DEL,31,29,ajax de amsterdam,2010,SRB
+1698,milan jovanović,CEN,29,24,standard de lieja,2010,SRB
+1699,milan rodić,DEF,27,1,estrella roja de belgrado,2018,SRB
+1700,miloš krasić,CEN,25,29,cska moscu,2010,SRB
+1701,miloš ninković,CEN,25,7,dinamo kiev,2010,SRB
+1702,miloš veljković,DEF,22,2,werder bremen,2018,SRB
+1703,mladen krstajić,DT,,,,2018,SRB
+1704,nemanja matić,MED,29,40,manchester united,2018,SRB
+1705,nemanja radonjić,DEL,22,3,estrella roja de belgrado,2018,SRB
+1706,nemanja vidić,DEF,28,44,manchester united,2010,SRB
+1707,nenad milijaš,CEN,27,15,wolverhampton wanderers,2010,SRB
+1708,neven subotić,DEF,21,10,borussia dortmund,2010,SRB
+1709,nikola milenković,DEF,20,3,fiorentina,2018,SRB
+1710,nikola žigić,DEL,29,42,valencia,2010,SRB
+1711,predrag rajković,POR,22,8,maccabi tel aviv,2018,SRB
+1712,radomir antić,DT,,,,2010,SRB
+1713,radosav petrović,CEN,21,6,partizan belgrado,2010,SRB
+1714,sergej milinković-savić,MED,23,4,ss lazio,2018,SRB
+1715,uroš spajić,DEF,25,5,rsc anderlecht,2018,SRB
+1716,vladimir stojković,POR,26,30,wigan athletic,2010,SRB
+1716,vladimir stojković,POR,34,81,partizan de belgrado,2018,SRB
+1717,zdravko kuzmanović,CEN,22,25,stuttgart,2010,SRB
+1718,zoran tošić,CEN,23,18,manchester united,2010,SRB
+1719,albin ekdal,MED,28,34,hamburgo sv,2018,SUE
+1720,andreas granqvist,DEF,33,72,krasnodar,2018,SUE
+1721,emil forsberg,MED,26,36,rb leipzig,2018,SUE
+1722,emil krafth,DEF,23,13,bologna,2018,SUE
+1723,filip helander,DEF,25,4,bologna,2018,SUE
+1724,gustav svensson,MED,31,13,seattle sounders,2018,SUE
+1725,isaac kiese thelin,DEL,25,20,waasland-beveren,2018,SUE
+1726,janne andersson,DT,,,,,SUE
+1727,jimmy durmaz,MED,29,45,toulouse,2018,SUE
+1728,john guidetti,DEL,26,20,alaves,2018,SUE
+1729,karl-johan johnsson,POR,28,5,guingamp,2018,SUE
+1730,kristoffer nordfeldt,POR,28,8,swansea city,2018,SUE
+1731,ludwig augustinsson,DEF,24,15,werder bremen,2018,SUE
+1732,marcus berg,DEL,31,57,al-ain,2018,SUE
+1733,marcus rohden,MED,27,12,crotone,2018,SUE
+1734,martin olsson,DEF,30,43,swansea city,2018,SUE
+1735,mikael lustig,DEF,31,66,celtic,2018,SUE
+1736,ola toivonen,DEL,31,59,toulouse,2018,SUE
+1737,oscar hiljemark,MED,25,22,genoa,2018,SUE
+1738,pontus jansson,DEF,27,15,leeds united,2018,SUE
+1739,robin olsen,POR,28,18,fc copenhague,2018,SUE
+1740,sebastian larsson,MED,33,100,hull city,2018,SUE
+1741,victor lindelof,DEF,23,21,manchester united,2018,SUE
+1742,viktor claesson,MED,26,22,krasnodar,2018,SUE
+1743,admir mehmedi,DEL,,,friburgo,2014,SWZ
+1744,albert bunjaku,DEL,26,,fc nuremberg,2010,SWZ
+1745,alexander frei,DEL,30,73,fc basel,2010,SWZ
+1746,benjamin huggel,MED,32,36,fc basel,2010,SWZ
+1747,blaise nkufo,DEL,35,29,twente,2010,SWZ
+1748,blerim džemaili,MED,32,65,bologna,2018,SWZ
+1748,blerim džemaili,CEN,,,napoli,2014,SWZ
+1749,breel embolo,DEL,21,25,fc schalke 04,2018,SWZ
+1750,denis zakaria,MED,21,10,borussia monchengladbach,2018,SWZ
+1751,diego benaglio,POR,26,25,wolfsburgo,2010,SWZ
+1751,diego benaglio,POR,,,wolfsburgo,2014,SWZ
+1752,eren derdiyok,DEL,21,19,bayer leverkusen,2010,SWZ
+1753,fabian schar,DEF,26,39,deportivo la coruña,2018,SWZ
+1753,fabian schar,DEF,,,basilea,2014,SWZ
+1754,françois moubandje,DEF,27,18,toulouse,2018,SWZ
+1755,gelson fernandes,MED,23,21,saint-etienne,2010,SWZ
+1755,gelson fernandes,MED,31,67,eintracht frankfurt,2018,SWZ
+1755,gelson fernandes,CEN,,,friburgo,2014,SWZ
+1756,gokhan inler,MED,25,34,udinese,2010,SWZ
+1757,gokhan i̇nler,CEN,,,napoli,2014,SWZ
+1758,granit xhaka,MED,25,62,arsenal,2018,SWZ
+1758,granit xhaka,DEL,,,borussia monchengladbach,2014,SWZ
+1759,hakan yakın,DEL,33,80,fc luzern,2010,SWZ
+1760,haris seferović,DEL,26,51,benfica,2018,SWZ
+1760,haris seferović,DEL,,,real sociedad,2014,SWZ
+1761,johan djourou,DEF,31,74,antalyaspor,2018,SWZ
+1761,johan djourou,DEF,,,hamburgo,2014,SWZ
+1762,johnny leoni,POR,25,0,fc zurich,2010,SWZ
+1763,josip drmić,DEL,25,29,borussia monchengladbach,2018,SWZ
+1763,josip drmić,DEL,,,nuremberg,2014,SWZ
+1764,ludovic magnin,DEF,31,61,fc zurich,2010,SWZ
+1765,manuel akanji,DEF,22,7,borussia dortmund,2018,SWZ
+1766,marco padalino,MED,26,7,sampdoria,2010,SWZ
+1767,marco wolfli,POR,27,4,young boys,2010,SWZ
+1768,mario eggimann,DEF,29,8,hannover 96,2010,SWZ
+1769,mario gavranović,DEL,28,14,dinamo zagreb,2018,SWZ
+1769,mario gavranović,DEL,,,zurich,2014,SWZ
+1770,michael lang,DEF,27,24,fc basilea,2018,SWZ
+1770,michael lang,DEF,,,grasshopper,2014,SWZ
+1771,nico elvedi,DEF,21,6,borussia monchengladbach,2018,SWZ
+1772,ottmar hitzfeld,DT,,,,,SWZ
+1773,philippe senderos,DEF,25,38,arsenal,2010,SWZ
+1773,philippe senderos,DEF,,,valencia,2014,SWZ
+1774,pirmin schwegler,MED,23,3,eintracht frankfurt,2010,SWZ
+1775,remo freuler,MED,26,10,atalanta,2018,SWZ
+1776,reto ziegler,DEF,24,10,sampdoria,2010,SWZ
+1776,reto ziegler,DEF,,,sassuolo,2014,SWZ
+1777,ricardo rodriguez,DEF,25,53,ac milan,2018,SWZ
+1777,ricardo rodriguez,DEF,,,wolfsburgo,2014,SWZ
+1778,roman burki,POR,27,9,borussia dortmund,2018,SWZ
+1778,roman burki,POR,,,grasshopper,2014,SWZ
+1779,stephan lichtsteiner,DEF,26,26,lazio,2010,SWZ
+1779,stephan lichtsteiner,DEF,34,100,arsenal,2018,SWZ
+1779,stephan lichtsteiner,DEF,,,juventus,2014,SWZ
+1780,stephane grichting,DEF,31,33,auxerre,2010,SWZ
+1781,steve von bergen,DEF,26,10,hertha de berlin,2010,SWZ
+1781,steve von bergen,DEF,,,young boys,2014,SWZ
+1782,steven zuber,MED,26,12,tsg hoffenheim,2018,SWZ
+1783,tranquillo barnetta,MED,28,50,bayer leverkusen,2010,SWZ
+1783,tranquillo barnetta,CEN,,,eintracht frankfurt,2014,SWZ
+1784,valentin stocker,CEN,,,basilea,2014,SWZ
+1785,valon behrami,MED,25,26,west ham united,2010,SWZ
+1785,valon behrami,MED,33,79,udinese,2018,SWZ
+1785,valon behrami,CEN,,,napoli,2014,SWZ
+1786,vladimir petković,DT,,,,,SWZ
+1787,xherdan shaqiri,DEL,18,1,fc basel,2010,SWZ
+1787,xherdan shaqiri,MED,26,70,stoke city,2018,SWZ
+1787,xherdan shaqiri,CEN,,,bayern de munich,2014,SWZ
+1788,yann sommer,POR,29,35,borussia monchengladbach,2018,SWZ
+1788,yann sommer,POR,,,basilea,2014,SWZ
+1789,yvon mvogo,POR,24,0,rb leipzig,2018,SWZ
+1790,ahmed khalil,DEL,23,3,club africain,2018,TNZ
+1791,ali maaloul,DEF,28,46,al-ahly,2018,TNZ
+1792,anice badri,MED,27,7,esperance de tunis,2018,TNZ
+1793,aymen mathlouthi,POR,33,70,al-batin,2018,TNZ
+1794,bassem srarfi,DEL,20,5,ogc nice,2018,TNZ
+1795,dylan bronn,DEF,22,5,kaa gent,2018,TNZ
+1796,ellyes skhiri,MED,23,5,montpellier,2018,TNZ
+1797,fakhreddine ben youssef,DEL,26,39,al-ettifaq,2018,TNZ
+1798,farouk ben mustapha,POR,28,15,al-shabab,2018,TNZ
+1799,ferjani sassi,MED,26,39,al-nassr,2018,TNZ
+1800,ghailene chaalali,DEL,24,6,esperance de tunis,2018,TNZ
+1801,hamdi nagguez,DEF,25,15,zamalek,2018,TNZ
+1802,mohamed amine ben amor,MED,27,26,al-ahli,2018,TNZ
+1803,mouez hassen,POR,23,3,chateauroux,2018,TNZ
+1804,nabil maaloul,DT,,,,,TNZ
+1805,naim sliti,DEL,25,17,dijon fco,2018,TNZ
+1806,oussama haddadi,DEF,26,9,dijon fco,2018,TNZ
+1807,rami bedoui,DEF,28,8,etoile du sahel,2018,TNZ
+1808,saber khalifa,DEL,31,44,club africain,2018,TNZ
+1809,saif-eddine khaoui,DEL,23,5,troyes,2018,TNZ
+1810,syam ben youssef,DEF,29,42,kasimpasa,2018,TNZ
+1811,wahbi khazri,DEL,27,35,rennes,2018,TNZ
+1812,yassine meriah,DEF,24,16,cs sfaxien,2018,TNZ
+1813,yohan benalouane,DEF,31,4,leicester city,2018,TNZ
+1814,abel hernandez,DEL,23,13,uc palermo,2014,URU
+1815,alvaro fernandez,MED,24,7,universidad de chile,2010,URU
+1816,alvaro gonzalez,CEN,29,44,ss lazio,2014,URU
+1817,alvaro pereira,MED,25,15,porto,2010,URU
+1817,alvaro pereira,CEN,28,57,são paulo,2014,URU
+1818,andres scotti,DEF,34,26,colo-colo,2010,URU
+1819,carlos sanchez,MED,33,36,monterrey,2018,URU
+1820,christian stuani,DEL,31,41,girona,2018,URU
+1820,christian stuani,DEL,27,11,rcd español,2014,URU
+1821,cristian rodriguez,MED,32,105,peñarol,2018,URU
+1821,cristian rodriguez,CEN,28,74,atletico de madrid,2014,URU
+1822,diego forlan,DEL,31,62,atletico de madrid,2010,URU
+1822,diego forlan,DEL,35,111,cerezo osaka,2014,URU
+1823,diego godin,DEF,32,116,atletico de madrid,2018,URU
+1823,diego godin,DEF,24,38,villarreal,2010,URU
+1823,diego godin,DEF,28,77,atletico de madrid,2014,URU
+1824,diego laxalt,MED,25,6,genoa,2018,URU
+1825,diego lugano,DEF,29,42,fenerbahçe,2010,URU
+1825,diego lugano,DEF,33,94,west bromwich albion,2014,URU
+1826,diego perez,MED,30,50,monaco,2010,URU
+1826,diego perez,CEN,34,89,bologna,2014,URU
+1827,edinson cavani,DEL,31,101,paris saint-germain,2018,URU
+1827,edinson cavani,DEL,23,14,palermo,2010,URU
+1827,edinson cavani,DEL,27,63,paris saint-germain,2014,URU
+1828,egidio arevalo rios,MED,28,6,peñarol,2010,URU
+1828,egidio arevalo rios,CEN,32,56,monarcas morelia,2014,URU
+1829,fernando muslera,POR,32,97,galatasaray,2018,URU
+1829,fernando muslera,POR,23,6,lazio,2010,URU
+1829,fernando muslera,POR,27,59,galatasaray,2014,URU
+1830,gaston ramirez,CEN,23,29,southampton fc,2014,URU
+1831,gaston silva,DEF,24,17,independiente,2018,URU
+1832,giorgian de arrascaeta,MED,24,14,cruzeiro,2018,URU
+1833,guillermo varela,DEF,25,3,peñarol,2018,URU
+1834,ignacio gonzalez,MED,28,17,valencia,2010,URU
+1835,jonathan urretaviscaya,MED,28,4,monterrey,2018,URU
+1836,jorge fucile,DEF,25,24,fc porto,2010,URU
+1836,jorge fucile,DEF,29,42,fc porto,2014,URU
+1837,jose gimenez,DEF,23,42,atletico de madrid,2018,URU
+1838,jose maria gimenez,DEF,19,6,atletico de madrid,2014,URU
+1839,juan castillo,POR,32,11,deportivo cali,2010,URU
+1840,lucas torreira,MED,22,3,sampdoria,2018,URU
+1841,luis suarez,DEL,31,98,barcelona,2018,URU
+1841,luis suarez,DEL,23,30,ajax amsterdam,2010,URU
+1841,luis suarez,DEL,27,77,liverpool,2014,URU
+1842,martin caceres,DEF,31,76,lazio,2018,URU
+1842,martin caceres,DEF,23,19,barcelona,2010,URU
+1842,martin caceres,DEF,27,58,juventus,2014,URU
+1843,martin campaña,POR,29,1,independiente,2018,URU
+1844,martin silva,POR,35,11,vasco da gama,2018,URU
+1844,martin silva,POR,27,1,def sporting,2010,URU
+1844,martin silva,POR,31,4,vasco da gama,2014,URU
+1845,matias vecino,MED,26,22,inter de milan,2018,URU
+1846,mauricio victorino,DEF,27,4,universidad de chile,2010,URU
+1847,maxi gomez,DEL,21,5,celta de vigo,2018,URU
+1848,maximiliano pereira,DEF,34,125,porto,2018,URU
+1848,maximiliano pereira,DEF,26,37,benfica,2010,URU
+1848,maximiliano pereira,DEF,30,91,sl benfica,2014,URU
+1849,nahitan nandez,MED,22,12,boca juniors,2018,URU
+1850,nicolas lodeiro,MED,21,4,ajax amsterdam,2010,URU
+1850,nicolas lodeiro,CEN,25,27,botafogo,2014,URU
+1851,oscar washington tabarez,DT,,,,2018,URU
+1851,oscar washington tabarez,DT,,,,2010,URU
+1851,oscar washington tabarez,DT,,,,2014,URU
+1852,rodrigo bentancur,MED,20,7,juventus,2018,URU
+1853,rodrigo muñoz,POR,32,0,libertad,2014,URU
+1854,sebastian abreu,DEL,33,56,botafogo,2010,URU
+1855,sebastian coates,DEF,27,30,sporting de lisboa,2018,URU
+1855,sebastian coates,DEF,23,15,nacional,2014,URU
+1856,sebastian eguren,MED,29,27,aik,2010,URU
+1857,sebastian fernandez,DEL,25,6,banfield,2010,URU
+1858,walter gargano,MED,25,28,napoli,2010,URU
+1858,walter gargano,CEN,29,63,parma fc,2014,URU
+1859,alejandro bedoya,CEN,27,,nantes,2014,USA
+1860,aron johannsson,DEL,23,,az,2014,USA
+1861,benny feilhaber,MED,25,32,agf aarhus,2010,USA
+1862,bob bradley,DT,,,,2010,USA
+1863,brad davis,CEN,32,,houston dynamo,2014,USA
+1864,brad guzan,POR,25,16,aston villa,2010,USA
+1864,brad guzan,POR,29,,aston villa,2014,USA
+1865,carlos bocanegra,DEF,31,79,stade rennais,2010,USA
+1866,clarence goodson,DEF,28,14,ik start,2010,USA
+1867,clint dempsey,MED,27,62,fulham,2010,USA
+1867,clint dempsey,DEL,31,,seattle sounders,2014,USA
+1868,damarcus beasley,MED,28,92,rangers fc,2010,USA
+1868,damarcus beasley,DEF,32,,houston dynamo,2014,USA
+1869,deandre yedlin,DEF,20,,seattle sounders,2014,USA
+1870,edson buddle,DEL,29,1,los angeles galaxy,2010,USA
+1871,fabian johnson,DEF,26,,borussia monchengladbach,2014,USA
+1872,francisco torres,MED,22,10,pachuca cf,2010,USA
+1873,geoff cameron,DEF,28,,stoke city,2014,USA
+1874,graham zusi,CEN,27,,sporting kansas city,2014,USA
+1875,herculez gomez,DEL,28,4,puebla cf,2010,USA
+1876,jay demerit,DEF,30,19,watford fc,2010,USA
+1877,jermaine jones,CEN,32,,beşiktaş,2014,USA
+1878,john brooks,DEF,21,,hertha berlin,2014,USA
+1879,jonathan bornstein,DEF,25,32,chivas usa,2010,USA
+1880,jonathan spector,DEF,24,25,west ham,2010,USA
+1881,jozy altidore,DEL,20,9,hull city,2010,USA
+1881,jozy altidore,DEL,24,,sunderland,2014,USA
+1882,julian green,CEN,19,,bayern munich,2014,USA
+1883,jurgen klinsmann,DT,,,,2014,USA
+1884,kyle beckerman,CEN,32,,real salt lake,2014,USA
+1885,landon donovan,DEL,28,112,los angeles galaxy,2010,USA
+1886,marcus hahnemann,POR,37,8,wolverhampton wanderers,2010,USA
+1887,maurice edu,MED,24,13,rangers fc,2010,USA
+1888,michael bradley,MED,22,43,borussia monchengladbach,2010,USA
+1888,michael bradley,CEN,26,,toronto,2014,USA
+1889,mikkel diskerud,CEN,23,,rosenborg bk,2014,USA
+1890,nick rimando,POR,34,,real salt lake,2014,USA
+1891,oguchi onyewu,DEF,28,54,a.c. milan,2010,USA
+1891,oguchi onyewu,DEF,32,,a.c. milan,2014,USA
+1892,omar gonzalez,DEF,25,,los angeles galaxy,2014,USA
+1893,ricardo clark,MED,27,29,eintracht frankfurt,2010,USA
+1894,robbie findley,DEL,24,6,real salt lake,2010,USA
+1894,robbie findley,DEL,31,,liverpool f.c.,2014,USA
+1895,steve cherundolo,DEF,31,60,hannover 96,2010,USA
+1896,stuart holden,MED,24,14,bolton wanderers,2010,USA
+1897,tim chandler,DEF,24,,eintracht frankfurt,2014,USA
+1898,tim howard,POR,31,51,everton fc,2010,USA
+1898,tim howard,POR,35,,everton,2014,USA

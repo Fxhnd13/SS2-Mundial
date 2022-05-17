@@ -11,13 +11,13 @@
     <parameters>
       <parameter>
         <name>ruta_base</name>
-        <default_value>C:\Users\jsoberanis\Documents\Proyectos\SS2-Mundial\Recursos\</default_value>
-        <description/>
+        <default_value>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\Recursos\</default_value>
+        <description>C:\Users\jsoberanis\Documents\Proyectos\SS2-Mundial\Recursos\</description>
       </parameter>
       <parameter>
         <name>ruta_base_resultados</name>
-        <default_value>C:\Users\jsoberanis\Documents\Proyectos\SS2-Mundial\</default_value>
-        <description/>
+        <default_value>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\</default_value>
+        <description>C:\Users\jsoberanis\Documents\Proyectos\SS2-Mundial\</description>
       </parameter>
     </parameters>
     <log>

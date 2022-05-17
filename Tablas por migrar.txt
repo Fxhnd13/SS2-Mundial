@@ -1,0 +1,19 @@
+MS SQL Server (Native)
+
+Host -> localhost
+Database -> Mundial
+Instance -> DESKTOP-EKIL1H3
+User -> sa
+Password -> josecarlos
+
+Tablas migradas
+
+DimSeleccion
+DimTiempoGol
+DimMundial
+
+DimEquipo
+DimJugador
+Fact_Gol
+DimPartido
+DimTiempoPartido

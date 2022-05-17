@@ -1,0 +1,100 @@
+id portero,portero,id tirador,tirador,resultado,no partido,tiro de
+336,claudio bravo,244,david luiz,1,113,BRA
+336,claudio bravo,262,hulk,0,113,BRA
+336,claudio bravo,278,marcelo,1,113,BRA
+336,claudio bravo,282,neymar jr,1,113,BRA
+336,claudio bravo,296,willian,0,113,BRA
+444,danijel subašić,478,christian eriksen,0,52,DEN
+444,danijel subašić,496,lasse schone,0,52,DEN
+444,danijel subašić,501,michael krohn-dehli,1,52,DEN
+444,danijel subašić,505,nicolai jørgensen,0,52,DEN
+444,danijel subašić,509,simon kjær,1,52,DEN
+444,danijel subašić,1429,alan dzagoyev,1,60,RUS
+444,danijel subašić,1438,daler kuziayev,1,60,RUS
+444,danijel subašić,1442,igor smolnikov,0,60,RUS
+444,danijel subašić,1444,mario fernandes,0,60,RUS
+444,danijel subašić,1447,serguei ignashevich,1,60,RUS
+1639,david de gea,1430,aleksandr golovin,1,51,RUS
+1639,david de gea,1439,denis cheryshev,1,51,RUS
+1639,david de gea,1442,igor smolnikov,1,51,RUS
+1639,david de gea,1447,serguei ignashevich,1,51,RUS
+378,david ospina,583,eric dier,1,56,ENG
+378,david ospina,592,harry kane,1,56,ENG
+378,david ospina,605,jordan henderson,0,56,ENG
+378,david ospina,607,kieran trippier,1,56,ENG
+378,david ospina,612,marcus rashford,1,56,ENG
+1009,eiji kawashima,1308,cristian riveros,1,183,PAR
+1009,eiji kawashima,1312,edgar barreto,1,183,PAR
+1009,eiji kawashima,1319,lucas barrios,1,183,PAR
+1009,eiji kawashima,1320,nelson haedo,1,183,PAR
+1009,eiji kawashima,1322,oscar cardozo,1,183,PAR
+1829,fernando muslera,745,asamoah gyan,1,186,GHA
+1829,fernando muslera,750,dominic adiyiah,0,186,GHA
+1829,fernando muslera,758,john mensah,0,186,GHA
+1829,fernando muslera,776,stephen appiah,1,186,GHA
+1441,igor akinfeyev,447,domagoj vida,1,60,CRO
+1541,igor akinfeyev,447,domagoj vida,1,60,CRO
+1441,igor akinfeyev,454,ivan rakitić,1,60,CRO
+1541,igor akinfeyev,454,ivan rakitić,1,60,CRO
+1441,igor akinfeyev,459,luka modrić,1,60,CRO
+1541,igor akinfeyev,459,luka modrić,1,60,CRO
+1441,igor akinfeyev,460,marcelo brozović,1,60,CRO
+1541,igor akinfeyev,460,marcelo brozović,1,60,CRO
+1441,igor akinfeyev,463,mateo kovačić,0,60,CRO
+1541,igor akinfeyev,463,mateo kovačić,0,60,CRO
+1441,igor akinfeyev,1633,andres iniesta,1,51,SPA
+1541,igor akinfeyev,1633,andres iniesta,1,51,SPA
+1441,igor akinfeyev,1646,gerard pique,1,51,SPA
+1541,igor akinfeyev,1646,gerard pique,1,51,SPA
+1441,igor akinfeyev,1647,iago aspas,0,51,SPA
+1541,igor akinfeyev,1647,iago aspas,0,51,SPA
+1441,igor akinfeyev,1657,koke,0,51,SPA
+1541,igor akinfeyev,1657,koke,0,51,SPA
+1441,igor akinfeyev,1669,sergio ramos,1,51,SPA
+1541,igor akinfeyev,1669,sergio ramos,1,51,SPA
+1166,jasper cillessen,81,ezequiel garay,1,126,ARG
+1166,jasper cillessen,98,lionel messi,1,126,ARG
+1166,jasper cillessen,107,maximiliano rodriguez,1,126,ARG
+1166,jasper cillessen,116,sergio aguero,1,126,ARG
+606,jordan pickford,373,carlos bacca,0,56,COL
+606,jordan pickford,392,juan guillermo cuadrado,1,56,COL
+606,jordan pickford,393,luis muriel,1,56,COL
+606,jordan pickford,395,mateus uribe,0,56,COL
+606,jordan pickford,399,radamel falcao,1,56,COL
+269,julio cesar,332,alexis sanchez,0,113,CHI
+269,julio cesar,335,charles aranguiz,1,113,CHI
+269,julio cesar,346,gonzalo jara,0,113,CHI
+269,julio cesar,356,marcelo diaz,1,113,CHI
+269,julio cesar,361,mauricio pinilla,0,113,CHI
+494,kasper schmeichel,441,andrej kramarić,1,52,CRO
+494,kasper schmeichel,454,ivan rakitić,1,52,CRO
+494,kasper schmeichel,457,josip pivarić,0,52,CRO
+494,kasper schmeichel,459,luka modrić,1,52,CRO
+494,kasper schmeichel,464,milan badelj,0,52,CRO
+426,keylor navas,796,jose holebas,1,116,GRE
+426,keylor navas,801,kostas mitroglou,1,116,GRE
+426,keylor navas,802,lazaros christodoulopoulos,1,116,GRE
+426,keylor navas,817,theofanis gekas,0,116,GRE
+426,keylor navas,1153,arjen robben,1,124,NED
+426,keylor navas,1159,dirk kuyt,1,124,NED
+426,keylor navas,1184,robin van persie,1,124,NED
+426,keylor navas,1192,wesley sneijder,1,124,NED
+806,orestis karnezis,406,bryan ruiz,1,116,CRC
+806,orestis karnezis,407,celso borges,1,116,CRC
+806,orestis karnezis,416,giancarlo gonzalez,1,116,CRC
+806,orestis karnezis,418,joel campbell,1,116,CRC
+806,orestis karnezis,430,michael umaña,1,116,CRC
+773,richard kingson,1818,andres scotti,1,186,URU
+773,richard kingson,1822,diego forlan,1,186,URU
+773,richard kingson,1846,mauricio victorino,1,186,URU
+773,richard kingson,1848,maximiliano pereira,1,186,URU
+773,richard kingson,1854,sebastian abreu,1,186,URU
+117,sergio romero,1153,arjen robben,1,126,NED
+117,sergio romero,1159,dirk kuyt,0,126,NED
+117,sergio romero,1185,ron vlaar,0,126,NED
+117,sergio romero,1192,wesley sneijder,0,126,NED
+1191,tim krul,406,bryan ruiz,0,124,CRC
+1191,tim krul,407,celso borges,1,124,CRC
+1191,tim krul,408,christian bolaños,1,124,CRC
+1191,tim krul,416,giancarlo gonzalez,1,124,CRC
+1191,tim krul,430,michael umaña,0,124,CRC
