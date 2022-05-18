@@ -33,6 +33,9 @@
 13,AUS,mile jedinak,62,               ,,164
 15,AUS,mile jedinak,38,               ,,164
 73,AUS,mile jedinak,54,               ,,164
+72,AUS,tim cahil,35,               ,,
+73,AUS,tim cahil,21,               ,,
+151,AUS,tim cahil,69,               ,,
 41,BEL,adnan januzaj,51,               ,,180
 109,BEL,divock origi,88,               ,,185
 37,BEL,dries mertens,47,               ,,186
@@ -44,6 +47,8 @@
 112,BEL,jan vertonghen,78,               ,,188
 58,BEL,kevin de bruyne,31,               ,,189
 120,BEL,kevin de bruyne,93,               ,,189
+54,BEL,marouane fellini,74,               ,,
+107,BEL,marouane fellini,70,               ,,
 39,BEL,michy batshuayi,90,               ,,196
 54,BEL,nacer chadli,90,4,,198
 37,BEL,romelu lukaku,69,               ,,201
@@ -52,6 +57,11 @@
 39,BEL,romelu lukaku,45,3,,201
 120,BEL,romelu lukaku,105,               ,,201
 63,BEL,thomas meunier,4,               ,,206
+99,BOS,avdija vrsajevic,83,               ,,
+99,BOS,edin dzeko,23,               ,,
+99,BOS,miralem pjanic,59,               ,,
+95,BOS,sead kolasinac,3,               ,AG,
+95,BOS,vedad ibisevic,84,               ,,
 113,BRA,david luiz,18,               ,,244
 122,BRA,david luiz,69,               ,,244
 166,BRA,elano,72,               ,,249
@@ -76,12 +86,15 @@
 29,BRA,paulinho,36,               ,,285
 26,BRA,philippe coutinho,20,               ,,287
 27,BRA,philippe coutinho,90,1,,287
+58,BRA,renato augusto 76,76,               ,,
 53,BRA,roberto firmino,88,               ,,290
 182,BRA,robinho,59,               ,,291
 185,BRA,robinho,10,               ,,291
 29,BRA,thiago silva,68,               ,,293
 122,BRA,thiago silva,7,               ,,293
 69,CAM,joel matip,26,               ,,317
+156,CAM,samuel etoo,10,               ,,
+157,CAM,samuel etoo,65,               ,,
 72,CHI,alexis sanchez,12,               ,,332
 113,CHI,alexis sanchez,32,               ,,332
 74,CHI,charles aranguiz,43,               ,,335
@@ -93,8 +106,16 @@
 175,CHI,rodrigo millar,47,               ,,365
 82,COL,jackson martinez,55,               ,,384
 82,COL,jackson martinez,82,               ,,384
+77,COL,james rodrigez,90,3,,
+79,COL,james rodrigez,64,               ,,
+82,COL,james rodrigez,90,               ,,
+114,COL,james rodrigez,50,               ,,
+114,COL,james rodrigez,28,               ,,
+122,COL,james rodrigez,80,               ,,
 46,COL,juan guillermo cuadrado,75,               ,,392
 82,COL,juan guillermo cuadrado,17,               ,,392
+43,COL,juan quintero,39,               ,,
+79,COL,juan quintero,70,               ,,
 77,COL,pablo armero,5,               ,,398
 46,COL,radamel falcao,70,               ,,399
 77,COL,teofilo gutierrez,58,               ,,401
@@ -105,16 +126,35 @@
 116,CRC,bryan ruiz,52,               ,,406
 83,CRC,joel campbell,54,               ,,418
 30,CRC,kendall waston,56,               ,,424
-83,CRC,marco ureña,84,               ,,428
+83,CRC,marco ureÃ±a,84,               ,,428
 83,CRC,oscar duarte,57,               ,,431
+60,CRO,andrej kramaric,39,               ,,
+21,CRO,ante rebic,53,               ,,
 60,CRO,domagoj vida,101,               ,,447
+23,CRO,ivan perisic,90,               ,,
+62,CRO,ivan perisic,68,               ,,
+64,CRO,ivan perisic,28,               ,,
+68,CRO,ivan perisic,48,               ,,
+70,CRO,ivan perisic,87,               ,,
+21,CRO,ivan rakitic,90,1,,
+68,CRO,ivica olic,11,               ,,
+20,CRO,luka modric,71,               ,,
+21,CRO,luka modric,80,               ,,
+52,CRO,mario mandzukic,4,               ,,
+62,CRO,mario mandzukic,109,               ,,
+64,CRO,mario mandzukic,18,               ,AG,
+64,CRO,mario mandzukic,69,               ,,
+68,CRO,mario mandzukic,61,               ,,
+68,CRO,mario mandzukic,73,               ,,
 23,CRO,milan badelj,53,               ,,464
 15,DEN,christian eriksen,7,               ,,478
 153,DEN,daniel agger,46,               ,AG,480
 156,DEN,dennis rommedahl,61,               ,,482
 158,DEN,jon dahl tomasson,81,               ,,490
+52,DEN,mathias jorgensen,1,               ,,
 156,DEN,nicklas bendtner,33,               ,,504
 14,DEN,yussuf poulsen,59,               ,,519
+166,DPR,yun nam ji,89,               ,,
 89,ECU,enner valencia,22,               ,,527
 92,ECU,enner valencia,34,               ,,527
 92,ECU,enner valencia,65,               ,,527
@@ -123,6 +163,7 @@
 5,EGT,mohamed salah,22,               ,,560
 84,ENG,daniel sturridge,37,               ,,576
 59,ENG,dele alli,59,               ,,581
+40,ENG,felipe baloy,78,               ,,
 38,ENG,harry kane,11,               ,,592
 38,ENG,harry kane,90,1,,592
 40,ENG,harry kane,22,               ,,592
@@ -135,12 +176,14 @@
 40,ENG,john stones,8,               ,,603
 40,ENG,john stones,40,               ,,603
 62,ENG,kieran trippier,5,               ,,607
+179,ENG,matt upson,37,               ,,
 141,ENG,steven gerrard,4,               ,,628
 85,ENG,wayne rooney,75,               ,,630
 13,FRA,antoine griezmann,58,               ,,637
 49,FRA,antoine griezmann,13,               ,,637
 57,FRA,antoine griezmann,61,               ,,637
 64,FRA,antoine griezmann,38,               ,,637
+13,FRA,aziz behich,81,               ,,
 49,FRA,benjamin pavard,57,               ,,640
 91,FRA,blaise matuidi,18,               ,,641
 133,FRA,florent malouda,70,               ,,648
@@ -156,7 +199,10 @@
 91,FRA,olivier giroud,17,               ,,671
 64,FRA,paul pogba,59,               ,,674
 118,FRA,paul pogba,79,               ,,674
+57,FRA,raphael varane 40,               ,               ,,
 61,FRA,samuel umtiti,51,               ,,679
+117,GER,abdelmoumene djabou,120,4,,
+187,GER,ame friedrich,74,               ,,
 117,GER,andre schurrle,92,               ,,690
 125,GER,andre schurrle,69,               ,,690
 125,GER,andre schurrle,79,               ,,690
@@ -202,16 +248,22 @@
 105,GHA,john boye,31,               ,ag,757
 178,GHA,kevin prince boateng,5,               ,,762
 81,GRE,andreas samaris,42,               ,,782
+138,GRE,dimitrios salpingidis,44,               ,,
 81,GRE,georgios samaras,90,3,,790
 116,GRE,sokratis papastathopoulos,90,1,,812
+138,GRE,vasileios torosidis,               ,               ,,
 92,HON,carlo costly,31,               ,,824
 90,HON,noel valladares,48,               ,AG,848
+7,IRA,aziz bouhaddouez,90,5,AG,
 99,IRA,reza ghoochannejhad,82,               ,,892
+19,ISL,alfred finnbogason,23,               ,,
+23,ISL,gylfi sigurdsson,76,               ,,
 164,ITA,antonio di natale,81,               ,,932
 84,ITA,claudio marchisio,35,               ,,936
 159,ITA,daniele de rossi,63,               ,,937
 164,ITA,fabio quagliarella,90,2,,940
 84,ITA,mario balotelli,50,               ,,954
+162,ITA,vincenzo laquinta,29,               ,,
 167,IVC,didier drogba,79,               ,,975
 78,IVC,gervinho,66,               ,,980
 79,IVC,gervinho,73,               ,,980
@@ -232,10 +284,12 @@
 54,JAP,takashi inui,52,               ,,1038
 158,JAP,yasuhito endo,30,               ,,1045
 43,JAP,yuya osako,73,               ,,1054
+11,MAR,karim ansarifard,90,3,,
 12,MAR,khalid boutaib,14,               ,,1089
 12,MAR,youssef en-nesyri,81,               ,,1102
 70,MEX,andres guardado,75,               ,,1107
 33,MEX,carlos vela,26,               ,,1111
+132,MEX,cuahutemoc blanco,79,               ,,
 35,MEX,edson alvarez,74,               ,AG,1114
 115,MEX,giovani dos santos,48,               ,,1119
 31,MEX,hirving lozano,35,               ,,1124
@@ -255,6 +309,8 @@
 153,NED,dirk kuyt,85,               ,,1159
 127,NED,georginio wijnaldum,90,1,,1162
 189,NED,giovanni van bronckhorst,18,               ,,1163
+115,NED,klaas jan huntelaar,90,4,,
+157,NED,klaas jan huntelaar,83,               ,,
 76,NED,leroy fer,77,               ,,1175
 73,NED,memphis depay,68,               ,,1179
 76,NED,memphis depay,90,               ,,1179
@@ -303,17 +359,27 @@
 168,POR,raul meireles,29,               ,,1415
 11,POR,ricardo quaresma,45,               ,,1419
 104,POR,silvestre varela,90,5,,1424
+168,POR,simao,53,               ,,
 168,POR,tiago,60,               ,,1426
 168,POR,tiago,89,               ,,1426
 1,RUS,aleksandr golovin,90,4,,1430
+108,RUS,alexander kerzhakov,74,               ,,
+111,RUS,alexander kokorin,6,               ,,
+1,RUS,artem dzyuba,71,               ,,
+3,RUS,artem dzyuba,62,               ,,
+51,RUS,artem dzyuba,41,               ,,
 1,RUS,denis cheryshev,43,               ,,1439
 1,RUS,denis cheryshev,90,1,,1439
 3,RUS,denis cheryshev,59,               ,,1439
 6,RUS,denis cheryshev,23,               ,AG,1439
 60,RUS,denis cheryshev,31,               ,,1439
+60,RUS,mario fernandez,115,               ,,
+51,RUS,sergei ignashevich,12,               ,AG,
+1,RUS,yury gazinsky,12,               ,,
 44,SEN,m'baye niang,60,               ,,1468
 45,SEN,moussa wague,71,               ,,1472
 45,SEN,sadio mane,11,               ,,1473
+44,SEN,thiago cionek,37,               ,AG,
 164,SLK,kamil kopunek,89,               ,,1485
 160,SLK,robert vittek,50,               ,,1496
 164,SLK,robert vittek,25,               ,,1496
@@ -321,9 +387,23 @@
 181,SLK,robert vittek,90,4,,1496
 142,SLN,robert koren,79,               ,,1517
 143,SLN,valter birsa,13,               ,,1521
+143,SLN,zlatan ljubijankic,42,               ,,
 133,SOA,bongani khumalo,20,               ,,1535
 133,SOA,katlego mphela,37,               ,,1545
 129,SOA,siphiwe tshabalala,55,               ,,1559
+137,SOK,chu young park,17,               ,AG,
+140,SOK,chu young park,49,               ,,
+137,SOK,chung-yong lee,45,1,,
+177,SOK,chung-yong lee,68,               ,,
+33,SOK,heung-min son,90,3,,
+36,SOK,heung-min son,90,6,,
+110,SOK,heung-min son,50,               ,,
+110,SOK,ja-cheol koo,72,               ,,
+135,SOK,ji sung park,52,               ,,
+135,SOK,jung soo lee,7,               ,,
+140,SOK,jung soo lee,38,               ,,
+108,SOK,keun-ho lee,68,               ,,
+36,SOK,young-gwon kim,90,3,,
 175,SPA,andres iniesta,37,               ,,1633
 192,SPA,andres iniesta,116,               ,,1633
 190,SPA,carles puyol,73,               ,,1634
@@ -340,24 +420,34 @@
 12,SPA,iago aspas,90,1,,1647
 12,SPA,isco,19,               ,,1649
 75,SPA,juan mata,82,               ,,1654
+8,SPA,nacho,58,               ,,
 71,SPA,xabi alonso,27,               ,,1673
 25,SRB,aleksandar kolarov,56,               ,,1676
+28,SRB,aleksandar mitrovic,5,               ,,
+151,SRB,marko pantelic,84,               ,,
+149,SRB,milan jovanovic,38,               ,,
 32,SUE,andreas granqvist,65,               ,,1720
 35,SUE,andreas granqvist,62,               ,,1720
 35,SUE,ludwig augustinsson,50,               ,,1731
 34,SUE,ola toivonen,32,               ,,1736
 89,SWZ,admir mehmedi,48,               ,,1743
+30,SWZ,blerim dzemaili,31,               ,,
+91,SWZ,blerim dzemaili,81,               ,,
 172,SWZ,gelson fernandes,52,               ,,1755
 28,SWZ,granit xhaka,52,               ,,1758
 91,SWZ,granit xhaka,87,               ,,1758
+89,SWZ,haris seferovic,90,3,,
+30,SWZ,josip drmic,88,               ,,
 26,SWZ,steven zuber,50,               ,,1782
 28,SWZ,xherdan shaqiri,90,               ,,1787
 94,SWZ,xherdan shaqiri,6,               ,,1787
 94,SWZ,xherdan shaqiri,31,               ,,1787
 94,SWZ,xherdan shaqiri,71,               ,,1787
 30,SWZ,yann sommer,90,3,,1788
+55,SYE,emil forsberg,66,               ,,
 39,TNZ,dylan bronn,18,               ,,1795
 42,TNZ,fakhreddine ben youssef,51,               ,,1797
+38,TNZ,ferjani sassi 35,               ,               ,,
 39,TNZ,wahbi khazri,90,3,,1811
 42,TNZ,wahbi khazri,66,               ,,1811
 42,TNZ,yassine meriah,33,               ,AG,1812
@@ -385,6 +475,7 @@
 104,USA,clint dempsey,81,               ,,1867
 141,USA,clint dempsey,40,               ,,1867
 104,USA,jermaine jones,64,               ,,1877
+102,USA,john anthony brooks,86,               ,,
 120,USA,julian green,107,               ,,1882
 143,USA,landon donovan,48,               ,,1885
 146,USA,landon donovan,90,1,,1885

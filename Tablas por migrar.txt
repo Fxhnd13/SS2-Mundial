@@ -11,9 +11,9 @@ Tablas migradas
 DimSeleccion
 DimTiempoGol
 DimMundial
-
 DimEquipo
 DimJugador
+DimTiempoPartido
+
 Fact_Gol
 DimPartido
-DimTiempoPartido

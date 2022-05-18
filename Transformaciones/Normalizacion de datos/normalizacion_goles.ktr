@@ -11,8 +11,8 @@
     <parameters>
       <parameter>
         <name>ruta_base</name>
-        <default_value>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\</default_value>
-        <description>C:\Users\jsoberanis\Documents\Proyectos\SS2-Mundial\</description>
+        <default_value>C:\Users\jsoberanis\Documents\Proyectos\SS2-Mundial\</default_value>
+        <description>C:\Users\Soberanis\Documents\Universidad\Seminario de sistemas 2\Proyecto final\</description>
       </parameter>
     </parameters>
     <log>
@@ -489,7 +489,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>${ruta_base}\Recursos\csvs\Copia de Estadisticas Mundiales de Futbol - Goles por partido.csv</filename>
+    <filename>${ruta_base}\Recursos\final_csvs\Copia de Estadisticas Mundiales de Futbol - Goles por partido.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -514,6 +514,17 @@
         <length>15</length>
         <precision>0</precision>
         <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>seleccion</name>
+        <type>String</type>
+        <format/>
+        <currency>Q</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>jugador</name>
@@ -550,17 +561,6 @@
       </field>
       <field>
         <name>tipo de gol</name>
-        <type>String</type>
-        <format/>
-        <currency>Q</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>-1</length>
-        <precision>-1</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>seleccion</name>
         <type>String</type>
         <format/>
         <currency>Q</currency>
@@ -629,9 +629,9 @@
         <currency>Q</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>22</length>
+        <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>Seleccion</name>
@@ -640,9 +640,9 @@
         <currency>Q</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>3</length>
+        <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>id</name>
@@ -681,7 +681,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <join_type>INNER</join_type>
+    <join_type>LEFT OUTER</join_type>
     <step1>Sort rows 2</step1>
     <step2>Sort rows</step2>
     <keys_1>
