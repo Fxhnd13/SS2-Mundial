@@ -780,12 +780,12 @@
       </field>
       <field>
         <name>año_db</name>
-        <type>Date</type>
-        <format>yyyy/MM/dd</format>
+        <type>Integer</type>
+        <format>#</format>
         <currency/>
         <decimal/>
         <group/>
-        <nullif>2010/01/01</nullif>
+        <nullif>2010</nullif>
         <length>-1</length>
         <precision>-1</precision>
         <set_empty_string>N</set_empty_string>
@@ -831,12 +831,12 @@
       </field>
       <field>
         <name>año_db</name>
-        <type>Date</type>
-        <format>yyyy/MM/dd</format>
+        <type>Integer</type>
+        <format>#</format>
         <currency/>
         <decimal/>
         <group/>
-        <nullif>2014/01/01</nullif>
+        <nullif>2014</nullif>
         <length>-1</length>
         <precision>-1</precision>
         <set_empty_string>N</set_empty_string>
@@ -882,12 +882,12 @@
       </field>
       <field>
         <name>año_db</name>
-        <type>Date</type>
-        <format>yyyy/MM/dd</format>
+        <type>Integer</type>
+        <format>#</format>
         <currency/>
         <decimal/>
         <group/>
-        <nullif>2018/01/01</nullif>
+        <nullif>2018</nullif>
         <length>-1</length>
         <precision>-1</precision>
         <set_empty_string>N</set_empty_string>

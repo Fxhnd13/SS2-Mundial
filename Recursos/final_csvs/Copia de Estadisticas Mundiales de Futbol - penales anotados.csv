@@ -1,0 +1,67 @@
+no partido,año,id portero,portero,id tirador,tirador,resultado,tiro de,id_tiempo,es_autogol
+51,2018,1639,david de gea,1430,aleksandr golovin,1,RUS,152,0
+51,2018,1639,david de gea,1439,denis cheryshev,1,RUS,153,0
+51,2018,1639,david de gea,1442,igor smolnikov,1,RUS,154,0
+51,2018,1639,david de gea,1447,serguei ignashevich,1,RUS,155,0
+51,2018,1441,igor akinfeyev,1633,andres iniesta,1,SPA,156,0
+51,2018,1441,igor akinfeyev,1646,gerard pique,1,SPA,157,0
+51,2018,1441,igor akinfeyev,1669,sergio ramos,1,SPA,158,0
+52,2018,444,danijel subašić,501,michael krohn-dehli,1,DEN,155,0
+52,2018,444,danijel subašić,509,simon kjær,1,DEN,156,0
+52,2018,494,kasper schmeichel,441,andrej kramarić,1,CRO,157,0
+52,2018,494,kasper schmeichel,454,ivan rakitić,1,CRO,158,0
+52,2018,494,kasper schmeichel,459,luka modrić,1,CRO,159,0
+56,2018,378,david ospina,583,eric dier,1,ENG,153,0
+56,2018,378,david ospina,592,harry kane,1,ENG,154,0
+56,2018,378,david ospina,607,kieran trippier,1,ENG,155,0
+56,2018,378,david ospina,612,marcus rashford,1,ENG,156,0
+56,2018,606,jordan pickford,392,juan guillermo cuadrado,1,COL,157,0
+56,2018,606,jordan pickford,393,luis muriel,1,COL,158,0
+56,2018,606,jordan pickford,399,radamel falcao,1,COL,159,0
+60,2018,444,danijel subašić,1429,alan dzagoyev,1,RUS,152,0
+60,2018,444,danijel subašić,1438,daler kuziayev,1,RUS,153,0
+60,2018,444,danijel subašić,1447,serguei ignashevich,1,RUS,154,0
+60,2018,1441,igor akinfeyev,447,domagoj vida,1,CRO,156,0
+60,2018,1441,igor akinfeyev,454,ivan rakitić,1,CRO,157,0
+60,2018,1441,igor akinfeyev,459,luka modrić,1,CRO,158,0
+60,2018,1441,igor akinfeyev,460,marcelo brozović,1,CRO,159,0
+113,2014,336,claudio bravo,244,david luiz,1,BRA,155,0
+113,2014,336,claudio bravo,278,marcelo,1,BRA,156,0
+113,2014,336,claudio bravo,282,neymar jr,1,BRA,157,0
+113,2014,269,julio cesar,335,charles aranguiz,1,CHI,158,0
+113,2014,269,julio cesar,356,marcelo diaz,1,CHI,159,0
+116,2014,426,keylor navas,796,jose holebas,1,GRE,151,0
+116,2014,426,keylor navas,801,kostas mitroglou,1,GRE,152,0
+116,2014,426,keylor navas,802,lazaros christodoulopoulos,1,GRE,153,0
+116,2014,806,orestis karnezis,406,bryan ruiz,1,CRC,154,0
+116,2014,806,orestis karnezis,407,celso borges,1,CRC,155,0
+116,2014,806,orestis karnezis,416,giancarlo gonzalez,1,CRC,156,0
+116,2014,806,orestis karnezis,418,joel campbell,1,CRC,157,0
+116,2014,806,orestis karnezis,430,michael umaña,1,CRC,158,0
+124,2014,426,keylor navas,1153,arjen robben,1,NED,152,0
+124,2014,426,keylor navas,1159,dirk kuyt,1,NED,153,0
+124,2014,426,keylor navas,1184,robin van persie,1,NED,154,0
+124,2014,426,keylor navas,1192,wesley sneijder,1,NED,155,0
+124,2014,1191,tim krul,407,celso borges,1,CRC,156,0
+124,2014,1191,tim krul,408,christian bolaños,1,CRC,157,0
+124,2014,1191,tim krul,416,giancarlo gonzalez,1,CRC,158,0
+126,2014,1166,jasper cillessen,81,ezequiel garay,1,ARG,153,0
+126,2014,1166,jasper cillessen,98,lionel messi,1,ARG,154,0
+126,2014,1166,jasper cillessen,107,maximiliano rodriguez,1,ARG,155,0
+126,2014,1166,jasper cillessen,116,sergio aguero,1,ARG,156,0
+126,2014,117,sergio romero,1153,arjen robben,1,NED,157,0
+183,2010,1318,justo villar  2° n. 1​,1044,wataru endo,1,JAP,150,0
+183,2010,1318,justo villar  2° n. 1​,1023,makoto hasebe,1,JAP,151,0
+183,2010,1318,justo villar  2° n. 1​,1019,keisuke honda,1,JAP,153,0
+183,2010,1009,eiji kawashima,1308,cristian riveros,1,PAR,154,0
+183,2010,1009,eiji kawashima,1312,edgar barreto,1,PAR,155,0
+183,2010,1009,eiji kawashima,1319,lucas barrios,1,PAR,156,0
+183,2010,1009,eiji kawashima,1320,nelson haedo,1,PAR,157,0
+183,2010,1009,eiji kawashima,1322,oscar cardozo,1,PAR,158,0
+186,2010,1829,fernando muslera,745,asamoah gyan,1,GHA,152,0
+186,2010,1829,fernando muslera,776,stephen appiah,1,GHA,153,0
+186,2010,773,richard kingson,1818,andres scotti,1,URU,154,0
+186,2010,773,richard kingson,1822,diego forlan,1,URU,155,0
+186,2010,773,richard kingson,1846,mauricio victorino,1,URU,156,0
+186,2010,773,richard kingson,1848,maximiliano pereira,1,URU,157,0
+186,2010,773,richard kingson,1854,sebastian abreu,1,URU,158,0
