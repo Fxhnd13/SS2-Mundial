@@ -1,0 +1,1762 @@
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="af1820e9-4037-49a1-9e5e-89ec88785f16" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Mundial</ID>
+  <Name>Mundial</Name>
+  <CreatedTimestamp>0001-01-01T06:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T06:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="38" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-6108" scrolltop="-2205" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="75" x="24130" y="12806" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Dim_Jugador" left="12739" top="0" logicalid="19" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="3387" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000b80b00003b0d0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Dim_Jugador" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Fact_Gol" left="13304" top="5900" logicalid="20" controlid="2" masterid="0" hint1="0" hint2="0" width="3000" height="3387" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000b80b00003b0d0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Fact_Gol" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Dim_Partido" left="9134" top="11574" logicalid="21" controlid="3" masterid="0" hint1="0" hint2="0" width="4805" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000c512000088130000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Dim_Partido" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Dim_Seleccion" left="6675" top="24400" logicalid="22" controlid="4" masterid="0" hint1="0" hint2="0" width="3387" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e00003b0d000088130000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Dim_Seleccion" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Dim_Mundial" left="20" top="24847" logicalid="23" controlid="5" masterid="0" hint1="0" hint2="0" width="4255" height="4106" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e00009f1000000a100000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Dim_Mundial" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Dim_Tiempo_Partido" left="9769" top="18974" logicalid="24" controlid="6" masterid="0" hint1="0" hint2="0" width="3535" height="3027" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000cf0d0000d30b0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Dim_Tiempo_Partido" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Dim_Equipo" left="3347" top="8500" logicalid="25" controlid="7" masterid="0" hint1="0" hint2="0" width="3387" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e00003b0d000088130000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Dim_Equipo" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Dim_Tiempo_Gol" left="16338" top="11574" logicalid="26" controlid="8" masterid="0" hint1="0" hint2="0" width="3006" height="3027" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000be0b0000d30b0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Dim_Tiempo_Gol" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="6434" top="1393" logicalid="27" controlid="9" masterid="0" hint1="0" hint2="0" width="6605" height="8907" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_Dim_Jugador_Dim_Equipo]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="7" destid="1" sourceattachpoint="15" destattachpoint="14" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="6734" y="9900" />
+              <point x="9736" y="9900" />
+              <point x="9736" y="1693" />
+              <point x="12739" y="1693" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="13290" top="2888" logicalid="28" controlid="10" masterid="0" hint1="0" hint2="0" width="799" height="3312" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_Fact_Gol_Dim_Jugador]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="1" destid="2" sourceattachpoint="3" destattachpoint="0" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="13689" y="3387" />
+              <point x="13689" y="4643" />
+              <point x="13704" y="4643" />
+              <point x="13704" y="5900" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="11137" top="8987" logicalid="29" controlid="11" masterid="0" hint1="0" hint2="0" width="2867" height="3087" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_Fact_Gol_Dim_Partido]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="3" destid="2" sourceattachpoint="8" destattachpoint="1" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="11536" y="11574" />
+              <point x="11536" y="10431" />
+              <point x="13704" y="10431" />
+              <point x="13704" y="9287" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="6434" top="7293" logicalid="30" controlid="12" masterid="0" hint1="0" hint2="0" width="7170" height="3557" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_Fact_Gol_Dim_Equipo]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="7" destid="2" sourceattachpoint="17" destattachpoint="14" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="6734" y="10450" />
+              <point x="10019" y="10450" />
+              <point x="10019" y="7593" />
+              <point x="13304" y="7593" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="14504" top="8987" logicalid="31" controlid="13" masterid="0" hint1="0" hint2="0" width="3737" height="3087" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_Fact_Gol_Dim_Tiempo_Gol]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="8" destid="2" sourceattachpoint="4" destattachpoint="5" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="17841" y="11574" />
+              <point x="17841" y="10431" />
+              <point x="14804" y="10431" />
+              <point x="14804" y="9287" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="6434" top="10601" logicalid="32" controlid="14" masterid="0" hint1="0" hint2="0" width="3000" height="2673" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_Dim_Partido_Dim_Equipo]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="7" destid="3" sourceattachpoint="19" destattachpoint="22" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="6734" y="11000" />
+              <point x="7934" y="11000" />
+              <point x="7934" y="12974" />
+              <point x="9134" y="12974" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="6434" top="11151" logicalid="33" controlid="15" masterid="0" hint1="0" hint2="0" width="3000" height="3773" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_Dim_Partido_Dim_Equipo1]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="7" destid="3" sourceattachpoint="21" destattachpoint="28" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="6734" y="11550" />
+              <point x="7934" y="11550" />
+              <point x="7934" y="14624" />
+              <point x="9134" y="14624" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="11137" top="16274" logicalid="34" controlid="16" masterid="0" hint1="0" hint2="0" width="799" height="3200" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_Dim_Partido_Dim_Tiempo_Partido]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="6" destid="3" sourceattachpoint="6" destattachpoint="9" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="11536" y="18974" />
+              <point x="11536" y="16574" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="5290" top="13200" logicalid="35" controlid="17" masterid="0" hint1="0" hint2="0" width="3478" height="11700" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_Dim_Equipo_Dim_Seleccion]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="4" destid="7" sourceattachpoint="4" destattachpoint="7" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="8368" y="24400" />
+              <point x="8368" y="18950" />
+              <point x="5590" y="18950" />
+              <point x="5590" y="13500" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="1748" top="13200" logicalid="36" controlid="18" masterid="0" hint1="0" hint2="0" width="2492" height="12147" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_Dim_Equipo_Dim_Mundial]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="5" destid="7" sourceattachpoint="6" destattachpoint="1" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="2147" y="24847" />
+              <point x="2147" y="19174" />
+              <point x="3940" y="19174" />
+              <point x="3940" y="13500" />
+            </connector>
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-6108</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-2205</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>20</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>75</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T06:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Dimensions>
+    <Dimension dwd:design-time-name="116c8f75-8901-4e8d-b9bc-7222a1371be3">
+      <ID>Fact Gol</ID>
+      <Name>Fact Gol</Name>
+      <DimensionID>Fact Gol</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="b425d219-e90f-4ae2-b64b-ec5ab993f9ff">
+          <AttributeID>Id Partido</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="caed89b8-4e86-475b-ab10-cb4a7986a61c">
+          <AttributeID>Fact Gol - Id Partido</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="6db023da-732a-42b2-b429-19eac115a458">
+          <AttributeID>Id Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="96bd084d-ceba-49ef-8889-cc39108fcf9c">
+          <AttributeID>Id Tiempo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="f423e591-0b05-4e15-afc8-17f7568b5acf">
+          <AttributeID>Id Jugador</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="c05bde75-ba99-4f70-9200-2e745f268aa8">
+          <AttributeID>Es Penal</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="3b2567e0-60a6-448d-86ce-d67c36bcddaf">
+          <AttributeID>Portero</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="ecdfbd60-b1a6-4be0-85e3-2f1989e4ce09">
+          <AttributeID>Es Autogol</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="a20a5a70-65a3-47c1-b2e9-d9d0fa0b1957">
+      <ID>Dim Partido</ID>
+      <Name>Dim Partido</Name>
+      <DimensionID>Dim Partido</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="dc0095e1-de6d-4c53-8968-2d737f8b0667">
+          <AttributeID>Id Partido</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="dad124c2-4fd7-4747-96a9-dde3317dea7f">
+          <AttributeID>Id Tiempo Partido</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="fbecf709-efa8-4bed-b40f-2a76144692a1">
+          <AttributeID>Fecha Equivalente</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="13ca23e0-e5d4-41de-8639-bfb16d56f063">
+          <AttributeID>Goles Equipo1</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="2bace12f-a1f4-4bb8-b24f-be1757217684">
+          <AttributeID>Goles Equipo2</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="9c0b15f0-0548-4aa4-8aa9-f676d23a6045">
+          <AttributeID>Grupo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="c1e64311-a664-4237-a415-924a2e506e60">
+          <AttributeID>Fase</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="4a76c619-df52-40fd-8eb5-0190980c7636">
+          <AttributeID>Id Equipo1</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="fbdae84a-7c81-42ae-9409-e9ad6f8bc848">
+          <AttributeID>Id Equipo2</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="e789c662-4306-4ed3-b5b8-409ba4aee155">
+      <ID>Dim Equipo</ID>
+      <Name>Dim Equipo</Name>
+      <DimensionID>Dim Equipo</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="e64a4966-b36e-40f5-a441-aa5fdc1160f8">
+          <AttributeID>Id Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="e6dfafe0-62f9-47dc-8958-deead0a134a7">
+          <AttributeID>Id Mundial</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="7e3ca4f7-8fc6-4564-ab69-8de1a680d8c0">
+          <AttributeID>Id Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="7c6cdc52-7da0-4974-915e-498da497adfe">
+          <AttributeID>Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="badfed68-a397-4ced-ad2e-cdf4cca1ff15">
+          <AttributeID>Goles Favor</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="bebbdc64-03f0-499d-9704-b479c54ae057">
+          <AttributeID>Goles Contra</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="4478db6f-4026-4314-a657-fa57a143de99">
+          <AttributeID>Abreviatura</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="a224e33f-1e7b-4237-b900-01e16bea3b7b">
+          <AttributeID>Es Local</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="d6f7bafc-dc12-4e81-a0b9-ce18fbbf3ea2">
+          <AttributeID>Cede</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="307fa881-e415-4912-8920-fb631b5b678b">
+          <AttributeID>Año</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="b56e10da-364e-4557-837d-25ead75469a3">
+          <AttributeID>Confederacion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="54ec908e-cd89-4f79-b6e8-f81dce2b3560">
+          <AttributeID>Amarillas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="4076f62c-5171-45fc-ae13-40396533314e">
+          <AttributeID>Rojas Directas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="b3c74a01-e278-472c-9c9b-f6dd1d85aa45">
+          <AttributeID>Partidos Jugados</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="942b8d76-7568-4d73-a956-44857d3f15f2">
+          <AttributeID>Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="6f1c6215-01c9-46b1-9355-20b2f126ea3e">
+          <AttributeID>Nombre</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="68a0e8f8-0feb-407c-a6a3-4f2887882afb">
+          <AttributeID>Id Seleccion Campeon</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="b6501bfc-b5d5-4795-b086-7db7a3afc768">
+      <ID>Dim Tiempo Gol</ID>
+      <Name>Dim Tiempo Gol</Name>
+      <DimensionID>Dim Tiempo Gol</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="40b9254d-140b-457a-a098-8342fbdd72fc">
+          <AttributeID>Id Tiempo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="2730e404-b957-414b-bd34-48f2c7f383fc">
+          <AttributeID>Minuto</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="e8278ab4-fa36-4d71-bd86-c67bf008b66b">
+          <AttributeID>Tiempo Extra</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="74ed4ee1-3b24-4c90-844f-6c8c8dc5d02d">
+          <AttributeID>Es Penal</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="a972ce93-a7da-4034-90ae-f806387717f4">
+          <AttributeID>Numero Penal</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="dd3066e3-400c-46da-8a4b-92dff4720000">
+      <ID>Dim Jugador</ID>
+      <Name>Dim Jugador</Name>
+      <DimensionID>Dim Jugador</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="9360d59c-ecce-492f-b146-927268a35107">
+          <AttributeID>Id Jugador</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="742233bb-6050-4cca-93da-2c0a8a361ab7">
+          <AttributeID>Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="1e3f30ff-cf7c-4abc-9fe2-ba8a08a60013">
+          <AttributeID>Nombre</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="5a15ca76-4881-4b47-b0b9-d0a299308235">
+          <AttributeID>Posicion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="91af8703-1246-46b8-8a9b-dcc388bf5869">
+          <AttributeID>Edad</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="ac4902b4-4ee7-4d14-abb5-4a8a4dfdcfe8">
+          <AttributeID>Club</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="a28699c3-eb01-47e2-8f32-6861d6c23b65">
+      <ID>Dim Partido - Id Equipo1</ID>
+      <Name>Dim Partido - Id Equipo1</Name>
+      <DimensionID>Dim Equipo</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="2fe3c7f6-76f7-4ed2-a1a7-6d558b6c6be3">
+          <AttributeID>Id Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="dc2ee1ce-9c06-4971-8224-d37a2a9c83a6">
+          <AttributeID>Id Mundial</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="64ea7c56-4e5a-4625-849d-e3fc67bbce13">
+          <AttributeID>Id Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="59de9cb4-52e5-4e3c-9b5b-18d4ce79a452">
+          <AttributeID>Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="785a3d90-422c-48d9-903e-b21d4f7af731">
+          <AttributeID>Goles Favor</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="c3f7e5fd-40a3-4799-a8a0-1175c6007493">
+          <AttributeID>Goles Contra</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="73cc7d0e-7a20-48fc-ba9f-ddc4a7ca53ec">
+          <AttributeID>Abreviatura</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="5b058629-965c-4748-a8ea-df3cdd9a4229">
+          <AttributeID>Es Local</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="fa9493db-bb29-4062-8ddc-a47063b59f86">
+          <AttributeID>Cede</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="41491277-9e3d-451f-ab94-d3c0c7a2487d">
+          <AttributeID>Año</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="80712409-065b-43df-8389-cdfaae6dc474">
+          <AttributeID>Confederacion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="b32fb0aa-20a4-43ce-abf7-780f3331af0a">
+          <AttributeID>Amarillas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="9581d58e-3ba3-484d-8d42-606dd0da0b14">
+          <AttributeID>Rojas Directas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="e3ac3e60-d229-4e10-a1bb-bd8fc3a00a51">
+          <AttributeID>Partidos Jugados</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="fc97f245-64ef-4e3c-94b4-3e7395de2bb7">
+          <AttributeID>Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="73e47c5d-415f-498f-90b1-4815304f9aa4">
+          <AttributeID>Nombre</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="7d457cc6-32e3-498f-84bc-8514d8638627">
+          <AttributeID>Id Seleccion Campeon</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="5a7b69ea-8868-497f-86f5-e2b0c4a0ebd0">
+      <ID>Dim Partido - Id Equipo2</ID>
+      <Name>Dim Partido - Id Equipo2</Name>
+      <DimensionID>Dim Equipo</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="ffc249fa-0efa-46b4-85ef-d6fd2a92858c">
+          <AttributeID>Id Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="fdcacfcf-950e-4944-a371-117acd8e1240">
+          <AttributeID>Id Mundial</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="9556bd2b-0438-42c3-9191-9ac251ca1f06">
+          <AttributeID>Id Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="a4adc038-3a75-483c-b31c-6b3c6d66e47b">
+          <AttributeID>Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="ed1acbf8-4f01-4de2-9df9-0024f952af89">
+          <AttributeID>Goles Favor</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="bdcd4dc1-dc32-4743-9720-8e1553a4d6a8">
+          <AttributeID>Goles Contra</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="0bd50bdb-e738-47be-b7a7-d243dc0ea858">
+          <AttributeID>Abreviatura</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="6401d460-48ac-4bd6-96d4-f1b17d65f1f3">
+          <AttributeID>Es Local</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="07d199a0-eb55-4064-bfb5-684eda83f478">
+          <AttributeID>Cede</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="08508617-d72b-40f4-ab18-9b69475de937">
+          <AttributeID>Año</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="40bf4153-74b6-4593-9c47-b74da80960b6">
+          <AttributeID>Confederacion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="0b7c8de4-d9ca-4a78-9675-86c2e56facc3">
+          <AttributeID>Amarillas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="0cbeba7a-0dbd-42a5-a32d-25241fdb665d">
+          <AttributeID>Rojas Directas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="2cf998dc-7e6b-4b3a-9a7e-d68a534cd6bb">
+          <AttributeID>Partidos Jugados</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="4edc3ea8-efa1-4e72-94fc-0c8437a58c0a">
+          <AttributeID>Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="6dd54aff-0cfe-4a54-8176-cdde16a05d88">
+          <AttributeID>Nombre</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="dd39d90e-cea8-490e-bd05-33a91c975359">
+          <AttributeID>Id Seleccion Campeon</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="ab0b6e08-bb0d-4625-9a88-59e03dce7cc0">
+      <ID>Dim Jugador - Equipo</ID>
+      <Name>Dim Jugador - Equipo</Name>
+      <DimensionID>Dim Equipo</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="83aeb580-1100-4cc6-ba68-88cd52102788">
+          <AttributeID>Id Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="978ebbce-b38e-413a-9a9f-fd68db533456">
+          <AttributeID>Id Mundial</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="69c50719-9fe0-4260-a4a7-482bc81b06f9">
+          <AttributeID>Id Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="a70b3409-6da2-4eb8-a230-4ca43e1289da">
+          <AttributeID>Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="cc4a9f28-4ce5-4fa7-b5b4-9c9ce3f88eff">
+          <AttributeID>Goles Favor</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="b514af80-37b5-4007-a9b8-152c6dd26b15">
+          <AttributeID>Goles Contra</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="b390f9cc-3a03-41dc-a451-7485a82cb8aa">
+          <AttributeID>Abreviatura</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="d80a04ec-bb24-4aca-8fbe-5e11e6576888">
+          <AttributeID>Es Local</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="5234b5db-b377-4ac3-9efd-013168dec262">
+          <AttributeID>Cede</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="fcc5013e-5cea-4812-b043-1ed4f28b8f5b">
+          <AttributeID>Año</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="386a3938-40f5-45db-a65c-2e2aab633178">
+          <AttributeID>Confederacion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="16de56a7-1ae7-4567-9b43-80de5adc9a59">
+          <AttributeID>Amarillas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="0435fef2-082d-45f1-85ca-cc67cce3779c">
+          <AttributeID>Rojas Directas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="e1cd579b-a494-4be0-9725-9da1a0955034">
+          <AttributeID>Partidos Jugados</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="07fa581e-2a95-4e07-a89b-0b6cbb22680c">
+          <AttributeID>Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="cc47e7ec-aa67-4042-838c-f2d0d10f6f3b">
+          <AttributeID>Nombre</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="eea790b1-5d9f-43db-82f7-cb3ee11fc488">
+          <AttributeID>Id Seleccion Campeon</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="c1d44d35-65bd-4062-913a-4893f7da1414">
+      <ID>Id Tiempo Partido</ID>
+      <Name>Id Tiempo Partido</Name>
+      <DimensionID>Dim Partido</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="907c45d8-b4cd-4120-a734-aff0e5c9cae8">
+          <AttributeID>Id Partido</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="12997734-86e1-40f7-9af9-8829128718ac">
+          <AttributeID>Id Tiempo Partido</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="4aa69cdf-e3e3-43bc-b7d4-45562678e640">
+          <AttributeID>Fecha Equivalente</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="91784fa7-f88c-46b0-8482-60c5e4da2b2e">
+          <AttributeID>Goles Equipo1</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="b84fd1da-455a-4f26-8fff-ee735f86fce0">
+          <AttributeID>Goles Equipo2</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="988be140-7522-4737-9fcc-07b07f5f249c">
+          <AttributeID>Grupo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="30459174-dc0e-45b2-b5e5-831bf7922cd9">
+          <AttributeID>Fase</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="a7d2f22b-f671-41f4-bb36-0084a9803ede">
+          <AttributeID>Id Equipo1</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="b76aad29-e053-4c62-ba43-a4fd5332e105">
+          <AttributeID>Id Equipo2</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="04cde736-8325-40c8-b394-96b5bab66f0d">
+      <ID>Id Equipo2</ID>
+      <Name>Id Equipo2</Name>
+      <DimensionID>Dim Equipo</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="ad967498-9368-4333-9f82-5dc24ea74ede">
+          <AttributeID>Id Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="f3f0b714-50fa-4679-a551-61b79514e033">
+          <AttributeID>Id Mundial</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="13082b10-19ef-4a88-bb3d-e143f07bbabc">
+          <AttributeID>Id Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="13f606b4-67ff-4ab1-aa85-b90a0904d43a">
+          <AttributeID>Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="05974a21-88ca-4e34-86c8-9bf45e20b720">
+          <AttributeID>Goles Favor</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="081f8333-c18f-447e-9386-96c3af8d4a86">
+          <AttributeID>Goles Contra</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="c29f24d7-303b-486a-845d-e8d1d2baffa3">
+          <AttributeID>Abreviatura</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="30e800e7-a3c8-4618-bb80-5a4008ba4f33">
+          <AttributeID>Es Local</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="7fa4a722-3043-47fa-9cd7-f0b9798a1acd">
+          <AttributeID>Cede</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="6d415dc0-4948-4b38-86ee-e367e71fecae">
+          <AttributeID>Año</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="ec7c52b0-c2dc-461f-abab-5d98ec389553">
+          <AttributeID>Confederacion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="b3f1607c-d69c-44b4-91de-188ce0f075c4">
+          <AttributeID>Amarillas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="d420e808-0b51-48a2-9fa3-c79fa65d6992">
+          <AttributeID>Rojas Directas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="10512d91-b69b-4ff1-965a-390d0abf4245">
+          <AttributeID>Partidos Jugados</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="0c663a31-b8d9-4af5-aca7-e549a9cf411d">
+          <AttributeID>Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="da11eb37-9008-4e36-97bf-3318619ead7c">
+          <AttributeID>Nombre</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="ff7e7dee-4dd5-4ac4-926f-16e630c39bfe">
+          <AttributeID>Id Seleccion Campeon</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="2d9fe12e-3671-47a9-88ed-668cfefd9698">
+      <ID>Id Equipo1</ID>
+      <Name>Id Equipo1</Name>
+      <DimensionID>Dim Equipo</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="3d796bb3-929f-4235-9f28-f47e38599823">
+          <AttributeID>Id Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="fcae9325-b222-47d7-b923-d49b84216925">
+          <AttributeID>Id Mundial</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="e9b7c475-f494-4cbf-8784-5c08afc20c0b">
+          <AttributeID>Id Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="75f5bc1e-bedf-4524-b40d-d7d9869e0977">
+          <AttributeID>Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="5b75cdde-160f-4e5d-a681-6c0670687e5d">
+          <AttributeID>Goles Favor</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="4803758e-896e-48f1-8619-6008969f9ee0">
+          <AttributeID>Goles Contra</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="a698997a-60b7-4d5a-ac46-75a8f8274a2b">
+          <AttributeID>Abreviatura</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="9fc7c9ec-743f-45f0-9d61-1b97fe59914d">
+          <AttributeID>Es Local</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="e461734e-4d4a-49fa-ad4e-3349773cef15">
+          <AttributeID>Cede</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="e7f2e443-059a-4bbc-ac59-dbaa172e8799">
+          <AttributeID>Año</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="2f32e0de-2e2b-4040-8b64-550501e6aa23">
+          <AttributeID>Confederacion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="9be3ab29-c793-48fc-847e-ed76dc9c6db1">
+          <AttributeID>Amarillas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="84304e38-0aea-47ae-84b9-ed34de6e388d">
+          <AttributeID>Rojas Directas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="e1f45e09-7ed6-4e66-aebd-c3995f312db3">
+          <AttributeID>Partidos Jugados</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="b8d5b40a-2d8c-4497-b71c-c4f0e81957be">
+          <AttributeID>Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="036da049-f03a-4fd5-9594-a2f656a94056">
+          <AttributeID>Nombre</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="bc9f6e37-a619-41e7-9e64-640ba633ac2f">
+          <AttributeID>Id Seleccion Campeon</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="cb278464-6bd6-4efd-bf18-918fc5d43470">
+      <ID>Seleccion</ID>
+      <Name>Seleccion</Name>
+      <DimensionID>Dim Equipo</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="15438eeb-7acd-4b47-aaa4-7a98d512f4cf">
+          <AttributeID>Id Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="1fe3c61a-79fa-48b5-bd35-e690acf89050">
+          <AttributeID>Id Mundial</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="33ebc740-ced9-41e9-89e5-e5ede29e03a2">
+          <AttributeID>Id Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="4c5cc803-b5d1-4eda-a243-97710293b4b4">
+          <AttributeID>Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="42a79d7f-5ec5-4c4a-8439-10fefd0bb232">
+          <AttributeID>Goles Favor</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="2658e2d4-dc7f-4408-adad-8a47b85528b5">
+          <AttributeID>Goles Contra</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="c8584f00-009c-495e-8652-5a0f2d63ed2f">
+          <AttributeID>Abreviatura</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="b69f157f-07c4-4962-bdcf-e4a19c74d761">
+          <AttributeID>Es Local</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="37206ba0-132e-4aeb-b244-6ddc12f81745">
+          <AttributeID>Cede</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="1f9606fd-b48c-4aeb-b59c-59ad3a257d8c">
+          <AttributeID>Año</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="853b4735-f12a-4b36-98ae-e410cfc4d722">
+          <AttributeID>Confederacion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="0f963c8c-9f33-4daa-a7d2-475e1795feca">
+          <AttributeID>Amarillas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="ffde9fa8-fcd9-4f8e-b796-1dd7232f6e91">
+          <AttributeID>Rojas Directas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="72b54e4f-5de2-488e-b106-b2ca139345a5">
+          <AttributeID>Partidos Jugados</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="aa799017-d71f-4759-a4b7-b453b2bcadbe">
+          <AttributeID>Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="4f780e5e-6274-405f-833e-2d64a6de77d4">
+          <AttributeID>Nombre</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="bfaccaab-6ae3-4dcc-bc37-d2105923d6ca">
+          <AttributeID>Id Seleccion Campeon</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="1dc07861-c3ac-40b0-8e86-40536863ba5b">
+      <ID>Id Mundial</ID>
+      <Name>Id Mundial</Name>
+      <DimensionID>Dim Equipo</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="b039a46b-ad59-43ff-99b5-c8d4db0e45e6">
+          <AttributeID>Id Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="84222e10-048d-4073-9d16-343e7b9e5c7d">
+          <AttributeID>Id Mundial</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="682936f7-ce71-4099-866d-3938cfcb0480">
+          <AttributeID>Id Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="c215919c-8378-4002-9084-5ca7d0ee701c">
+          <AttributeID>Equipo</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="4e9a4466-c825-4b0d-9b42-75b552c844fe">
+          <AttributeID>Goles Favor</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="19b18647-3403-418c-bca2-f7c597878d18">
+          <AttributeID>Goles Contra</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="eb92691c-538a-4d09-adc2-76042e24ade4">
+          <AttributeID>Abreviatura</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="9d4d8d31-7791-4d3e-8059-097d95656cdf">
+          <AttributeID>Es Local</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="9be8e779-5f03-4807-88ba-a72253f1603f">
+          <AttributeID>Cede</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="2ede7d39-c413-48b7-a2a9-d01aa0efc969">
+          <AttributeID>Año</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="758dfcb8-b18d-4980-b038-f13a85c12e26">
+          <AttributeID>Confederacion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="36b7a6fe-bf75-444c-ba1a-6185ce5b85dd">
+          <AttributeID>Amarillas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="c8d35c6f-4c50-424e-84ca-8778ac25a560">
+          <AttributeID>Rojas Directas</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="010451f8-cfae-4131-a56e-0f5c1a21134d">
+          <AttributeID>Partidos Jugados</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="1e959c57-b65c-4cdd-b1ef-89ac2d3c279e">
+          <AttributeID>Seleccion</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="ce94c635-2ae3-4ea1-9e96-e6e6755c28a5">
+          <AttributeID>Nombre</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="78d784cf-bbc4-4b1c-9268-9c5c4f7f6dc6">
+          <AttributeID>Id Seleccion Campeon</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+  </Dimensions>
+  <Perspectives>
+    <Perspective dwd:design-time-name="ce587698-f993-4925-808e-04ef036552af">
+      <ID>Perspectiva</ID>
+      <Name>Confederacion</Name>
+      <CreatedTimestamp>0001-01-01T06:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T06:00:00Z</LastSchemaUpdate>
+      <Dimensions>
+        <Dimension dwd:design-time-name="4e7cd2d8-abf4-47a1-ab32-8a9f3e4ab774">
+          <CubeDimensionID>Fact Gol</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="106098ae-b68b-4bfe-aa52-a1c443fbbf2a">
+              <AttributeID>Id Partido</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="943c362a-ceae-43e4-b3b3-8c57fa684a87">
+              <AttributeID>Fact Gol - Id Partido</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="5b832cd0-d332-4797-9ef5-b7764ed44b57">
+              <AttributeID>Id Equipo</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="11016946-9245-4ef1-9ac6-a614b2a8a014">
+              <AttributeID>Id Tiempo</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="29f302bd-921d-44d6-a73b-2342c3d627f9">
+              <AttributeID>Id Jugador</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="b1428695-3258-4e20-a13c-6a1ef36d10bc">
+              <AttributeID>Es Penal</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="5e6d927c-ff1e-4e48-8908-726f492498d2">
+              <AttributeID>Portero</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="bc2f9b00-7e70-4c84-bc31-ecdd024ee374">
+              <AttributeID>Es Autogol</AttributeID>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension dwd:design-time-name="fd05dbbd-67f2-4875-be90-b07907b2d1dc">
+          <CubeDimensionID>Dim Partido</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="24ead5ab-2797-4707-adbe-a61c366c0673">
+              <AttributeID>Id Partido</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="e3f79a32-1863-4d99-a08c-66f42ebdf90f">
+              <AttributeID>Id Tiempo Partido</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="db6f62ec-710c-4874-9761-9c35a8cd82bb">
+              <AttributeID>Fecha Equivalente</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="25df2cf6-e0bb-43e7-b086-cdfde4d7b47c">
+              <AttributeID>Goles Equipo1</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="acba34f1-a2ae-47c9-b9c9-3ea323cd48f9">
+              <AttributeID>Goles Equipo2</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="3db78614-e32d-42e7-aba5-d704221671b0">
+              <AttributeID>Grupo</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="e26b1c60-3e74-491a-b3d2-cf295c8df2f7">
+              <AttributeID>Fase</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="f2d606d2-abe7-4b28-892d-f6831a50b7b7">
+              <AttributeID>Id Equipo1</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="18810ee8-e479-4456-843e-75f85e6e1a98">
+              <AttributeID>Id Equipo2</AttributeID>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension dwd:design-time-name="edc06814-7413-4d6c-a000-778151ac5f75">
+          <CubeDimensionID>Dim Equipo</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="bffa6fea-33f8-438e-bbc7-e3ad13d09e7b">
+              <AttributeID>Id Equipo</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="d88b4065-c670-4b17-9062-f795af6dc700">
+              <AttributeID>Id Mundial</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="fb448b02-b69a-4567-9c38-fff1da7ee787">
+              <AttributeID>Id Seleccion</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="112dc5fb-78b1-4df5-bbd8-866b6370cb32">
+              <AttributeID>Equipo</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="1d0fbb94-b064-4281-b102-b17db4702e3d">
+              <AttributeID>Goles Favor</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="41c57fa1-c816-4009-8783-a2ec1c7c2679">
+              <AttributeID>Goles Contra</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="3c14deb1-c903-4321-9642-dd51f196b129">
+              <AttributeID>Abreviatura</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="0a059bb3-276b-4d3f-9c51-310419020323">
+              <AttributeID>Es Local</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="950a7c85-d211-4893-9a44-e300ffd4c50c">
+              <AttributeID>Cede</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="28f4b1b0-10ff-4243-a4c7-443b4d205fe5">
+              <AttributeID>Año</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="182ade2c-3623-4a60-949d-6dc4b40e72b0">
+              <AttributeID>Confederacion</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="7a7d69fc-33fc-4fc1-a706-841a7114c8d0">
+              <AttributeID>Amarillas</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="34d0c886-c470-47bb-81d8-0bf407aa0c5b">
+              <AttributeID>Rojas Directas</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="1aee84b8-feff-459f-8d1e-f85a527dee7f">
+              <AttributeID>Partidos Jugados</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="7cfc5e11-bf04-4a55-b710-25d523f100fe">
+              <AttributeID>Seleccion</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="9e93863e-e7cb-4e2d-b1d8-c744abeaf53d">
+              <AttributeID>Nombre</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="bec495d5-b59d-4504-9804-326cbedc28e4">
+              <AttributeID>Id Seleccion Campeon</AttributeID>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension dwd:design-time-name="34cf38d7-f2e4-4df1-bcb0-8f6e5e03b343">
+          <CubeDimensionID>Dim Jugador</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="9d92efa7-ac02-4549-a40a-10b5fbddc974">
+              <AttributeID>Id Jugador</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="1f05791e-f3d1-45b9-9d98-ec22469379ea">
+              <AttributeID>Equipo</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="56d3553c-0490-46c5-86d3-fc082d4dc929">
+              <AttributeID>Nombre</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="1cc0f5ed-98fb-4891-b0cb-902601a4dd6a">
+              <AttributeID>Posicion</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="465e0fbe-feb4-4195-83c2-f6511b886d6d">
+              <AttributeID>Edad</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="212ec7a5-d36e-46dd-8b27-7e49099b85b0">
+              <AttributeID>Club</AttributeID>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension dwd:design-time-name="7e7271ed-9be9-4929-a446-4b521081cad5">
+          <CubeDimensionID>Id Mundial</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="79a09155-295a-4075-880f-cbe059923c94">
+              <AttributeID>Id Equipo</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="873ffcf0-757b-4984-9a06-2d89880f0387">
+              <AttributeID>Id Mundial</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="60d7d624-07be-4c89-a98f-43e68b1ddf1b">
+              <AttributeID>Id Seleccion</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="9ab57a08-1f7b-4c6b-8bfe-8d8f2d2cd8e8">
+              <AttributeID>Equipo</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="62bdbdd0-8f42-4ac3-8d71-8669e9244c7e">
+              <AttributeID>Goles Favor</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="df8d0457-78af-4e07-8f9a-9c02330db42c">
+              <AttributeID>Goles Contra</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="bd5fbf47-7010-42ef-b7aa-19de5969f0c1">
+              <AttributeID>Abreviatura</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="b57d2fdc-35bb-4004-bb06-21d6c75ff70c">
+              <AttributeID>Es Local</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="1b40b3b3-6c36-4181-950a-f73083756c1f">
+              <AttributeID>Cede</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="9af6eae7-3a78-4932-b6dd-4627d4d77511">
+              <AttributeID>Año</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="afca88a2-d86b-4bde-9539-30c8dbdad42f">
+              <AttributeID>Confederacion</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="449ef057-f642-4f10-95c9-6a5b2e7f3ef4">
+              <AttributeID>Amarillas</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="95daed2c-f0e4-4228-9e1c-b9aec398ad99">
+              <AttributeID>Rojas Directas</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="6ac2a313-cb5c-487f-84b5-b0531a8cbfd2">
+              <AttributeID>Partidos Jugados</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="c5e0827f-2e68-485e-b412-6b0c80d4bc01">
+              <AttributeID>Seleccion</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="2c184aa1-f356-431c-94ac-db46a78976e5">
+              <AttributeID>Nombre</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="ca0303ef-1a94-43a9-bac7-0c0cb0186a2f">
+              <AttributeID>Id Seleccion Campeon</AttributeID>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension dwd:design-time-name="38d1117c-ab3a-48a7-afaa-bceb6e95c391">
+          <CubeDimensionID>Seleccion</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="d393a547-04d8-4767-a120-8c15b08d9f6b">
+              <AttributeID>Id Equipo</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="91fa1d1b-b7b0-4956-85ea-c86c19171a70">
+              <AttributeID>Id Mundial</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="fe005bdb-a909-4358-8d4e-1ab76d0c2803">
+              <AttributeID>Id Seleccion</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="af6f43c6-1636-463d-b62a-30cafab4801b">
+              <AttributeID>Equipo</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="76879d20-9783-47ed-babc-feeae4493009">
+              <AttributeID>Goles Favor</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="faae1db8-ef9a-4449-95c6-b6521a28578c">
+              <AttributeID>Goles Contra</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="4e4f518b-0b8d-463d-b8f8-a92a1300bdeb">
+              <AttributeID>Abreviatura</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="7823e767-5a38-4a63-87f9-5516dd68c6ff">
+              <AttributeID>Es Local</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="3c8c9f85-2fcf-4bde-a058-19ce8513a9d2">
+              <AttributeID>Cede</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="a4c31fc6-ae6f-4e1c-944b-fd96bfa87692">
+              <AttributeID>Año</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="64cff5bc-97c9-4457-bde7-8853c9f8c1a2">
+              <AttributeID>Confederacion</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="d0c03e4e-39f9-431f-a9fd-69b8349e2105">
+              <AttributeID>Amarillas</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="ec7c32d0-9787-46e3-bf46-c18a5e772d6d">
+              <AttributeID>Rojas Directas</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="33cac576-367c-45d7-b768-4854b8432624">
+              <AttributeID>Partidos Jugados</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="b923fbeb-a0e7-463f-96bd-ebb1ce67d388">
+              <AttributeID>Seleccion</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="cff2f120-6d76-4735-bb00-cfc73033037e">
+              <AttributeID>Nombre</AttributeID>
+            </Attribute>
+            <Attribute dwd:design-time-name="e959819b-d3ce-4b21-9996-e58fc3c59312">
+              <AttributeID>Id Seleccion Campeon</AttributeID>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+      </Dimensions>
+      <MeasureGroups>
+        <MeasureGroup dwd:design-time-name="58b4d9d0-e8f8-49f7-a0fb-131433748c72">
+          <MeasureGroupID>Dim Equipo</MeasureGroupID>
+          <Measures>
+            <Measure dwd:design-time-name="7aa8836a-45e6-493b-a4aa-750fb3d03b74">
+              <MeasureID>Partidos Jugados</MeasureID>
+            </Measure>
+            <Measure dwd:design-time-name="93ebe6b0-502a-44b7-a850-f325c1ce20df">
+              <MeasureID>Amarillas</MeasureID>
+            </Measure>
+            <Measure dwd:design-time-name="76333b2d-5687-4d8a-ad8f-ffc7389ac9d6">
+              <MeasureID>Rojas Directas</MeasureID>
+            </Measure>
+          </Measures>
+        </MeasureGroup>
+        <MeasureGroup dwd:design-time-name="ce25f9a4-356c-4273-bd64-f516cc8ae2b3">
+          <MeasureGroupID>Dim Jugador</MeasureGroupID>
+          <Measures>
+            <Measure dwd:design-time-name="ee4a85ae-0759-4a96-85ab-07b2d5ea48ad">
+              <MeasureID>Recuento Dim Jugador</MeasureID>
+            </Measure>
+          </Measures>
+        </MeasureGroup>
+        <MeasureGroup dwd:design-time-name="2df1937a-df23-4fc6-b1a3-bc4f3258af76">
+          <MeasureGroupID>Fact Gol</MeasureGroupID>
+          <Measures>
+            <Measure dwd:design-time-name="f6d648aa-412b-464a-a8fc-a120b672b617">
+              <MeasureID>Recuento Fact Gol</MeasureID>
+            </Measure>
+          </Measures>
+        </MeasureGroup>
+      </MeasureGroups>
+      <Calculations>
+        <Calculation dwd:design-time-name="e7859d89-3893-4298-bb44-79818be4d278">
+          <Name>[Measures].Amarillas_Rojas</Name>
+          <Type>Member</Type>
+        </Calculation>
+        <Calculation dwd:design-time-name="aa6e0124-1e1b-4ce2-a527-dd8d8c790892">
+          <Name>[Measures].Gol_Pais_Partido</Name>
+          <Type>Member</Type>
+        </Calculation>
+      </Calculations>
+      <Kpis>
+        <Kpi dwd:design-time-name="1bfa5845-d8c2-4a2b-8f62-905b96fa025f">
+          <KpiID>KPI</KpiID>
+        </Kpi>
+        <Kpi dwd:design-time-name="7e553636-84ef-435e-86bc-782dea658b36">
+          <KpiID>KPI 1</KpiID>
+        </Kpi>
+        <Kpi dwd:design-time-name="6d32ce4d-0d7e-4610-a2c5-5817d7e527a7">
+          <KpiID>KPI 2</KpiID>
+        </Kpi>
+        <Kpi dwd:design-time-name="3552a0fd-bf9b-476a-928d-6aaee41a89b8">
+          <KpiID>KPI 3</KpiID>
+        </Kpi>
+      </Kpis>
+    </Perspective>
+  </Perspectives>
+  <MeasureGroups>
+    <MeasureGroup dwd:design-time-name="1e2997da-aa0f-452f-b033-a9efdf14227f">
+      <ID>Fact Gol</ID>
+      <Name>Fact Gol</Name>
+      <CreatedTimestamp>0001-01-01T06:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T06:00:00Z</LastSchemaUpdate>
+      <LastProcessed>0001-01-01T06:00:00Z</LastProcessed>
+      <State>Unprocessed</State>
+      <Measures>
+        <Measure dwd:design-time-name="8bab431c-2224-4f03-8af9-05e3730996fe">
+          <ID>Recuento Fact Gol</ID>
+          <Name>Recuento Fact Gol</Name>
+          <AggregateFunction>Count</AggregateFunction>
+          <Source dwd:design-time-name="71f05874-7527-426b-8c2d-ae518749e68d">
+            <DataType>Integer</DataType>
+            <DataSize>4</DataSize>
+            <Source xsi:type="RowBinding" dwd:design-time-name="8e78eb13-af9b-4f92-bbfe-dc58211c84cf">
+              <TableID>dbo_Fact_Gol</TableID>
+            </Source>
+          </Source>
+        </Measure>
+      </Measures>
+      <StorageMode>Molap</StorageMode>
+      <ProcessingMode>Regular</ProcessingMode>
+      <Dimensions>
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="3467c197-fc61-4cec-a2b3-98d2f6688c9e">
+          <CubeDimensionID>Fact Gol</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="41917ab0-a025-4e52-b629-8064f90f2aa2">
+              <AttributeID>Id Partido</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="cdb1bffa-c3dc-4d8d-b127-16b0ba6e1060">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="bad5fa50-4e67-4d1a-abe9-5c2101585623">
+                    <TableID>dbo_Fact_Gol</TableID>
+                    <ColumnID>id_partido</ColumnID>
+                  </Source>
+                </KeyColumn>
+                <KeyColumn dwd:design-time-name="2cf6e2a5-8bbf-4662-a51d-fb0bc8381ccf">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="7a6003bd-9d5c-4cab-946e-c8d33321bb1e">
+                    <TableID>dbo_Fact_Gol</TableID>
+                    <ColumnID>id_equipo</ColumnID>
+                  </Source>
+                </KeyColumn>
+                <KeyColumn dwd:design-time-name="6482476b-dc6e-4233-b97f-6224b1047ec9">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="53470800-e217-4a20-b542-f37cfe80a7c2">
+                    <TableID>dbo_Fact_Gol</TableID>
+                    <ColumnID>id_jugador</ColumnID>
+                  </Source>
+                </KeyColumn>
+                <KeyColumn dwd:design-time-name="191c66ee-944e-481b-965c-76caa6505cb5">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="61e24f77-acbf-4bb2-9cfe-88b40e2ff130">
+                    <TableID>dbo_Fact_Gol</TableID>
+                    <ColumnID>id_tiempo</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="de2fea39-6572-423b-99ff-b73fa8069754">
+          <CubeDimensionID>Dim Partido</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="e8b22599-12cc-4a54-a40b-2bc73e266d6c">
+              <AttributeID>Id Partido</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="c4782eee-fd7c-4786-8540-4092340bb936">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="5d79947d-0e09-4937-8234-624dc15990a3">
+                    <TableID>dbo_Fact_Gol</TableID>
+                    <ColumnID>id_partido</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="67c700ee-3bb8-4079-8fc6-3d6a24bfe3d5">
+          <CubeDimensionID>Dim Equipo</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="3d905173-73da-44a2-9000-dae35fb54c76">
+              <AttributeID>Id Equipo</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="166ffbc1-d04b-44e5-a101-d05adf222d84">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="2f3280a4-e14e-496c-8029-e96286ed66e7">
+                    <TableID>dbo_Fact_Gol</TableID>
+                    <ColumnID>id_equipo</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="bbe9ae05-a2ac-4026-88a5-b049d394572e">
+          <CubeDimensionID>Dim Tiempo Gol</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="9ea18888-2371-4273-bf77-bd38753b56a9">
+              <AttributeID>Id Tiempo</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="f30e5216-42da-4d89-8cf7-e37231417f74">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="3610394e-3897-4412-8a04-26af36d63f76">
+                    <TableID>dbo_Fact_Gol</TableID>
+                    <ColumnID>id_tiempo</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="e2531132-f897-4530-9665-9b405fe10e40">
+          <CubeDimensionID>Dim Jugador</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="5a86b957-4160-46e2-a788-2ed619f7a172">
+              <AttributeID>Id Jugador</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="5a0d9b25-9638-4838-8414-81b59b536207">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="3c5c9493-c31f-467a-9c65-7ad077815f3f">
+                    <TableID>dbo_Fact_Gol</TableID>
+                    <ColumnID>id_jugador</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="e63e2a27-072b-421f-ad22-cf81b2f10560">
+          <CubeDimensionID>Dim Jugador - Equipo</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="bb02c2ad-201b-4ead-9a89-3f0eed0d8c6c">
+              <AttributeID>Id Equipo</AttributeID>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+          <IntermediateCubeDimensionID>Dim Jugador</IntermediateCubeDimensionID>
+          <IntermediateGranularityAttributeID>Equipo</IntermediateGranularityAttributeID>
+          <Materialization>Regular</Materialization>
+          <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+        </Dimension>
+      </Dimensions>
+    </MeasureGroup>
+    <MeasureGroup dwd:design-time-name="de67d3ef-ec0b-4a79-8945-e862200bbefe">
+      <ID>Dim Equipo</ID>
+      <Name>Dim Equipo</Name>
+      <CreatedTimestamp>0001-01-01T06:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T06:00:00Z</LastSchemaUpdate>
+      <LastProcessed>0001-01-01T06:00:00Z</LastProcessed>
+      <State>Unprocessed</State>
+      <Measures>
+        <Measure dwd:design-time-name="7607e83f-bcb3-44bf-856c-09e8345cc7c8">
+          <ID>Partidos Jugados</ID>
+          <Name>Partidos Jugados</Name>
+          <Source dwd:design-time-name="45bef3f7-08fc-4a8e-b38d-fadbbb052cc8">
+            <DataType>Integer</DataType>
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="ddf8ccca-f7b6-4479-9394-ac7d8906a631">
+              <TableID>dbo_Dim_Equipo</TableID>
+              <ColumnID>partidos_jugados</ColumnID>
+            </Source>
+          </Source>
+        </Measure>
+        <Measure dwd:design-time-name="8ebbb049-5971-4d2b-986b-7cc1f5b3ec1e">
+          <ID>Amarillas</ID>
+          <Name>Amarillas</Name>
+          <Source dwd:design-time-name="2c88b572-bedb-4807-9812-379c10fae620">
+            <DataType>Integer</DataType>
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="c6109f28-650e-4f28-b075-1fbe71de8be8">
+              <TableID>dbo_Dim_Equipo</TableID>
+              <ColumnID>amarillas</ColumnID>
+            </Source>
+          </Source>
+        </Measure>
+        <Measure dwd:design-time-name="950154a8-79a1-4e1d-a78c-90b819fc788c">
+          <ID>Rojas Directas</ID>
+          <Name>Rojas Directas</Name>
+          <Source dwd:design-time-name="b390aa5d-99ae-4248-afc4-72b7314cc582">
+            <DataType>Integer</DataType>
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="2db9357b-e2c9-4f8b-8e57-6e7ef2de1b50">
+              <TableID>dbo_Dim_Equipo</TableID>
+              <ColumnID>rojas_directas</ColumnID>
+            </Source>
+          </Source>
+        </Measure>
+      </Measures>
+      <StorageMode>Molap</StorageMode>
+      <ProcessingMode>Regular</ProcessingMode>
+      <Dimensions>
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="8be75bf8-d2b0-4782-91b0-b4c8e9f733f7">
+          <CubeDimensionID>Dim Equipo</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="8a22aaf4-a668-4ce4-a462-f09e310eef67">
+              <AttributeID>Id Equipo</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="feba1189-8668-40e7-9fcd-369526cc7c01">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="f9439bdf-16da-4b7c-9d61-4739b000227a">
+                    <TableID>dbo_Dim_Equipo</TableID>
+                    <ColumnID>id_equipo</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="e8a53a4a-a8f2-401e-b2b6-aa45fa89c6d2">
+          <CubeDimensionID>Dim Partido - Id Equipo1</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="a6500485-921c-4d80-93f4-ee9f6904316b">
+              <AttributeID>Id Equipo</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="56635de2-2e8c-476f-a96d-2a122eae18e1">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="2a4d45bc-54f5-4639-abf6-971d9e274467">
+                    <TableID>dbo_Dim_Equipo</TableID>
+                    <ColumnID>id_equipo</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="15c709d8-4cf0-4115-aa67-48af5aa5ea0f">
+          <CubeDimensionID>Dim Partido - Id Equipo2</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="46b1258b-04df-4fb5-bc60-8404904406be">
+              <AttributeID>Id Equipo</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="626f51eb-d5d2-44ab-a307-bc215c658a62">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="998bf5f4-d613-42c6-b034-e69de5f9b4ad">
+                    <TableID>dbo_Dim_Equipo</TableID>
+                    <ColumnID>id_equipo</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="3899d6a1-1390-496a-a684-e9040b874178">
+          <CubeDimensionID>Dim Jugador - Equipo</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="e6fe3e76-545c-4bcc-922c-54bb26aa3b3e">
+              <AttributeID>Id Equipo</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="3046f75e-cace-4649-8fad-3ce79cd3897e">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="d655d45d-5d3e-4f55-95fe-87e6b12dc3d4">
+                    <TableID>dbo_Dim_Equipo</TableID>
+                    <ColumnID>id_equipo</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="b2fc141f-b1dd-40ef-a32f-cf428bbc2c45">
+          <CubeDimensionID>Id Equipo2</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="6367147c-957b-48e3-b3dc-71064d84653c">
+              <AttributeID>Id Equipo</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="a4239b36-4c00-45fc-b40b-9b9ef22284f1">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="932358fb-e74b-40f8-bcd3-155b9ed707a7">
+                    <TableID>dbo_Dim_Equipo</TableID>
+                    <ColumnID>id_equipo</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="238e0a03-3c16-4386-8782-4e3dd3d4ac51">
+          <CubeDimensionID>Id Equipo1</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="940c7f9f-18c4-4f68-bb10-89386f9c941e">
+              <AttributeID>Id Equipo</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="4a5acc71-5107-491c-b9ae-d683a2b70899">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="896cb6e1-a222-4317-bf8e-df60712129f7">
+                    <TableID>dbo_Dim_Equipo</TableID>
+                    <ColumnID>id_equipo</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="b28e7280-af1e-473f-87f6-925fb5792d62">
+          <CubeDimensionID>Seleccion</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="fdf63c16-60a8-40e7-b5e5-5c6fab387246">
+              <AttributeID>Id Equipo</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="5f8e7aff-97d3-44e0-bfe0-183073413c39">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="76cdff9c-2b72-4730-bc26-5bc2a5094ef1">
+                    <TableID>dbo_Dim_Equipo</TableID>
+                    <ColumnID>id_equipo</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="c42b24dc-7046-466b-8b4e-4e305c502e93">
+          <CubeDimensionID>Id Mundial</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="fc3f01ef-d980-4001-8efe-00cdf1f9e784">
+              <AttributeID>Id Equipo</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="532ef41c-1e4e-4c7e-a3aa-1481874b8293">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="3f285854-e8b4-4f0f-9125-474f15f4b80a">
+                    <TableID>dbo_Dim_Equipo</TableID>
+                    <ColumnID>id_equipo</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+      </Dimensions>
+    </MeasureGroup>
+    <MeasureGroup dwd:design-time-name="1c8b10e1-0827-4f10-81bc-4acf5abd20fc">
+      <ID>Dim Jugador</ID>
+      <Name>Dim Jugador</Name>
+      <CreatedTimestamp>0001-01-01T06:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T06:00:00Z</LastSchemaUpdate>
+      <LastProcessed>0001-01-01T06:00:00Z</LastProcessed>
+      <State>Unprocessed</State>
+      <Measures>
+        <Measure dwd:design-time-name="e0e9e3b8-505e-493c-be3a-7fb0ee90c899">
+          <ID>Recuento Dim Jugador</ID>
+          <Name>Recuento Dim Jugador</Name>
+          <AggregateFunction>Count</AggregateFunction>
+          <Source dwd:design-time-name="ec9f55d4-73ef-4eda-a5ec-1de1b42938d9">
+            <DataType>Integer</DataType>
+            <DataSize>4</DataSize>
+            <Source xsi:type="RowBinding" dwd:design-time-name="1f258a0f-e005-43bd-a8da-d620765bc5b5">
+              <TableID>dbo_Dim_Jugador</TableID>
+            </Source>
+          </Source>
+        </Measure>
+      </Measures>
+      <StorageMode>Molap</StorageMode>
+      <ProcessingMode>Regular</ProcessingMode>
+      <Dimensions>
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="93a56c9f-80ed-4fbc-814c-332ec7a67ecf">
+          <CubeDimensionID>Dim Jugador</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="25c29b55-7e41-48eb-bc62-809e18733f6d">
+              <AttributeID>Id Jugador</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="c06053f9-7a1e-4597-a985-fdc60a994a01">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="a73f29a6-fdcd-440c-9a89-14384f76bab3">
+                    <TableID>dbo_Dim_Jugador</TableID>
+                    <ColumnID>id_jugador</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="8f8889b9-e514-4d85-85a4-90806a0abda1">
+          <CubeDimensionID>Dim Equipo</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="bbafa13c-f57b-48fa-912e-da87737c4475">
+              <AttributeID>Id Equipo</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="6f56afc4-21bc-4b94-90b2-69b1d4d5bcab">
+                  <DataType>BigInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="0b6ead8f-0b04-4716-ab9c-efb57ebd270d">
+                    <TableID>dbo_Dim_Jugador</TableID>
+                    <ColumnID>equipo</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+      </Dimensions>
+    </MeasureGroup>
+  </MeasureGroups>
+  <Source dwd:design-time-name="d6ea416b-1851-4516-8d86-13b6ddecb003">
+    <DataSourceViewID>Mundial</DataSourceViewID>
+  </Source>
+  <MdxScripts>
+    <MdxScript dwd:design-time-name="b61fb792-95d7-4bb5-8577-961c967db2c9">
+      <ID>MdxScript</ID>
+      <Name>MdxScript</Name>
+      <CreatedTimestamp>0001-01-01T06:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T06:00:00Z</LastSchemaUpdate>
+      <Commands>
+        <Command>
+          <Text>/*
+El comando CALCULATE controla la agregación de celdas hoja en el cubo.
+Si se elimina o modifica el comando CALCULATE, se ven afectados los datos del cubo.
+Solo debe editar este comando si especifica manualmente cómo se agrega el cubo.
+*/
+CALCULATE;    
+CREATE MEMBER CURRENTCUBE.[Measures].Gol_Pais_Partido
+ AS ([Dim Equipo].[Nombre],[Measures].[Recuento Fact Gol])/([Dim Equipo].[Nombre],[Measures].[Partidos Jugados]), 
+VISIBLE = 1;  
+CREATE MEMBER CURRENTCUBE.[Measures].Amarillas_Rojas
+ AS [Measures].[Amarillas]+[Measures].[Rojas Directas], 
+VISIBLE = 1  ; </Text>
+        </Command>
+      </Commands>
+    </MdxScript>
+  </MdxScripts>
+  <Kpis>
+    <Kpi dwd:design-time-name="0e5c71d7-0369-440c-b985-48bd157f348f">
+      <ID>KPI</ID>
+      <Name>Top_Amarillas</Name>
+      <Value>([Dim Equipo].[Confederacion],[Measures].[Amarillas])/([Dim Equipo].[Confederacion].[All],[Measures].[Amarillas])</Value>
+      <Goal>0.2</Goal>
+      <Status>CASE
+    WHEN KPIVALUE("Top_Amarillas") &gt; KPIGOAL("Top_Amarillas") THEN 1
+    WHEN KPIVALUE("Top_Amarillas") &lt; KPIGOAL("Top_Amarillas") THEN -1
+    WHEN KPIVALUE("Top_Amarillas") = KPIGOAL("Top_Amarillas") THEN 0
+END</Status>
+      <TrendGraphic>Standard Arrow</TrendGraphic>
+      <StatusGraphic>Gauge - Descending</StatusGraphic>
+    </Kpi>
+    <Kpi dwd:design-time-name="e8253143-56f4-4819-8983-4ca0fbea3d3a">
+      <ID>KPI 1</ID>
+      <Name>Top_Rojas</Name>
+      <Value>([Dim Equipo].[Confederacion],[Measures].[Rojas Directas])/([Dim Equipo].[Confederacion].[All],[Measures].[Rojas Directas])</Value>
+      <Goal>0.2</Goal>
+      <Status>CASE
+    WHEN KPIVALUE("Top_Amarillas") &gt; KPIGOAL("Top_Amarillas") THEN 1
+    WHEN KPIVALUE("Top_Amarillas") &lt; KPIGOAL("Top_Amarillas") THEN -1
+    WHEN KPIVALUE("Top_Amarillas") = KPIGOAL("Top_Amarillas") THEN 0
+END</Status>
+      <TrendGraphic>Standard Arrow</TrendGraphic>
+      <StatusGraphic>Traffic Light</StatusGraphic>
+    </Kpi>
+    <Kpi dwd:design-time-name="c0f644f8-6d1b-47f7-ae55-37a7e229eeb9">
+      <ID>KPI 2</ID>
+      <Name>Total_Rojas_Amarillas</Name>
+      <Value>([Dim Equipo].[Confederacion],[Measures].[Amarillas_Rojas])/([Dim Equipo].[Confederacion].[All],[Measures].[Amarillas_Rojas])</Value>
+      <Goal>0.1</Goal>
+      <Status>CASE
+    WHEN KPIVALUE("Top_Amarillas") &gt; KPIGOAL("Top_Amarillas") THEN 1
+    WHEN KPIVALUE("Top_Amarillas") &lt; KPIGOAL("Top_Amarillas") THEN -1
+    WHEN KPIVALUE("Top_Amarillas") = KPIGOAL("Top_Amarillas") THEN 0
+END</Status>
+      <TrendGraphic>Standard Arrow</TrendGraphic>
+      <StatusGraphic>Traffic Light</StatusGraphic>
+    </Kpi>
+    <Kpi dwd:design-time-name="bf54cf5d-57f0-4ce5-920d-162c868c8a44">
+      <ID>KPI 3</ID>
+      <Name>Confederacion_Menor_Goles</Name>
+      <Value>[Measures].[Gol_Pais_Partido]</Value>
+      <Goal>1</Goal>
+      <Status>CASE
+    WHEN KPIVALUE("Top_Amarillas") &gt; KPIGOAL("Top_Amarillas") THEN 1
+    WHEN KPIVALUE("Top_Amarillas") &lt; KPIGOAL("Top_Amarillas") THEN -1
+    WHEN KPIVALUE("Top_Amarillas") = KPIGOAL("Top_Amarillas") THEN 0
+END</Status>
+      <TrendGraphic>Standard Arrow</TrendGraphic>
+      <StatusGraphic>Traffic Light</StatusGraphic>
+    </Kpi>
+  </Kpis>
+</Cube>

@@ -1,0 +1,103 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>CuboMundial</Database>
+    <Server>localhost</Server>
+    <ConnectionString>Data Source=localhost;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>+kMHSexkcELwUl/GvjyBmvCh8Jg=19/05/2022 8:48:0319/05/2022 8:48:03</TimeStamp>
+        <ID>
+          <String>Mundial</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>LaAXkW120y6gOBHhgrD1nLUhrKs=19/05/2022 11:48:2719/05/2022 8:48:21</TimeStamp>
+        <ID>
+          <String>Mundial</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>zDPos30+9Kglj7uy2ltRLeg0Zag=19/05/2022 12:55:2419/05/2022 8:50:15</TimeStamp>
+        <ID>
+          <String>Dim Partido</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>jinaI0UK25Tz3CpXmLX7+pNSTk4=19/05/2022 15:59:3719/05/2022 8:50:15</TimeStamp>
+        <ID>
+          <String>Dim Equipo</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>8EiThZdWSG6R5AW4bCyO54feq2M=19/05/2022 8:53:2519/05/2022 8:50:15</TimeStamp>
+        <ID>
+          <String>Dim Tiempo Gol</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>lHqp6E1qarc8kvOEjPTxApCfMuM=19/05/2022 8:53:5019/05/2022 8:50:15</TimeStamp>
+        <ID>
+          <String>Dim Jugador</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>pRiFqMoa0g20AzJpJw+gaH1Raxk=19/05/2022 8:50:3819/05/2022 8:50:15</TimeStamp>
+        <ID>
+          <String>Fact Gol</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>2A3tbebvUMabXQ96HPKUl8fOvQc=19/05/2022 16:25:0319/05/2022 8:50:15LbLUXvmwU9KUQu12mDSeaXJy+aM=19/05/2022 15:07:3019/05/2022 8:50:15</TimeStamp>
+        <ID>
+          <String>Mundial</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>avjdHgVAHpK38H81mSTyfj6Fn00=19/05/2022 15:59:3719/05/2022 11:14:27AED1wDnAN5shsaJ0vcMW59auGzE=19/05/2022 11:14:2719/05/2022 11:14:27</TimeStamp>
+        <ID>
+          <String>Equipos</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>3TRFYjD8IN78xbIHaMA43vlWzfA=19/05/2022 15:59:3719/05/2022 11:20:26h1rUPPl+klvShk/817SmEYHYBow=19/05/2022 11:20:2719/05/2022 11:20:27</TimeStamp>
+        <ID>
+          <String>Jugador</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>D+MFMWl+e1wQj2Jeg6Dtsx/unP8=17/05/2022 22:51:4816/05/2022 16:15:43</TimeStamp>
+      <ID>
+        <String>CuboMundial</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2022-05-19T22:25:22.073333Z</LastDeployed>
+</DeploymentSnapshot>

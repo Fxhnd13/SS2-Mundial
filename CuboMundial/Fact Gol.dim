@@ -1,0 +1,271 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="5264ac59-11b4-461f-9fc3-bd7dff8c28fa" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Fact Gol</ID>
+  <Name>Fact Gol</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2957" scrolltop="-7102" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="8954" y="17590" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Fact_Gol" left="-467" top="-169" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="3387" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000b80b00003b0d0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Fact_Gol" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-2957</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-7102</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>-467</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>-169</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="337bf857-d9a9-4d2f-8263-c7130c889865">
+    <DataSourceViewID>Mundial</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="a5a6cd2d-ebe7-4bf1-843d-7cf57bdce516">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="665f0770-fdff-4632-9043-d265efa30861">
+      <ID>Id Partido</ID>
+      <Name>Id Partido</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="8e252fa7-4830-4feb-aea0-929fe5a5620d">
+          <DataType>BigInt</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a922cc61-35d8-435f-9659-d1c8e50bfb2a">
+            <TableID>dbo_Fact_Gol</TableID>
+            <ColumnID>id_partido</ColumnID>
+          </Source>
+        </KeyColumn>
+        <KeyColumn dwd:design-time-name="c44afd3d-96d9-4268-9e94-e633eca15acc">
+          <DataType>BigInt</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="2a48fc5e-f748-4359-87ce-5c15021cb0ae">
+            <TableID>dbo_Fact_Gol</TableID>
+            <ColumnID>id_equipo</ColumnID>
+          </Source>
+        </KeyColumn>
+        <KeyColumn dwd:design-time-name="fdfd7b73-a1a8-4b77-8481-aeebf103d3d3">
+          <DataType>BigInt</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="72b566cd-0726-4878-9d6b-41d415830221">
+            <TableID>dbo_Fact_Gol</TableID>
+            <ColumnID>id_jugador</ColumnID>
+          </Source>
+        </KeyColumn>
+        <KeyColumn dwd:design-time-name="591f4c45-2fc4-49e2-891f-dad2c6fd2c03">
+          <DataType>BigInt</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="43c49f0d-039e-4299-b177-7b7b8e18940e">
+            <TableID>dbo_Fact_Gol</TableID>
+            <ColumnID>id_tiempo</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <NameColumn dwd:design-time-name="83dea0a3-837a-4308-8058-77f914865077">
+        <DataType>WChar</DataType>
+        <Source xsi:type="ColumnBinding" dwd:design-time-name="4932c9db-5e78-4be0-9ee9-156eb0c89880">
+          <TableID>dbo_Fact_Gol</TableID>
+          <ColumnID>id_partido</ColumnID>
+        </Source>
+      </NameColumn>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="4d6dedd4-d74a-4b62-b7a4-f022015c3693">
+          <AttributeID>Fact Gol - Id Partido</AttributeID>
+          <Name>Fact Gol - Id Partido</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="eb6ea25a-d5b0-409f-a370-2ab460ac37a0">
+          <AttributeID>Id Equipo</AttributeID>
+          <Name>Id Equipo</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="1c637aba-cbd8-4fca-84a6-7fb4138b28b2">
+          <AttributeID>Id Tiempo</AttributeID>
+          <Name>Id Tiempo</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="962879a3-fc1d-4aa1-8d97-9a880bc29c53">
+          <AttributeID>Id Jugador</AttributeID>
+          <Name>Id Jugador</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="12f52515-1f8a-4c7f-8428-ed5f29d06c63">
+          <AttributeID>Es Penal</AttributeID>
+          <Name>Es Penal</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="0be04745-8e9c-49be-b519-f7d732307e15">
+          <AttributeID>Portero</AttributeID>
+          <Name>Portero</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="ecaecaa3-e31e-4a61-9720-833dc9963dbb">
+          <AttributeID>Es Autogol</AttributeID>
+          <Name>Es Autogol</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="51d860d5-f11e-49d2-9e04-dd7f3e755900">
+      <ID>Fact Gol - Id Partido</ID>
+      <Name>Fact Gol - Id Partido</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="cd2da0b4-7a06-4250-910d-2a3e836747df">
+          <DataType>BigInt</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="27e05bc7-adc3-4c11-a997-8c12143c3d5a">
+            <TableID>dbo_Fact_Gol</TableID>
+            <ColumnID>id_partido</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="5ba64a09-e50a-4d81-b94a-c916083d1133">
+      <ID>Id Equipo</ID>
+      <Name>Id Equipo</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="e58e35fa-d9ad-45cd-a943-6f79dd7cf276">
+          <DataType>BigInt</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="38266aa4-a39e-4ac3-a5e0-a41ca043daf2">
+            <TableID>dbo_Fact_Gol</TableID>
+            <ColumnID>id_equipo</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="18ed48af-837a-43b7-8a13-906f47c10100">
+      <ID>Id Tiempo</ID>
+      <Name>Id Tiempo</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="fbd593cb-b3dc-4a19-b9fd-6f620d869d60">
+          <DataType>BigInt</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="054ac7f7-756f-4d19-be6d-99879102e402">
+            <TableID>dbo_Fact_Gol</TableID>
+            <ColumnID>id_tiempo</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="b04666bb-cfc0-48c0-a106-198caf040a89">
+      <ID>Id Jugador</ID>
+      <Name>Id Jugador</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="6d9665e2-8c6c-447e-bae4-48d55432700c">
+          <DataType>BigInt</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="2d762c11-2889-44a5-b851-60d63fc34a2f">
+            <TableID>dbo_Fact_Gol</TableID>
+            <ColumnID>id_jugador</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="929ebfea-244e-4209-a096-07f54a846862">
+      <ID>Es Penal</ID>
+      <Name>Es Penal</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="12f54d58-2d70-4a41-9e66-bc9b556da854">
+          <DataType>Boolean</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="99fb482f-7f53-4ebb-ba63-ad49f7a2159b">
+            <TableID>dbo_Fact_Gol</TableID>
+            <ColumnID>esPenal</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="9d12ca3f-652e-491f-9692-a91c37b91937">
+      <ID>Portero</ID>
+      <Name>Portero</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="5e720fe2-506b-4e52-bb76-5c609110b588">
+          <DataType>WChar</DataType>
+          <DataSize>25</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="9ddfbb5a-e745-4b03-a0a9-6b453a78f865">
+            <TableID>dbo_Fact_Gol</TableID>
+            <ColumnID>portero</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="79751ea8-b6d7-44b5-abe2-a92edfd7e5af">
+      <ID>Es Autogol</ID>
+      <Name>Es Autogol</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="b20f4933-8b59-4f67-b809-b963a3135ffd">
+          <DataType>Boolean</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="78e17ba4-b06e-45c1-91e6-e12892ac30cb">
+            <TableID>dbo_Fact_Gol</TableID>
+            <ColumnID>esAutogol</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>
